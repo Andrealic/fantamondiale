@@ -1,0 +1,1250 @@
+fanta_role,name,team_name,value,club_goals_current_season,national_goals_current_season,national_appearances_current_season,national_team_matches_current_season,national_presence_ratio_current_season,transfermarkt_player_url,transfermarkt_match_status
+gk,Simon,SPA,17,,,,,,,skipped_role
+gk,Martinez E.,ARG,16,,,,,,,skipped_role
+gk,Neuer,GER,15,,,,,,,skipped_role
+gk,Alisson,BRA,14,,,,,,,skipped_role
+gk,Diogo Costa,POR,14,,,,,,,skipped_role
+gk,Maignan,FRA,13,,,,,,,skipped_role
+gk,Courtois,BEL,12,,,,,,,skipped_role
+gk,Verbruggen,OLA,12,,,,,,,skipped_role
+gk,Kobel,SVI,11,,,,,,,skipped_role
+gk,Pickford,ING,11,,,,,,,skipped_role
+gk,Nyland,NOR,10,,,,,,,skipped_role
+gk,Mendy E.,SEN,9,,,,,,,skipped_role
+gk,Freese,USA,8,,,,,,,skipped_role
+gk,Roefs,OLA,8,,,,,,,skipped_role
+gk,Gill,PAR,7,,,,,,,skipped_role
+gk,Livakovic,CRO,7,,,,,,,skipped_role
+gk,Williams,SAF,7,,,,,,,skipped_role
+gk,Ederson,BRA,6,,,,,,,skipped_role
+gk,Gunn,SCO,6,,,,,,,skipped_role
+gk,Kovar,RCE,6,,,,,,,skipped_role
+gk,Muslera,URU,6,,,,,,,skipped_role
+gk,Schlager A.,AUT,6,,,,,,,skipped_role
+gk,Suzuki,JAP,6,,,,,,,skipped_role
+gk,Al-Aqidi,SAU,5,,,,,,,skipped_role
+gk,Johansson,SVE,5,,,,,,,skipped_role
+gk,Montero,COL,5,,,,,,,skipped_role
+gk,Rangel,MEX,5,,,,,,,skipped_role
+gk,Ryan,AUS,5,,,,,,,skipped_role
+gk,Seung-Gyu Kim,KOR,5,,,,,,,skipped_role
+gk,Alban Lafont,CIV,4,,,,,,,skipped_role
+gk,Beiranvand,IRN,4,,,,,,,skipped_role
+gk,Bounou,MAR,4,,,,,,,skipped_role
+gk,Cakir,TUR,4,,,,,,,skipped_role
+gk,El Shenawy,EGY,4,,,,,,,skipped_role
+gk,Galindez,ECU,4,,,,,,,skipped_role
+gk,Rochet,URU,4,,,,,,,skipped_role
+gk,Vasilj,BOS,4,,,,,,,skipped_role
+gk,Asare,GHA,3,,,,,,,skipped_role
+gk,Baumann,GER,3,,,,,,,skipped_role
+gk,Bayindir,TUR,3,,,,,,,skipped_role
+gk,Crepeau,CAN,3,,,,,,,skipped_role
+gk,Dahmen,TUN,3,,,,,,,skipped_role
+gk,Mpasi-Nzau,COD,3,,,,,,,skipped_role
+gk,Raya,SPA,3,,,,,,,skipped_role
+gk,St. Clair,CAN,3,,,,,,,skipped_role
+gk,Trafford,ING,3,,,,,,,skipped_role
+gk,Vozinha,CPV,3,,,,,,,skipped_role
+gk,Zidane,ALG,3,,,,,,,skipped_role
+gk,Fofana,CIV,2,,,,,,,skipped_role
+gk,Henderson D.,ING,2,,,,,,,skipped_role
+gk,Shobeir,EGY,2,,,,,,,skipped_role
+gk,Zigi,GHA,2,,,,,,,skipped_role
+gk,Abulaila,GRD,1,,,,,,,skipped_role
+gk,Abunada,QAT,1,,,,,,,skipped_role
+gk,Acevedo,MEX,1,,,,,,,skipped_role
+gk,Al-Fakhouri,GRD,1,,,,,,,skipped_role
+gk,Al-Kassar,SAU,1,,,,,,,skipped_role
+gk,Al-Owais,SAU,1,,,,,,,skipped_role
+gk,Alaa M.,EGY,1,,,,,,,skipped_role
+gk,Anang,GHA,1,,,,,,,skipped_role
+gk,Bani Attiah,GRD,1,,,,,,,skipped_role
+gk,Barsham,QAT,1,,,,,,,skipped_role
+gk,Beach,AUS,1,,,,,,,skipped_role
+gk,Ben Hessen,TUN,1,,,,,,,skipped_role
+gk,Benbout,ALG,1,,,,,,,skipped_role
+gk,Bodak,CUW,1,,,,,,,skipped_role
+gk,Boom-Keun Song,KOR,1,,,,,,,skipped_role
+gk,Brady,USA,1,,,,,,,skipped_role
+gk,CJ Dos Santos,CPV,1,,,,,,,skipped_role
+gk,Camilo Vargas,COL,1,,,,,,,skipped_role
+gk,Chaine,SAF,1,,,,,,,skipped_role
+gk,Chamakh,TUN,1,,,,,,,skipped_role
+gk,Crocombe,NZL,1,,,,,,,skipped_role
+gk,Da Rosa,CPV,1,,,,,,,skipped_role
+gk,Diaw,SEN,1,,,,,,,skipped_role
+gk,Diouf,SEN,1,,,,,,,skipped_role
+gk,Doornbusch,CUW,1,,,,,,,skipped_role
+gk,Duverger,HAI,1,,,,,,,skipped_role
+gk,El Kajoui,MAR,1,,,,,,,skipped_role
+gk,Epolo,COD,1,,,,,,,skipped_role
+gk,Ergashev,UZB,1,,,,,,,skipped_role
+gk,Fadhil,IRQ,1,,,,,,,skipped_role
+gk,Fayulu,COD,1,,,,,,,skipped_role
+gk,Fernandez,PAR,1,,,,,,,skipped_role
+gk,Flekken,OLA,1,,,,,,,skipped_role
+gk,Goodman,CAN,1,,,,,,,skipped_role
+gk,Gordon C.,SCO,1,,,,,,,skipped_role
+gk,Goss,SAF,1,,,,,,,skipped_role
+gk,Gunok,TUR,1,,,,,,,skipped_role
+gk,Hadzikic,BOS,1,,,,,,,skipped_role
+gk,Hassan J.,IRQ,1,,,,,,,skipped_role
+gk,Hayakawa,JAP,1,,,,,,,skipped_role
+gk,Hornicek,RCE,1,,,,,,,skipped_role
+gk,Hosseini H.,IRN,1,,,,,,,skipped_role
+gk,Hyeon-woo Jo,KOR,1,,,,,,,skipped_role
+gk,Izzo,AUS,1,,,,,,,skipped_role
+gk,Joan Garcia,SPA,1,,,,,,,skipped_role
+gk,Jose Sa,POR,1,,,,,,,skipped_role
+gk,Keller,SVI,1,,,,,,,skipped_role
+gk,Kelly,SCO,1,,,,,,,skipped_role
+gk,Kone M.,CIV,1,,,,,,,skipped_role
+gk,Kotarski,CRO,1,,,,,,,skipped_role
+gk,Lammens,BEL,1,,,,,,,skipped_role
+gk,Mastil,ALG,1,,,,,,,skipped_role
+gk,Mejia,PAN,1,,,,,,,skipped_role
+gk,Mele,URU,1,,,,,,,skipped_role
+gk,Mosquera O.,PAN,1,,,,,,,skipped_role
+gk,Musso,ARG,1,,,,,,,skipped_role
+gk,Mvogo,SVI,1,,,,,,,skipped_role
+gk,Nematov,UZB,1,,,,,,,skipped_role
+gk,Niazmand,IRN,1,,,,,,,skipped_role
+gk,Nordfeldt,SVE,1,,,,,,,skipped_role
+gk,Nubel,GER,1,,,,,,,skipped_role
+gk,Ochoa,MEX,1,,,,,,,skipped_role
+gk,Olveira,PAR,1,,,,,,,skipped_role
+gk,Osako,JAP,1,,,,,,,skipped_role
+gk,Ospina,COL,1,,,,,,,skipped_role
+gk,Pandur,CRO,1,,,,,,,skipped_role
+gk,Paulsen,NZL,1,,,,,,,skipped_role
+gk,Penders,BEL,1,,,,,,,skipped_role
+gk,Pentz,AUT,1,,,,,,,skipped_role
+gk,Pierre,HAI,1,,,,,,,skipped_role
+gk,Placide,HAI,1,,,,,,,skipped_role
+gk,Ramirez M.,ECU,1,,,,,,,skipped_role
+gk,Risser,FRA,1,,,,,,,skipped_role
+gk,Room,CUW,1,,,,,,,skipped_role
+gk,Rui Silva,POR,1,,,,,,,skipped_role
+gk,Rulli,ARG,1,,,,,,,skipped_role
+gk,Salah Zakaria,QAT,1,,,,,,,skipped_role
+gk,Samba,FRA,1,,,,,,,skipped_role
+gk,Samudio,PAN,1,,,,,,,skipped_role
+gk,Selvik,NOR,1,,,,,,,skipped_role
+gk,Soliman,EGY,1,,,,,,,skipped_role
+gk,Stanek,RCE,1,,,,,,,skipped_role
+gk,Tagnaouti,MAR,1,,,,,,,skipped_role
+gk,Talib,IRQ,1,,,,,,,skipped_role
+gk,Tangvik,NOR,1,,,,,,,skipped_role
+gk,Turner,USA,1,,,,,,,skipped_role
+gk,Valle,ECU,1,,,,,,,skipped_role
+gk,Weverton,BRA,1,,,,,,,skipped_role
+gk,Wiegele,AUT,1,,,,,,,skipped_role
+gk,Woud,NZL,1,,,,,,,skipped_role
+gk,Yusupov,UZB,1,,,,,,,skipped_role
+gk,Zetterstrom,SVE,1,,,,,,,skipped_role
+gk,Zlomislic,BOS,1,,,,,,,skipped_role
+cb,Gabriel M,BRA,23,4,0,2,10,0.2,https://www.transfermarkt.it/gabriel/profil/spieler/435338,matched_fuzzy_position_87
+cb,Ruben Dias,POR,23,2,0,2,10,0.2,https://www.transfermarkt.it/ruben-dias/profil/spieler/258004,matched_alias
+cb,Saliba,FRA,23,1,0,1,10,0.1,https://www.transfermarkt.it/william-saliba/profil/spieler/495666,matched_alias
+cb,Gvardiol,CRO,22,2,0,2,10,0.2,https://www.transfermarkt.it/josko-gvardiol/profil/spieler/475959,matched_alias
+cb,Dumfries,OLA,21,5,0,3,10,0.3,https://www.transfermarkt.it/denzel-dumfries/profil/spieler/321528,matched_alias
+cb,Hakimi,MAR,21,3,0,4,26,0.154,https://www.transfermarkt.it/achraf-hakimi/profil/spieler/398073,matched_alias
+cb,Marquinhos,BRA,21,2,0,4,10,0.4,https://www.transfermarkt.it/marquinhos/profil/spieler/181767,matched_alias
+cb,Nuno Mendes,POR,21,6,0,3,10,0.3,https://www.transfermarkt.it/nuno-mendes/profil/spieler/616341,matched_alias
+cb,Araujo M.,URU,20,7,0,4,10,0.4,https://www.transfermarkt.it/maxi-araujo/profil/spieler/572675,matched_alias
+cb,Cubarsi,SPA,20,1,0,2,10,0.2,https://www.transfermarkt.it/pau-cubarsi/profil/spieler/962110,matched_alias
+cb,Kimmich,GER,20,2,0,4,10,0.4,https://www.transfermarkt.it/joshua-kimmich/profil/spieler/161056,matched_alias
+cb,Timber J.,OLA,20,,,,10,,,unmatched_fuzzy_40
+cb,Kounde,FRA,19,3,0,2,10,0.2,https://www.transfermarkt.it/jules-kounde/profil/spieler/411975,matched_alias
+cb,Van De Ven,OLA,19,7,0,4,10,0.4,https://www.transfermarkt.it/micky-van-de-ven/profil/spieler/557459,matched_fuzzy_93
+cb,Araujo R.,URU,18,4,0,3,10,0.3,https://www.transfermarkt.it/ronald-araujo/profil/spieler/480267,matched_alias
+cb,Bremer,BRA,18,4,1,3,10,0.3,https://www.transfermarkt.it/bremer/profil/spieler/516716,matched_alias
+cb,James R.,ING,18,2,0,2,10,0.2,https://www.transfermarkt.it/reece-james/profil/spieler/472423,matched_alias
+cb,Upamecano,FRA,18,2,0,3,10,0.3,https://www.transfermarkt.it/dayot-upamecano/profil/spieler/344695,matched_alias
+cb,Hincapie,ECU,17,1,0,4,10,0.4,https://www.transfermarkt.it/piero-hincapie/profil/spieler/659813,matched_alias
+cb,Romero,ARG,17,6,0,6,9,0.667,https://www.transfermarkt.it/cristian-romero/profil/spieler/355915,matched_alias
+cb,Hernandez T.,FRA,16,9,0,3,10,0.3,https://www.transfermarkt.it/theo-hernandez/profil/spieler/339808,matched_alias
+cb,Konate,FRA,16,2,0,2,10,0.2,https://www.transfermarkt.it/ibrahima-konate/profil/spieler/357119,matched_alias
+cb,Min-Jae Kim,KOR,16,1,0,10,13,0.769,https://www.transfermarkt.it/min-jae-kim/profil/spieler/503482,matched_alias
+cb,Schlotterbeck,GER,16,5,0,4,10,0.4,https://www.transfermarkt.it/nico-schlotterbeck/profil/spieler/388198,matched_alias
+cb,Davies,CAN,15,1,0,0,14,0.0,https://www.transfermarkt.it/alphonso-davies/profil/spieler/424204,matched_alias
+cb,Hato,OLA,15,2,0,2,10,0.2,https://www.transfermarkt.it/jorrel-hato/profil/spieler/904802,matched_alias
+cb,Quansah,ING,15,5,0,2,10,0.2,https://www.transfermarkt.it/jarell-quansah/profil/spieler/632349,matched_alias
+cb,Ake,OLA,14,0,0,2,10,0.2,https://www.transfermarkt.it/nathan-ake/profil/spieler/177476,matched_alias
+cb,Inacio,POR,14,3,0,3,10,0.3,https://www.transfermarkt.it/goncalo-inacio/profil/spieler/549006,matched_alias
+cb,Molina,ARG,14,2,0,4,9,0.444,https://www.transfermarkt.it/nahuel-molina/profil/spieler/424042,matched_alias
+cb,Porro,SPA,14,2,0,3,10,0.3,https://www.transfermarkt.it/pedro-porro/profil/spieler/553875,matched_alias
+cb,Ait-Nouri,ALG,13,0,0,5,23,0.217,https://www.transfermarkt.it/rayan-ait-nouri/profil/spieler/578391,matched_alias
+cb,Diomande,CIV,13,1,0,4,13,0.308,https://www.transfermarkt.it/ousmane-diomande/profil/spieler/974982,matched_alias_position
+cb,Guehi,ING,13,5,0,4,10,0.4,https://www.transfermarkt.it/marc-guehi/profil/spieler/392757,matched_alias
+cb,Martinez Li.,ARG,13,0,0,2,9,0.222,https://www.transfermarkt.it/lisandro-martinez/profil/spieler/480762,matched_alias
+cb,Munoz D.,COL,13,5,0,5,10,0.5,https://www.transfermarkt.it/daniel-munoz/profil/spieler/493003,matched_alias
+cb,Pacho,ECU,13,2,0,6,10,0.6,https://www.transfermarkt.it/willian-pacho/profil/spieler/661171,matched_alias
+cb,Rudiger,GER,13,1,0,1,10,0.1,https://www.transfermarkt.it/antonio-rudiger/profil/spieler/86202,matched_alias
+cb,Sarr M.,SEN,13,0,0,5,19,0.263,https://www.transfermarkt.it/mamadou-sarr/profil/spieler/910905,matched_alias
+cb,Wieffer,OLA,13,2,0,1,10,0.1,https://www.transfermarkt.it/mats-wieffer/profil/spieler/415381,matched_alias
+cb,Akanji,SVI,12,2,0,4,10,0.4,https://www.transfermarkt.it/manuel-akanji/profil/spieler/284730,matched_alias
+cb,Dalot,POR,12,1,0,4,10,0.4,https://www.transfermarkt.it/diogo-dalot/profil/spieler/357147,matched_alias
+cb,Estupinan,ECU,12,1,1,5,10,0.5,https://www.transfermarkt.it/pervis-estupinan/profil/spieler/349599,matched_alias
+cb,Grimaldo,SPA,12,14,0,3,10,0.3,https://www.transfermarkt.it/alejandro-grimaldo/profil/spieler/193082,matched_alias
+cb,Gusto,FRA,12,3,0,3,10,0.3,https://www.transfermarkt.it/malo-gusto/profil/spieler/620322,matched_alias
+cb,Ndicka,CIV,12,5,0,1,13,0.077,https://www.transfermarkt.it/evan-ndicka/profil/spieler/371149,matched_alias
+cb,Cucurella,SPA,11,1,0,2,10,0.2,https://www.transfermarkt.it/marc-cucurella/profil/spieler/284857,matched_alias
+cb,Debast,BEL,11,0,1,2,10,0.2,https://www.transfermarkt.it/zeno-debast/profil/spieler/548193,matched_alias
+cb,Konsa,ING,11,2,0,4,10,0.4,https://www.transfermarkt.it/ezri-konsa/profil/spieler/413403,matched_alias
+cb,Lacroix M.,FRA,11,3,0,4,10,0.4,https://www.transfermarkt.it/maxence-lacroix/profil/spieler/434224,matched_alias
+cb,Lucumi,COL,11,1,1,7,10,0.7,https://www.transfermarkt.it/jhon-lucumi/profil/spieler/413565,matched_alias
+cb,Stones,ING,11,0,0,3,10,0.3,https://www.transfermarkt.it/john-stones/profil/spieler/186590,matched_alias
+cb,Sutalo,CRO,11,0,0,3,10,0.3,https://www.transfermarkt.it/josip-sutalo/profil/spieler/371001,matched_alias
+cb,Dest,USA,10,2,1,6,18,0.333,https://www.transfermarkt.it/sergino-dest/profil/spieler/361104,matched_alias
+cb,Eric Garcia,SPA,10,1,0,2,10,0.2,https://www.transfermarkt.it/eric-garcia/profil/spieler/466794,matched_alias
+cb,O'Reilly,ING,10,9,0,3,10,0.3,https://www.transfermarkt.it/nico-oreilly/profil/spieler/743413,matched_alias
+cb,Olivera,URU,10,0,0,4,10,0.4,https://www.transfermarkt.it/mathias-olivera/profil/spieler/376514,matched_alias
+cb,Stanisic,CRO,10,3,0,4,10,0.4,https://www.transfermarkt.it/josip-stanisic/profil/spieler/483046,matched_alias
+cb,Thiaw,GER,10,5,0,0,10,0.0,https://www.transfermarkt.it/malick-thiaw/profil/spieler/521964,matched_alias
+cb,Tomiyasu,JAP,10,0,0,1,13,0.077,https://www.transfermarkt.it/takehiro-tomiyasu/profil/spieler/331560,matched_alias
+cb,Aguerd,MAR,9,1,0,0,26,0.0,https://www.transfermarkt.it/nayef-aguerd/profil/spieler/361914,matched_alias
+cb,Hernandez L.,FRA,9,0,0,2,10,0.2,https://www.transfermarkt.it/lucas-hernandez/profil/spieler/281963,matched_alias
+cb,Laimer,AUT,9,3,0,2,10,0.2,https://www.transfermarkt.it/konrad-laimer/profil/spieler/223967,matched_alias
+cb,Llorente M.,SPA,9,4,0,2,10,0.2,https://www.transfermarkt.it/marcos-llorente/profil/spieler/282411,matched_alias
+cb,Mazraoui,MAR,9,0,0,5,26,0.192,https://www.transfermarkt.it/noussair-mazraoui/profil/spieler/340456,matched_alias
+cb,Sanchez D.,COL,9,2,1,6,10,0.6,https://www.transfermarkt.it/davinson-sanchez/profil/spieler/341429,matched_alias
+cb,Theate,BEL,9,1,0,2,10,0.2,https://www.transfermarkt.it/arthur-theate/profil/spieler/368891,matched_alias
+cb,Van Dijk,OLA,9,8,1,4,10,0.4,https://www.transfermarkt.it/virgil-van-dijk/profil/spieler/139208,matched_alias
+cb,Van Hecke,OLA,9,3,0,4,10,0.4,https://www.transfermarkt.it/jan-paul-van-hecke/profil/spieler/576314,matched_alias
+cb,Bensebaini,ALG,8,7,0,2,23,0.087,https://www.transfermarkt.it/ramy-bensebaini/profil/spieler/284732,matched_alias
+cb,Cancelo,POR,8,3,0,4,10,0.4,https://www.transfermarkt.it/joao-cancelo/profil/spieler/182712,matched_alias
+cb,Elvedi,SVI,8,2,0,4,10,0.4,https://www.transfermarkt.it/nico-elvedi/profil/spieler/192635,matched_alias
+cb,Ibanez,BRA,8,4,0,4,10,0.4,https://www.transfermarkt.it/roger-ibanez/profil/spieler/524481,matched_alias
+cb,Kadioglu,TUR,8,1,1,2,10,0.2,https://www.transfermarkt.it/ferdi-kadioglu/profil/spieler/369316,matched_alias
+cb,Livramento T.,ING,8,0,0,3,10,0.3,https://www.transfermarkt.it/tino-livramento/profil/spieler/503981,matched_alias
+cb,Pubill,SPA,8,1,0,2,10,0.2,https://www.transfermarkt.it/marc-pubill/profil/spieler/844637,matched_alias
+cb,Raum,GER,8,3,0,3,10,0.3,https://www.transfermarkt.it/david-raum/profil/spieler/318204,matched_alias
+cb,Richards,USA,8,2,0,5,18,0.278,https://www.transfermarkt.it/chris-richards/profil/spieler/578539,matched_alias
+cb,Tah,GER,8,3,1,4,10,0.4,https://www.transfermarkt.it/jonathan-tah/profil/spieler/196357,matched_alias
+cb,Danilo,BRA,7,1,0,4,10,0.4,https://www.transfermarkt.it/danilo/profil/spieler/145707,matched_alias_position
+cb,De Cuyper,BEL,7,2,0,4,10,0.4,https://www.transfermarkt.it/maxim-de-cuyper/profil/spieler/429915,matched_alias
+cb,Dedic,BOS,7,1,0,5,10,0.5,https://www.transfermarkt.it/amar-dedic/profil/spieler/519184,matched_alias
+cb,Demiral,TUR,7,2,0,2,10,0.2,https://www.transfermarkt.it/merih-demiral/profil/spieler/340879,matched_alias
+cb,Gimenez J.,URU,7,1,0,3,10,0.3,https://www.transfermarkt.it/jose-maria-gimenez/profil/spieler/250845,matched_alias
+cb,Kalulu,COD,7,0,0,2,18,0.111,https://www.transfermarkt.it/gedeon-kalulu/profil/spieler/395685,matched_alias
+cb,Khusanov,UZB,7,0,0,5,12,0.417,https://www.transfermarkt.it/abdukodir-khusanov/profil/spieler/763079,matched_alias
+cb,Ordonez,ECU,7,,,,10,,,ambiguous_alias
+cb,Robertson,SCO,7,3,0,4,10,0.4,https://www.transfermarkt.it/andrew-robertson/profil/spieler/234803,matched_alias
+cb,Robinson A.,USA,7,1,1,4,18,0.222,https://www.transfermarkt.it/antonee-robinson/profil/spieler/349701,matched_alias
+cb,Ryerson,NOR,7,0,0,5,10,0.5,https://www.transfermarkt.it/julian-ryerson/profil/spieler/370789,matched_alias
+cb,Singo,CIV,7,2,1,3,13,0.231,https://www.transfermarkt.it/wilfried-singo/profil/spieler/648779,matched_alias
+cb,Ajer,NOR,6,0,0,5,10,0.5,https://www.transfermarkt.it/kristoffer-ajer/profil/spieler/328658,matched_alias
+cb,Anton,GER,6,3,0,1,10,0.1,https://www.transfermarkt.it/waldemar-anton/profil/spieler/193004,matched_alias
+cb,Bardakci,TUR,6,1,0,3,10,0.3,https://www.transfermarkt.it/abdulkerim-bardakci/profil/spieler/199316,matched_alias
+cb,Castagne,BEL,6,0,0,3,10,0.3,https://www.transfermarkt.it/timothy-castagne/profil/spieler/262226,matched_alias
+cb,Danso,AUT,6,0,0,2,10,0.2,https://www.transfermarkt.it/kevin-danso/profil/spieler/263236,matched_alias
+cb,De Winter,BEL,6,1,0,3,10,0.3,https://www.transfermarkt.it/koni-de-winter/profil/spieler/490384,matched_alias
+cb,Douglas Santos,BRA,6,2,0,5,10,0.5,https://www.transfermarkt.it/douglas-santos/profil/spieler/220793,matched_alias
+cb,Doué G.,CIV,6,2,1,5,13,0.385,https://www.transfermarkt.it/guela-doue/profil/spieler/711980,matched_alias
+cb,Hickey,SCO,6,1,0,2,10,0.2,https://www.transfermarkt.it/aaron-hickey/profil/spieler/591949,matched_alias
+cb,Hien,SVE,6,1,0,3,10,0.3,https://www.transfermarkt.it/isak-hien/profil/spieler/503075,matched_alias
+cb,Ito H.,JAP,6,1,0,3,13,0.231,https://www.transfermarkt.it/hiroki-ito/profil/spieler/353892,matched_alias
+cb,Kossounou,CIV,6,1,0,3,13,0.231,https://www.transfermarkt.it/odilon-kossounou/profil/spieler/644771,matched_alias
+cb,Krejci,RCE,6,2,2,4,10,0.4,https://www.transfermarkt.it/ladislav-krejci/profil/spieler/345911,matched_alias
+cb,Laporte,SPA,6,0,0,3,10,0.3,https://www.transfermarkt.it/aymeric-laporte/profil/spieler/176553,matched_alias
+cb,Medina,ARG,6,0,0,2,9,0.222,https://www.transfermarkt.it/facundo-medina/profil/spieler/474800,matched_alias
+cb,Niakhate,SEN,6,1,0,4,19,0.211,https://www.transfermarkt.it/moussa-niakhate/profil/spieler/291200,matched_alias
+cb,Otamendi,ARG,6,3,1,4,9,0.444,https://www.transfermarkt.it/nicolas-otamendi/profil/spieler/54781,matched_alias
+cb,Senaya,GHA,6,1,0,2,10,0.2,https://www.transfermarkt.it/marvin-senaya/profil/spieler/830890,matched_alias
+cb,Balerdi,ARG,5,1,0,2,9,0.222,https://www.transfermarkt.it/leonardo-balerdi/profil/spieler/575998,matched_alias
+cb,Costa L.,CPV,5,0,0,2,10,0.2,https://www.transfermarkt.it/logan-costa/profil/spieler/484988,matched_alias
+cb,El Ouahdi,MAR,5,12,0,2,26,0.077,https://www.transfermarkt.it/zakaria-el-ouahdi/profil/spieler/820474,matched_alias
+cb,Heggem,NOR,5,0,0,4,10,0.4,https://www.transfermarkt.it/torbjorn-heggem/profil/spieler/464469,matched_alias
+cb,Leo Pereira,BRA,5,2,0,4,10,0.4,https://www.transfermarkt.it/leo-pereira/profil/spieler/288431,matched_alias
+cb,Tierney,SCO,5,6,0,3,10,0.3,https://www.transfermarkt.it/kieran-tierney/profil/spieler/300716,matched_alias
+cb,Vasquez J.,MEX,5,1,2,10,16,0.625,https://www.transfermarkt.it/johan-vasquez/profil/spieler/532937,matched_alias
+cb,Wan-Bissaka,COD,5,0,0,3,18,0.167,https://www.transfermarkt.it/aaron-wan-bissaka/profil/spieler/477758,matched_alias
+cb,Amenda,SVI,4,0,0,3,10,0.3,https://www.transfermarkt.it/aurele-amenda/profil/spieler/635645,matched_alias
+cb,Celik,TUR,4,1,0,3,10,0.3,https://www.transfermarkt.it/zeki-celik/profil/spieler/251075,matched_alias
+cb,Coufal,RCE,4,1,0,4,10,0.4,https://www.transfermarkt.it/vladimir-coufal/profil/spieler/157672,matched_alias
+cb,Digne,FRA,4,0,0,3,10,0.3,https://www.transfermarkt.it/lucas-digne/profil/spieler/126664,matched_alias
+cb,Erlic,CRO,4,6,0,2,10,0.2,https://www.transfermarkt.it/martin-erlic/profil/spieler/357003,matched_alias
+cb,Friedl,AUT,4,1,0,3,10,0.3,https://www.transfermarkt.it/marco-friedl/profil/spieler/156990,matched_alias
+cb,Jakobs,SEN,4,0,0,4,19,0.211,https://www.transfermarkt.it/ismail-jakobs/profil/spieler/375137,matched_alias
+cb,Lienhart,AUT,4,2,0,3,10,0.3,https://www.transfermarkt.it/philipp-lienhart/profil/spieler/225657,matched_alias
+cb,Ostigard,NOR,4,5,0,5,10,0.5,https://www.transfermarkt.it/leo-ostigard/profil/spieler/367284,matched_alias
+cb,Patterson,SCO,4,0,0,3,10,0.3,https://www.transfermarkt.it/nathan-patterson/profil/spieler/424015,matched_alias
+cb,Piquerez,URU,4,0,0,3,10,0.3,https://www.transfermarkt.it/joaquin-piquerez/profil/spieler/496268,matched_alias
+cb,Riad,MAR,4,1,0,3,26,0.115,https://www.transfermarkt.it/chadi-riad/profil/spieler/689637,matched_alias
+cb,Affengruber,AUT,3,1,0,1,10,0.1,https://www.transfermarkt.it/david-affengruber/profil/spieler/452483,matched_alias
+cb,Agbadou,CIV,3,1,0,4,13,0.308,https://www.transfermarkt.it/emmanuel-agbadou/profil/spieler/683895,matched_alias
+cb,Alderete,PAR,3,1,0,5,10,0.5,https://www.transfermarkt.it/omar-alderete/profil/spieler/353032,matched_alias
+cb,Bombito,CAN,3,0,0,1,14,0.071,https://www.transfermarkt.it/moise-bombito/profil/spieler/1089202,matched_alias
+cb,Brown N.,GER,3,4,0,3,10,0.3,https://www.transfermarkt.it/nathaniel-brown/profil/spieler/691892,matched_alias
+cb,Caleta-car,CRO,3,1,0,1,10,0.1,https://www.transfermarkt.it/duje-caleta-car/profil/spieler/238266,matched_alias
+cb,Circati,AUS,3,1,1,8,10,0.8,https://www.transfermarkt.it/alessandro-circati/profil/spieler/867137,matched_alias
+cb,Comenencia,CUW,3,0,1,4,11,0.364,https://www.transfermarkt.it/livano-comenencia/profil/spieler/626764,matched_alias
+cb,Diop,MAR,3,1,0,4,26,0.154,https://www.transfermarkt.it/issa-diop/profil/spieler/272622,matched_alias_position
+cb,Elmali,TUR,3,4,0,3,10,0.3,https://www.transfermarkt.it/eren-elmali/profil/spieler/616894,matched_alias
+cb,Hadjam,ALG,3,2,1,3,23,0.13,https://www.transfermarkt.it/jaouen-hadjam/profil/spieler/750903,matched_alias
+cb,Holes,RCE,3,2,0,3,10,0.3,https://www.transfermarkt.it/tomas-holes/profil/spieler/216278,matched_alias
+cb,Itakura,JAP,3,1,0,3,13,0.231,https://www.transfermarkt.it/ko-itakura/profil/spieler/355816,matched_alias
+cb,Johnston A.,CAN,3,1,0,2,14,0.143,https://www.transfermarkt.it/alistair-johnston/profil/spieler/637446,matched_alias
+cb,Jurasek D.,RCE,3,1,0,5,10,0.5,https://www.transfermarkt.it/david-jurasek/profil/spieler/500054,matched_alias
+cb,Kabak,TUR,3,4,0,4,10,0.4,https://www.transfermarkt.it/ozan-kabak/profil/spieler/361260,matched_alias
+cb,Kolasinac,BOS,3,0,0,3,10,0.3,https://www.transfermarkt.it/sead-kolasinac/profil/spieler/94005,matched_alias
+cb,Koulibaly,SEN,3,2,0,3,19,0.158,https://www.transfermarkt.it/kalidou-koulibaly/profil/spieler/93128,matched_alias
+cb,Lindelof,SVE,3,0,0,3,10,0.3,https://www.transfermarkt.it/victor-lindelof/profil/spieler/184573,matched_alias
+cb,Montes,MEX,3,4,0,8,16,0.5,https://www.transfermarkt.it/cesar-montes/profil/spieler/387687,matched_alias
+cb,Muheim,SVI,3,0,0,4,10,0.4,https://www.transfermarkt.it/miro-muheim/profil/spieler/298603,matched_alias
+cb,Muldur,TUR,3,1,0,4,10,0.4,https://www.transfermarkt.it/mert-muldur/profil/spieler/353922,matched_alias
+cb,Opoku,GHA,3,1,0,3,10,0.3,https://www.transfermarkt.it/jerome-opoku/profil/spieler/408563,matched_alias
+cb,Pedersen,NOR,3,1,0,3,10,0.3,https://www.transfermarkt.it/marcus-pedersen/profil/spieler/583404,matched_alias
+cb,Pongracic,CRO,3,1,0,4,10,0.4,https://www.transfermarkt.it/marin-pongracic/profil/spieler/282144,matched_alias
+cb,Preciado An.,ECU,3,1,0,6,10,0.6,https://www.transfermarkt.it/angelo-preciado/profil/spieler/450241,matched_alias
+cb,Scally,USA,3,2,0,5,18,0.278,https://www.transfermarkt.it/joe-scally/profil/spieler/504153,matched_alias
+cb,Seko,JAP,3,0,0,7,13,0.538,https://www.transfermarkt.it/ayumu-seko/profil/spieler/405389,matched_alias
+cb,Semedo,POR,3,1,0,2,10,0.2,https://www.transfermarkt.it/nelson-semedo/profil/spieler/231572,matched_alias
+cb,Soyuncu,TUR,3,0,0,1,10,0.1,https://www.transfermarkt.it/caglar-soyuncu/profil/spieler/320141,matched_alias
+cb,Spence,ING,3,0,0,4,10,0.4,https://www.transfermarkt.it/djed-spence/profil/spieler/483348,matched_alias
+cb,Starfelt,SVE,3,1,0,3,10,0.3,https://www.transfermarkt.it/carl-starfelt/profil/spieler/258987,matched_alias
+cb,Sugawara,JAP,3,0,0,6,13,0.462,https://www.transfermarkt.it/yukinari-sugawara/profil/spieler/405385,matched_alias
+cb,Tagliafico,ARG,3,0,0,4,9,0.444,https://www.transfermarkt.it/nicolas-tagliafico/profil/spieler/131225,matched_alias
+cb,Talbi,TUN,3,0,1,5,18,0.278,https://www.transfermarkt.it/montassar-talbi/profil/spieler/496706,matched_alias
+cb,Varela,URU,3,0,0,3,10,0.3,https://www.transfermarkt.it/guillermo-varela/profil/spieler/188862,matched_alias
+cb,Vina,URU,3,0,0,1,10,0.1,https://www.transfermarkt.it/matias-vina/profil/spieler/439072,matched_alias
+cb,Vuskovic,CRO,3,6,1,3,10,0.3,https://www.transfermarkt.it/luka-vuskovic/profil/spieler/892160,matched_alias
+cb,Watanabe,JAP,3,5,0,7,13,0.538,https://www.transfermarkt.it/tsuyoshi-watanabe/profil/spieler/598791,matched_alias
+cb,Wolfe,NOR,3,2,0,6,10,0.6,https://www.transfermarkt.it/david-moller-wolfe/profil/spieler/661427,matched_alias
+cb,Young-Woo Seol,KOR,3,2,0,8,13,0.615,https://www.transfermarkt.it/young-woo-seol/profil/spieler/639414,matched_alias
+cb,Abdulhamid,SAU,2,3,0,5,20,0.25,https://www.transfermarkt.it/saud-abdulhamid/profil/spieler/631927,matched_alias
+cb,Akaydin,TUR,2,4,0,2,10,0.2,https://www.transfermarkt.it/samet-akaydin/profil/spieler/295024,matched_alias
+cb,Al-Amri,SAU,2,4,0,5,20,0.25,https://www.transfermarkt.it/abdulelah-al-amri/profil/spieler/509894,matched_alias
+cb,Alex Sandro,BRA,2,0,0,3,10,0.3,https://www.transfermarkt.it/alex-sandro/profil/spieler/79960,matched_alias
+cb,Alfie Jones,CAN,2,1,0,2,14,0.143,https://www.transfermarkt.it/alfie-jones/profil/spieler/340990,matched_alias
+cb,Alonso,PAR,2,0,0,7,10,0.7,https://www.transfermarkt.it/junior-alonso/profil/spieler/273000,matched_alias
+cb,Bazoer,CUW,2,0,0,3,11,0.273,https://www.transfermarkt.it/riechedly-bazoer/profil/spieler/216443,matched_alias
+cb,Bjorkan,NOR,2,1,0,5,10,0.5,https://www.transfermarkt.it/fredrik-bjorkan/profil/spieler/364938,matched_alias
+cb,Bos,AUS,2,4,3,8,10,0.8,https://www.transfermarkt.it/jordan-bos/profil/spieler/855731,matched_alias
+cb,Bueno,URU,2,4,0,2,10,0.2,https://www.transfermarkt.it/santiago-bueno/profil/spieler/438001,matched_alias
+cb,Burn,ING,2,2,0,3,10,0.3,https://www.transfermarkt.it/dan-burn/profil/spieler/134270,matched_alias
+cb,Cacace,NZL,2,1,0,2,10,0.2,https://www.transfermarkt.it/liberato-cacace/profil/spieler/469211,matched_alias
+cb,Caceres S.,URU,2,0,0,1,10,0.1,https://www.transfermarkt.it/sebastian-caceres/profil/spieler/532389,matched_alias
+cb,Celik N.,BOS,2,0,0,2,10,0.2,https://www.transfermarkt.it/nidal-celik/profil/spieler/819566,matched_alias
+cb,Chavez M.,MEX,2,1,0,6,16,0.375,https://www.transfermarkt.it/mateo-chavez/profil/spieler/1066953,matched_alias
+cb,Comert,SVI,2,2,0,4,10,0.4,https://www.transfermarkt.it/eray-comert/profil/spieler/298583,matched_alias
+cb,Ditta,COL,2,0,0,3,10,0.3,https://www.transfermarkt.it/willer-ditta/profil/spieler/609255,matched_alias
+cb,Ekdal H.,SVE,2,0,0,2,10,0.2,https://www.transfermarkt.it/hjalmar-ekdal/profil/spieler/392179,matched_alias
+cb,Falchener,NOR,2,2,0,1,10,0.1,https://www.transfermarkt.it/henrik-falchener/profil/spieler/743088,matched_alias
+cb,Fatouh,EGY,2,1,0,6,15,0.4,https://www.transfermarkt.it/ahmed-fatouh/profil/spieler/465966,matched_alias
+cb,Freeman,USA,2,0,2,10,18,0.556,https://www.transfermarkt.it/alex-freeman/profil/spieler/985806,matched_alias
+cb,Gallardo,MEX,2,8,1,13,16,0.812,https://www.transfermarkt.it/jesus-gallardo/profil/spieler/344854,matched_alias
+cb,Gomez,PAR,2,3,0,6,10,0.6,https://www.transfermarkt.it/gustavo-gomez/profil/spieler/215390,matched_alias_position
+cb,Gudmundsson,SVE,2,1,0,3,10,0.3,https://www.transfermarkt.it/gabriel-gudmundsson/profil/spieler/362108,matched_alias
+cb,Hendry,SCO,2,1,0,2,10,0.2,https://www.transfermarkt.it/jack-hendry/profil/spieler/363223,matched_alias
+cb,Hranac,RCE,2,1,0,5,10,0.5,https://www.transfermarkt.it/robin-hranac/profil/spieler/620217,matched_alias
+cb,Hyam,SCO,2,1,0,3,10,0.3,https://www.transfermarkt.it/dominic-hyam/profil/spieler/263268,matched_alias
+cb,Jaquez,SVI,2,1,0,2,10,0.2,https://www.transfermarkt.it/luca-jaquez/profil/spieler/539798,matched_alias
+cb,Lagerbielke,SVE,2,4,1,4,10,0.4,https://www.transfermarkt.it/gustaf-lagerbielke/profil/spieler/485395,matched_alias
+cb,Langas,NOR,2,3,0,1,10,0.1,https://www.transfermarkt.it/sondre-langas/profil/spieler/737837,matched_alias
+cb,Mandi,ALG,2,1,0,3,23,0.13,https://www.transfermarkt.it/aissa-mandi/profil/spieler/80293,matched_alias
+cb,Mbemba,COD,2,0,0,4,18,0.222,https://www.transfermarkt.it/chancel-mbemba/profil/spieler/203348,matched_alias
+cb,Mckenna,SCO,2,2,0,2,10,0.2,https://www.transfermarkt.it/scott-mckenna/profil/spieler/255906,matched_alias
+cb,Mckenzie,USA,2,0,0,7,18,0.389,https://www.transfermarkt.it/mark-mckenzie/profil/spieler/429259,matched_alias
+cb,Mechele,BEL,2,8,0,3,10,0.3,https://www.transfermarkt.it/brandon-mechele/profil/spieler/236168,matched_alias
+cb,Medina Y.,ECU,2,1,0,4,10,0.4,https://www.transfermarkt.it/yaimar-medina/profil/spieler/893659,matched_alias
+cb,Mina,COL,2,2,0,3,10,0.3,https://www.transfermarkt.it/yerry-mina/profil/spieler/289446,matched_alias
+cb,Montiel,ARG,2,4,1,2,9,0.222,https://www.transfermarkt.it/gonzalo-montiel/profil/spieler/402733,matched_alias
+cb,Muharemovic,BOS,2,2,0,4,10,0.4,https://www.transfermarkt.it/tarik-muharemovic/profil/spieler/679423,matched_alias
+cb,Murillo,PAN,2,4,0,4,15,0.267,https://www.transfermarkt.it/amir-murillo/profil/spieler/354482,matched_alias_position
+cb,Okon,SAF,2,2,0,3,16,0.188,https://www.transfermarkt.it/ime-okon/profil/spieler/1107265,matched_alias
+cb,Operi,CIV,2,2,0,1,13,0.077,https://www.transfermarkt.it/christopher-operi/profil/spieler/469976,matched_alias
+cb,Posch,AUT,2,3,1,3,10,0.3,https://www.transfermarkt.it/stefan-posch/profil/spieler/223974,matched_alias
+cb,Reyes,MEX,2,0,0,10,16,0.625,https://www.transfermarkt.it/israel-reyes/profil/spieler/687558,matched_alias
+cb,Robinson M.,USA,2,0,0,5,18,0.278,https://www.transfermarkt.it/miles-robinson/profil/spieler/468022,matched_alias
+cb,Romo,MEX,2,1,0,7,16,0.438,https://www.transfermarkt.it/luis-romo/profil/spieler/532938,matched_alias
+cb,Salah-Eddine,MAR,2,0,0,5,26,0.192,https://www.transfermarkt.it/anass-salah-eddine/profil/spieler/485584,matched_alias
+cb,Seys,BEL,2,5,0,3,10,0.3,https://www.transfermarkt.it/joaquin-seys/profil/spieler/981196,matched_alias
+cb,Smith E.,SVE,2,2,0,2,10,0.2,https://www.transfermarkt.it/eric-smith/profil/spieler/292534,matched_alias
+cb,Suzuki J.,JAP,2,2,0,5,13,0.385,https://www.transfermarkt.it/junnosuke-suzuki/profil/spieler/848856,matched_alias
+cb,Svensson,SVE,2,4,0,4,10,0.4,https://www.transfermarkt.it/daniel-svensson/profil/spieler/579287,matched_alias
+cb,Trusty,USA,2,2,0,4,18,0.222,https://www.transfermarkt.it/auston-trusty/profil/spieler/389253,matched_alias
+cb,Widmer,SVI,2,3,0,4,10,0.4,https://www.transfermarkt.it/silvan-widmer/profil/spieler/168989,matched_alias
+cb,Zima,RCE,2,1,0,1,10,0.1,https://www.transfermarkt.it/david-zima/profil/spieler/544149,matched_alias
+cb,Abada,ALG,1,0,1,3,23,0.13,https://www.transfermarkt.it/achref-abada/profil/spieler/949929,matched_alias
+cb,Abdelmaguid,EGY,1,6,0,5,15,0.333,https://www.transfermarkt.it/hossam-abdelmaguid/profil/spieler/737524,matched_alias
+cb,Abdelmonem,EGY,1,0,0,3,15,0.2,https://www.transfermarkt.it/mohamed-abdelmonem/profil/spieler/566025,matched_alias
+cb,Abu Dahab,GRD,1,0,0,4,16,0.25,https://www.transfermarkt.it/husam-abu-dahab/profil/spieler/895291,matched_alias
+cb,Abu Hasheesh,GRD,1,0,0,8,16,0.5,https://www.transfermarkt.it/mohammad-abu-hasheesh/profil/spieler/895249,matched_alias
+cb,Abu Taha,GRD,1,4,0,7,16,0.438,https://www.transfermarkt.it/mohannad-abu-taha/profil/spieler/883111,matched_alias
+cb,Abualnadi,GRD,1,0,0,7,16,0.438,https://www.transfermarkt.it/mohammad-abualnadi/profil/spieler/658052,matched_alias
+cb,Ade,HAI,1,1,0,4,12,0.333,https://www.transfermarkt.it/ricardo-ade/profil/spieler/278145,matched_alias
+cb,Adjetey,GHA,1,0,0,5,10,0.5,https://www.transfermarkt.it/jonas-adjetey/profil/spieler/734676,matched_alias
+cb,Al-Amin,QAT,1,0,0,5,12,0.417,https://www.transfermarkt.it/homam-al-amin/profil/spieler/556713,matched_alias
+cb,Al-Arab,GRD,1,1,0,8,16,0.5,https://www.transfermarkt.it/yazan-al-arab/profil/spieler/539961,matched_alias
+cb,Al-Brake,QAT,1,1,0,3,12,0.25,https://www.transfermarkt.it/sultan-al-brake/profil/spieler/336665,matched_alias
+cb,Al-Harbi,SAU,1,2,0,5,20,0.25,https://www.transfermarkt.it/moteb-al-harbi/profil/spieler/869509,matched_alias
+cb,Al-Hussain,QAT,1,1,0,3,12,0.25,https://www.transfermarkt.it/al-hashmi-al-hussain/profil/spieler/943150,matched_alias
+cb,Al-Oui,QAT,1,2,0,3,12,0.25,https://www.transfermarkt.it/ayoub-al-oui/profil/spieler/1054631,matched_alias
+cb,Al-Rosan,GRD,1,,,,16,,,unmatched_fuzzy_72
+cb,Al-Shamat,SAU,1,3,0,3,20,0.15,https://www.transfermarkt.it/mohammed-abu-al-shamat/profil/spieler/1181852,matched_alias_position
+cb,Al-Tambakti,SAU,1,,,,20,,,unmatched_fuzzy_76
+cb,Alaa T.,EGY,1,0,0,3,15,0.2,https://www.transfermarkt.it/tarek-alaa/profil/spieler/1087789,matched_alias
+cb,Ali Abdi,TUN,1,3,1,4,18,0.222,https://www.transfermarkt.it/ali-abdi/profil/spieler/211474,matched_alias
+cb,Ali H.,IRQ,1,2,0,3,14,0.214,https://www.transfermarkt.it/hussein-ali/profil/spieler/585325,matched_alias
+cb,Ali Majrashi,SAU,1,1,0,7,20,0.35,https://www.transfermarkt.it/ali-majrashi/profil/spieler/672391,matched_alias
+cb,Alizhonov,UZB,1,1,0,5,12,0.417,https://www.transfermarkt.it/khozhiakbar-alizhonov/profil/spieler/492558,matched_alias
+cb,Andrade,PAN,1,3,0,4,15,0.267,https://www.transfermarkt.it/andres-andrade/profil/spieler/403808,matched_alias
+cb,Araújo,POR,1,1,0,4,10,0.4,https://www.transfermarkt.it/tomas-araujo/profil/spieler/504087,matched_alias
+cb,Arcus,HAI,1,0,0,2,12,0.167,https://www.transfermarkt.it/carlens-arcus/profil/spieler/371686,matched_alias
+cb,Arias,COL,1,0,0,5,10,0.5,https://www.transfermarkt.it/santiago-arias/profil/spieler/120443,matched_alias_position
+cb,Arous,TUN,1,2,0,2,18,0.111,https://www.transfermarkt.it/adem-arous/profil/spieler/1071742,matched_alias
+cb,Ashurmatov,UZB,1,1,0,8,12,0.667,https://www.transfermarkt.it/rustam-ashurmatov/profil/spieler/288883,matched_alias
+cb,Baba,GHA,1,3,0,1,10,0.1,https://www.transfermarkt.it/abdul-rahman-baba/profil/spieler/224884,matched_alias
+cb,Badawi,GRD,1,0,0,1,16,0.062,https://www.transfermarkt.it/anas-badawi/profil/spieler/1378902,matched_alias
+cb,Balbuena,PAR,1,0,0,1,10,0.1,https://www.transfermarkt.it/fabian-balbuena/profil/spieler/285548,matched_alias
+cb,Batubinsika,COD,1,1,0,0,18,0.0,https://www.transfermarkt.it/dylan-batubinsika/profil/spieler/289432,matched_alias
+cb,Behich,AUS,1,3,0,3,10,0.3,https://www.transfermarkt.it/aziz-behich/profil/spieler/136834,matched_alias
+cb,Belaid,ALG,1,1,0,5,23,0.217,https://www.transfermarkt.it/zineddine-belaid/profil/spieler/625142,matched_alias
+cb,Belammari,MAR,1,0,0,4,26,0.154,https://www.transfermarkt.it/youssef-belammari/profil/spieler/518804,matched_alias
+cb,Belghali,ALG,1,2,1,5,23,0.217,https://www.transfermarkt.it/rafik-belghali/profil/spieler/864306,matched_alias
+cb,Ben Hamida,TUN,1,1,0,4,18,0.222,https://www.transfermarkt.it/mohamed-amine-ben-hamida/profil/spieler/454495,matched_alias
+cb,Ben Ouanes,TUN,1,2,0,5,18,0.278,https://www.transfermarkt.it/mortadha-ben-ouanes/profil/spieler/230921,matched_alias
+cb,Bindon,NZL,1,1,0,8,10,0.8,https://www.transfermarkt.it/tyler-bindon/profil/spieler/1007720,matched_alias
+cb,Blackman,PAN,1,3,0,5,15,0.333,https://www.transfermarkt.it/cesar-blackman/profil/spieler/440383,matched_alias
+cb,Boushal,SAU,1,0,0,6,20,0.3,https://www.transfermarkt.it/nawaf-boushal/profil/spieler/821377,matched_alias
+cb,Boxall,NZL,1,0,0,6,10,0.6,https://www.transfermarkt.it/michael-boxall/profil/spieler/81723,matched_alias
+cb,Brenet,CUW,1,0,1,3,11,0.273,https://www.transfermarkt.it/joshua-brenet/profil/spieler/207006,matched_alias
+cb,Bronn,TUN,1,1,0,3,18,0.167,https://www.transfermarkt.it/dylan-bronn/profil/spieler/450417,matched_alias
+cb,Burgess,AUS,1,2,0,10,10,1.0,https://www.transfermarkt.it/cameron-burgess/profil/spieler/255788,matched_alias
+cb,Bushiri,COD,1,5,1,1,18,0.056,https://www.transfermarkt.it/rocky-bushiri/profil/spieler/511802,matched_alias
+cb,Cabral S.,CPV,1,6,1,4,10,0.4,https://www.transfermarkt.it/sidny-lopes-cabral/profil/spieler/611855,matched_alias
+cb,Caceres J.J.,PAR,1,1,0,4,10,0.4,https://www.transfermarkt.it/juan-jose-caceres/profil/spieler/756494,matched_alias
+cb,Canale,PAR,1,1,0,2,10,0.2,https://www.transfermarkt.it/jose-canale/profil/spieler/402627,matched_alias
+cb,Chaloupek,RCE,1,9,0,4,10,0.4,https://www.transfermarkt.it/stepan-chaloupek/profil/spieler/944827,matched_alias
+cb,Chergui,ALG,1,1,0,2,23,0.087,https://www.transfermarkt.it/samir-chergui/profil/spieler/668167,matched_alias
+cb,Chikhaoui,TUN,1,4,0,0,18,0.0,https://www.transfermarkt.it/raed-chikhaoui/profil/spieler/1075790,matched_alias
+cb,Cordoba,PAN,1,,,,15,,,ambiguous_alias
+cb,Cornelius D.,CAN,1,1,1,9,14,0.643,https://www.transfermarkt.it/derek-cornelius/profil/spieler/328609,matched_alias
+cb,Cross,SAF,1,0,0,1,16,0.062,https://www.transfermarkt.it/bradley-cross/profil/spieler/555209,matched_alias
+cb,Davis,PAN,1,,,,15,,,ambiguous_alias
+cb,De Fougerolles,CAN,1,0,0,6,14,0.429,https://www.transfermarkt.it/luc-de-fougerolles/profil/spieler/921995,matched_alias
+cb,Degenek,AUS,1,2,0,8,10,0.8,https://www.transfermarkt.it/milos-degenek/profil/spieler/187353,matched_alias
+cb,Delcroix,HAI,1,1,0,4,12,0.333,https://www.transfermarkt.it/hannes-delcroix/profil/spieler/338635,matched_alias
+cb,Diney,CPV,1,2,0,4,10,0.4,https://www.transfermarkt.it/diney-borges/profil/spieler/349570,matched_fuzzy_94
+cb,Diouf M.,SEN,1,0,1,5,19,0.263,https://www.transfermarkt.it/el-hadji-malick-diouf/profil/spieler/1111589,matched_fuzzy_97
+cb,Doski,IRQ,1,1,1,4,14,0.286,https://www.transfermarkt.it/merchas-doski/profil/spieler/530527,matched_alias
+cb,Duverne,HAI,1,1,0,4,12,0.333,https://www.transfermarkt.it/jean-kevin-duverne/profil/spieler/344864,matched_alias
+cb,Eiri,IRN,1,0,0,0,12,0.0,https://www.transfermarkt.it/danial-eiri/profil/spieler/1080301,matched_alias
+cb,Elliot,NZL,1,0,0,6,10,0.6,https://www.transfermarkt.it/callan-elliot/profil/spieler/482204,matched_alias
+cb,Escobar,PAN,1,2,0,3,15,0.2,https://www.transfermarkt.it/fidel-escobar/profil/spieler/345716,matched_alias
+cb,Eshmurodov,UZB,1,0,0,3,12,0.25,https://www.transfermarkt.it/umar-eshmurodov/profil/spieler/493725,matched_alias
+cb,Experience,HAI,1,1,0,4,12,0.333,https://www.transfermarkt.it/martin-experience/profil/spieler/804885,matched_alias
+cb,Farina,PAN,1,0,0,3,15,0.2,https://www.transfermarkt.it/edgardo-farina/profil/spieler/923177,matched_alias
+cb,Felix Torres,ECU,1,2,0,3,10,0.3,https://www.transfermarkt.it/felix-torres/profil/spieler/468174,matched_alias
+cb,Fernandes P.,CPV,1,,,,10,,,unmatched_fuzzy_69
+cb,Floranus,CUW,1,1,0,3,11,0.273,https://www.transfermarkt.it/sherel-floranus/profil/spieler/315211,matched_alias
+cb,Fonville,CUW,1,0,0,2,11,0.182,https://www.transfermarkt.it/deveron-fonville/profil/spieler/708989,matched_alias
+cb,Gaari,CUW,1,0,0,4,11,0.364,https://www.transfermarkt.it/jurien-gaari/profil/spieler/328455,matched_alias
+cb,Geria,AUS,1,1,0,5,10,0.5,https://www.transfermarkt.it/jason-geria/profil/spieler/185175,matched_alias
+cb,Gi-Yuk Lee,KOR,1,0,0,2,13,0.154,https://www.transfermarkt.it/gi-hyuk-lee/profil/spieler/763349,matched_fuzzy_95
+cb,Gutierrez,PAN,1,0,0,4,15,0.267,https://www.transfermarkt.it/jorge-gutierrez/profil/spieler/443379,matched_alias
+cb,Haddad,GRD,1,0,0,2,16,0.125,https://www.transfermarkt.it/ehsan-haddad/profil/spieler/310943,matched_alias
+cb,Hadzikadunic,BOS,1,0,0,3,10,0.3,https://www.transfermarkt.it/dennis-hadzikadunic/profil/spieler/322065,matched_alias
+cb,Hafez,EGY,1,3,0,2,15,0.133,https://www.transfermarkt.it/karim-hafez/profil/spieler/333004,matched_alias
+cb,Hajsafi,IRN,1,3,0,4,12,0.333,https://www.transfermarkt.it/ehsan-hajsafi/profil/spieler/77547,matched_alias
+cb,Halhal,MAR,1,1,0,3,26,0.115,https://www.transfermarkt.it/redouane-halhal/profil/spieler/913660,matched_alias
+cb,Han-Beom Lee,KOR,1,4,0,7,13,0.538,https://www.transfermarkt.it/han-beom-lee/profil/spieler/706963,matched_alias
+cb,Hanley,SCO,1,0,0,2,10,0.2,https://www.transfermarkt.it/grant-hanley/profil/spieler/121385,matched_alias
+cb,Hany,EGY,1,0,0,7,15,0.467,https://www.transfermarkt.it/mohamed-hany/profil/spieler/343974,matched_alias
+cb,Hardani,IRN,1,0,0,4,12,0.333,https://www.transfermarkt.it/saleh-hardani/profil/spieler/697155,matched_alias
+cb,Hashem,IRQ,1,2,0,4,14,0.286,https://www.transfermarkt.it/akam-hashem/profil/spieler/933541,matched_alias
+cb,Herrington,AUS,1,2,0,4,10,0.4,https://www.transfermarkt.it/lucas-herrington/profil/spieler/1279984,matched_alias
+cb,Ibrahim,EGY,1,2,0,5,15,0.333,https://www.transfermarkt.it/yasser-ibrahim/profil/spieler/237425,matched_alias
+cb,Italiano,AUS,1,4,0,5,10,0.5,https://www.transfermarkt.it/jacob-italiano/profil/spieler/545810,matched_alias
+cb,Kabini,SAF,1,0,0,3,16,0.188,https://www.transfermarkt.it/samukele-kabini/profil/spieler/1175086,matched_alias
+cb,Kadesh,SAU,1,1,0,6,20,0.3,https://www.transfermarkt.it/hassan-kadesh/profil/spieler/260859,matched_alias
+cb,Kanaani,IRN,1,2,0,3,12,0.25,https://www.transfermarkt.it/hossein-kanaani/profil/spieler/249400,matched_alias
+cb,Kapuadi,COD,1,1,0,2,18,0.111,https://www.transfermarkt.it/steve-kapuadi/profil/spieler/679709,matched_alias
+cb,Karimov,UZB,1,0,0,2,12,0.167,https://www.transfermarkt.it/bekhruz-karimov/profil/spieler/1106187,matched_alias
+cb,Katic,BOS,1,1,1,5,10,0.5,https://www.transfermarkt.it/nikola-katic/profil/spieler/422051,matched_alias
+cb,Kayembe J.,COD,1,0,1,3,18,0.167,https://www.transfermarkt.it/joris-kayembe/profil/spieler/129586,matched_alias
+cb,Khalilzadeh,IRN,1,1,0,8,12,0.667,https://www.transfermarkt.it/shoja-khalilzadeh/profil/spieler/213715,matched_alias
+cb,Khoukhi,QAT,1,1,0,3,12,0.25,https://www.transfermarkt.it/boualem-khoukhi/profil/spieler/222669,matched_alias
+cb,Konan,CIV,1,0,0,5,13,0.385,https://www.transfermarkt.it/ghislain-konan/profil/spieler/422850,matched_alias
+cb,Lacroix D.,HAI,1,0,1,3,12,0.25,https://www.transfermarkt.it/duke-lacroix/profil/spieler/375472,matched_alias
+cb,Lajami,SAU,1,0,0,4,20,0.2,https://www.transfermarkt.it/ali-lajami/profil/spieler/264909,matched_alias
+cb,Laryea,CAN,1,2,0,11,14,0.786,https://www.transfermarkt.it/richie-laryea/profil/spieler/417348,matched_alias
+cb,Laye,QAT,1,0,0,2,12,0.167,https://www.transfermarkt.it/issa-laye/profil/spieler/1264176,matched_alias
+cb,Luckassen,GHA,1,6,0,1,10,0.1,https://www.transfermarkt.it/derrick-luckassen/profil/spieler/241457,matched_alias
+cb,Machado,COL,1,0,0,3,10,0.3,https://www.transfermarkt.it/deiver-machado/profil/spieler/332560,matched_alias
+cb,Maidana,PAR,1,2,1,2,10,0.2,https://www.transfermarkt.it/alexandro-maidana/profil/spieler/1371519,matched_alias
+cb,Makhanya,SAF,1,1,0,1,16,0.062,https://www.transfermarkt.it/olwethu-makhanya/profil/spieler/1069801,matched_alias
+cb,Masuaku,COD,1,0,1,3,18,0.167,https://www.transfermarkt.it/arthur-masuaku/profil/spieler/181380,matched_alias
+cb,Matuludi,SAF,1,2,0,3,16,0.188,https://www.transfermarkt.it/thabang-matuludi/profil/spieler/1109254,matched_alias
+cb,Mbokazi,SAF,1,1,1,2,16,0.125,https://www.transfermarkt.it/mbekezeli-mbokazi/profil/spieler/1378320,matched_alias
+cb,Mendes,QAT,1,2,0,2,12,0.167,https://www.transfermarkt.it/lucas-mendes/profil/spieler/83983,matched_alias
+cb,Mendy A.,SEN,1,2,0,3,19,0.158,https://www.transfermarkt.it/antoine-mendy/profil/spieler/891998,matched_alias
+cb,Mensah,GHA,1,0,0,4,10,0.4,https://www.transfermarkt.it/gideon-mensah/profil/spieler/397171,matched_alias
+cb,Meunier,BEL,1,2,0,4,10,0.4,https://www.transfermarkt.it/thomas-meunier/profil/spieler/100986,matched_alias
+cb,Miguel,QAT,1,2,0,3,12,0.25,https://www.transfermarkt.it/pedro-miguel/profil/spieler/228727,matched_alias
+cb,Miller R.,PAN,1,0,0,4,15,0.267,https://www.transfermarkt.it/roderick-miller/profil/spieler/157154,matched_alias
+cb,Modiba,SAF,1,1,0,2,16,0.125,https://www.transfermarkt.it/aubrey-modiba/profil/spieler/353432,matched_alias
+cb,Mohammadi,IRN,1,0,0,6,12,0.5,https://www.transfermarkt.it/milad-mohammadi/profil/spieler/333355,matched_alias
+cb,Mojica,COL,1,0,0,6,10,0.6,https://www.transfermarkt.it/johan-mojica/profil/spieler/262939,matched_alias
+cb,Moon-Hwan KIM,KOR,1,0,0,5,13,0.385,https://www.transfermarkt.it/moon-hwan-kim/profil/spieler/524592,matched_alias
+cb,Moreira S.,CPV,1,0,0,3,10,0.3,https://www.transfermarkt.it/steven-moreira/profil/spieler/203517,matched_alias
+cb,Mudau,SAF,1,1,0,3,16,0.188,https://www.transfermarkt.it/khuliso-mudau/profil/spieler/450806,matched_alias
+cb,Mujakic,BOS,1,0,0,2,10,0.2,https://www.transfermarkt.it/nihad-mujakic/profil/spieler/380919,matched_alias
+cb,Mumin,GHA,1,0,0,1,10,0.1,https://www.transfermarkt.it/abdul-mumin/profil/spieler/451801,matched_alias
+cb,Mwene,AUT,1,1,0,3,10,0.3,https://www.transfermarkt.it/phillipp-mwene/profil/spieler/127573,matched_alias
+cb,Nagatomo,JAP,1,0,0,2,13,0.154,https://www.transfermarkt.it/yuto-nagatomo/profil/spieler/79522,matched_alias
+cb,Nasib,GRD,1,1,0,6,16,0.375,https://www.transfermarkt.it/abdallah-nasib/profil/spieler/882197,matched_alias
+cb,Nasrullaev,UZB,1,0,0,8,12,0.667,https://www.transfermarkt.it/sherzod-nasrullaev/profil/spieler/608537,matched_alias
+cb,Ndamane,SAF,1,0,0,2,16,0.125,https://www.transfermarkt.it/khulumani-ndamane/profil/spieler/1283140,matched_alias
+cb,Neffati,TUN,1,2,0,2,18,0.111,https://www.transfermarkt.it/moutaz-neffati/profil/spieler/1034598,matched_alias
+cb,Nemati,IRN,1,0,0,7,12,0.583,https://www.transfermarkt.it/ali-nemati/profil/spieler/527092,matched_alias
+cb,Ngoy,BEL,1,3,0,4,10,0.4,https://www.transfermarkt.it/nathan-ngoy/profil/spieler/548254,matched_alias
+cb,Obaid,GRD,1,2,0,5,16,0.312,https://www.transfermarkt.it/saleem-obaid/profil/spieler/658807,matched_alias
+cb,Obispo,CUW,1,2,0,2,11,0.182,https://www.transfermarkt.it/armando-obispo/profil/spieler/339337,matched_alias
+cb,Old,NZL,1,5,1,10,10,1.0,https://www.transfermarkt.it/ben-old/profil/spieler/617021,matched_alias
+cb,Oppong,GHA,1,1,0,3,10,0.3,https://www.transfermarkt.it/kojo-peprah-oppong/profil/spieler/1113451,matched_alias
+cb,Paugain,HAI,1,1,0,4,12,0.333,https://www.transfermarkt.it/wilguens-paugain/profil/spieler/609691,matched_alias
+cb,Payne,NZL,1,0,0,8,10,0.8,https://www.transfermarkt.it/tim-payne/profil/spieler/149901,matched_alias
+cb,Pico,CPV,1,,,,10,,,unmatched_fuzzy_36
+cb,Pijnaker,NZL,1,0,0,2,10,0.2,https://www.transfermarkt.it/nando-pijnaker/profil/spieler/455425,matched_alias
+cb,Pina W.,CPV,1,0,0,4,10,0.4,https://www.transfermarkt.it/wagner-pina/profil/spieler/1072017,matched_alias
+cb,Pires,CPV,1,1,1,3,10,0.3,https://www.transfermarkt.it/kelvin-pires/profil/spieler/662119,matched_alias
+cb,Porozo,ECU,1,2,1,2,10,0.2,https://www.transfermarkt.it/jackson-porozo/profil/spieler/491616,matched_alias
+cb,Putros,IRQ,1,2,0,5,14,0.357,https://www.transfermarkt.it/frans-putros/profil/spieler/166460,matched_alias
+cb,Rabia,EGY,1,2,0,4,15,0.267,https://www.transfermarkt.it/ramy-rabia/profil/spieler/172623,matched_alias
+cb,Radeljic,BOS,1,2,0,1,10,0.1,https://www.transfermarkt.it/stjepan-radeljic/profil/spieler/384568,matched_alias
+cb,Ralston,SCO,1,1,0,3,10,0.3,https://www.transfermarkt.it/anthony-ralston/profil/spieler/388171,matched_alias
+cb,Ramos,PAN,1,1,2,4,15,0.267,https://www.transfermarkt.it/jiovany-ramos/profil/spieler/403809,matched_alias
+cb,Ream,USA,1,0,0,7,18,0.389,https://www.transfermarkt.it/tim-ream/profil/spieler/145466,matched_alias
+cb,Rekik,TUN,1,1,0,3,18,0.167,https://www.transfermarkt.it/omar-rekik/profil/spieler/578292,matched_alias
+cb,Rezaeian,IRN,1,2,2,5,12,0.417,https://www.transfermarkt.it/ramin-rezaeian/profil/spieler/188312,matched_alias
+cb,Rodriguez,SVI,1,0,0,3,10,0.3,https://www.transfermarkt.it/ricardo-rodriguez/profil/spieler/86784,matched_alias
+cb,Saadoon,IRQ,1,2,0,3,14,0.214,https://www.transfermarkt.it/mustafa-saadoon/profil/spieler/952341,matched_alias
+cb,Sambo,CUW,1,0,0,2,11,0.182,https://www.transfermarkt.it/shurandy-sambo/profil/spieler/412937,matched_alias
+cb,Sanabria J.M.,URU,1,2,1,5,10,0.5,https://www.transfermarkt.it/juan-manuel-sanabria/profil/spieler/446106,matched_alias
+cb,Sanchez J.,MEX,1,1,1,8,16,0.5,https://www.transfermarkt.it/jorge-sanchez/profil/spieler/356044,matched_alias
+cb,Sayfiev,UZB,1,0,0,5,12,0.417,https://www.transfermarkt.it/farrukh-sayfiev/profil/spieler/212499,matched_alias
+cb,Sebelebele,SAF,1,6,0,1,16,0.062,https://www.transfermarkt.it/kamogelo-sebelebele/profil/spieler/994370,matched_alias
+cb,Seck,SEN,1,3,1,3,19,0.158,https://www.transfermarkt.it/abdoulaye-seck/profil/spieler/265383,matched_alias
+cb,Seidu,GHA,1,0,0,3,10,0.3,https://www.transfermarkt.it/alidu-seidu/profil/spieler/798404,matched_alias
+cb,Sema,SVE,1,0,0,1,10,0.1,https://www.transfermarkt.it/ken-sema/profil/spieler/252345,matched_alias
+cb,Sibisi,SAF,1,0,0,2,16,0.125,https://www.transfermarkt.it/nkosinathi-sibisi/profil/spieler/399068,matched_alias
+cb,Smith T.,NZL,1,0,0,0,10,0.0,https://www.transfermarkt.it/tommy-smith/profil/spieler/54381,matched_alias
+cb,Souttar,AUS,1,1,0,2,10,0.2,https://www.transfermarkt.it/harry-souttar/profil/spieler/298091,matched_alias
+cb,Souttar J.,SCO,1,0,0,3,10,0.3,https://www.transfermarkt.it/john-souttar/profil/spieler/235767,matched_alias
+cb,Stopira,CPV,1,4,0,3,10,0.3,https://www.transfermarkt.it/stopira/profil/spieler/80486,matched_alias
+cb,Sulaka,IRQ,1,0,0,3,14,0.214,https://www.transfermarkt.it/rebin-sulaka/profil/spieler/217073,matched_alias
+cb,Surman,NZL,1,0,1,10,10,1.0,https://www.transfermarkt.it/finn-surman/profil/spieler/724809,matched_alias
+cb,Svoboda,AUT,1,3,0,2,10,0.2,https://www.transfermarkt.it/michael-svoboda/profil/spieler/438961,matched_alias
+cb,Tae-Hwan KIM,KOR,1,,,,13,,,unmatched_fuzzy_80
+cb,Tae-Seok Lee,KOR,1,3,1,8,13,0.615,https://www.transfermarkt.it/tae-seok-lee/profil/spieler/639027,matched_alias
+cb,Tahseen,IRQ,1,1,0,6,14,0.429,https://www.transfermarkt.it/zaid-tahseen/profil/spieler/931147,matched_alias
+cb,Taniguchi,JAP,1,1,0,6,13,0.462,https://www.transfermarkt.it/shogo-taniguchi/profil/spieler/307870,matched_alias
+cb,Thakri,SAU,1,0,0,4,20,0.2,https://www.transfermarkt.it/jehad-thakri/profil/spieler/901334,matched_alias
+cb,Thermoncy,HAI,1,2,0,0,12,0.0,https://www.transfermarkt.it/keeto-thermoncy/profil/spieler/1061046,matched_alias
+cb,Tougai,ALG,1,4,0,1,23,0.043,https://www.transfermarkt.it/mohamed-amine-tougai/profil/spieler/592396,matched_alias
+cb,Tuanzebe,COD,1,1,1,3,18,0.167,https://www.transfermarkt.it/axel-tuanzebe/profil/spieler/342046,matched_alias
+cb,Ulmasaiev,UZB,1,,,,12,,,unmatched_fuzzy_66
+cb,Urozov,UZB,1,0,1,4,12,0.333,https://www.transfermarkt.it/jakhongir-urozov/profil/spieler/989069,matched_alias
+cb,Valery,TUN,1,0,0,4,18,0.222,https://www.transfermarkt.it/yan-valery/profil/spieler/406008,matched_alias
+cb,Van Eijma,CUW,1,0,0,3,11,0.273,https://www.transfermarkt.it/roshon-van-eijma/profil/spieler/401029,matched_alias
+cb,Veiga,POR,1,1,0,4,10,0.4,https://www.transfermarkt.it/renato-veiga/profil/spieler/805714,matched_alias
+cb,Velazquez,PAR,1,0,0,3,10,0.3,https://www.transfermarkt.it/gustavo-velazquez/profil/spieler/389399,matched_alias
+cb,Waterman,CAN,1,0,0,7,14,0.5,https://www.transfermarkt.it/joel-waterman/profil/spieler/441738,matched_alias
+cb,Yahya A.,IRQ,1,2,0,3,14,0.214,https://www.transfermarkt.it/ahmed-yahya/profil/spieler/949320,matched_alias
+cb,Younis,IRQ,1,1,0,5,14,0.357,https://www.transfermarkt.it/manaf-younis/profil/spieler/945266,matched_alias
+cb,Yousefi,IRN,1,2,1,3,12,0.25,https://www.transfermarkt.it/arya-yousefi/profil/spieler/932724,matched_alias
+cb,Yu-Min Cho,KOR,1,0,0,5,13,0.385,https://www.transfermarkt.it/yu-min-cho/profil/spieler/561212,matched_alias
+cb,Zeleny,RCE,1,1,0,4,10,0.4,https://www.transfermarkt.it/jaroslav-zeleny/profil/spieler/142219,matched_alias
+cb,de Vries,NZL,1,1,0,9,10,0.9,https://www.transfermarkt.it/francis-de-vries/profil/spieler/207061,matched_alias
+m,Saka,ING,35,11,1,2,10,0.2,https://www.transfermarkt.it/bukayo-saka/profil/spieler/433177,matched_alias
+m,Raphinha,BRA,34,21,0,3,10,0.3,https://www.transfermarkt.it/raphinha/profil/spieler/411295,matched_alias
+m,Musiala,GER,33,5,1,2,10,0.2,https://www.transfermarkt.it/jamal-musiala/profil/spieler/580195,matched_alias
+m,Rodri,SPA,32,2,0,3,10,0.3,https://www.transfermarkt.it/rodri/profil/spieler/357565,matched_alias
+m,Wirtz,GER,32,7,3,4,10,0.4,https://www.transfermarkt.it/florian-wirtz/profil/spieler/598577,matched_alias
+m,Odegaard,NOR,31,1,1,2,10,0.2,https://www.transfermarkt.it/martin-odegaard/profil/spieler/316264,matched_alias
+m,Valverde,URU,31,9,1,2,10,0.2,https://www.transfermarkt.it/federico-valverde/profil/spieler/369081,matched_alias
+m,Barcola,FRA,30,13,0,2,10,0.2,https://www.transfermarkt.it/bradley-barcola/profil/spieler/708265,matched_alias
+m,Bellingham,ING,30,8,0,2,10,0.2,https://www.transfermarkt.it/jude-bellingham/profil/spieler/581678,matched_alias
+m,Zalazar,URU,29,23,0,4,10,0.4,https://www.transfermarkt.it/rodrigo-zalazar/profil/spieler/606752,matched_alias
+m,Bruno Fernandes,POR,27,9,1,4,10,0.4,https://www.transfermarkt.it/bruno-fernandes/profil/spieler/240306,matched_alias
+m,Pedri,SPA,27,2,1,3,10,0.3,https://www.transfermarkt.it/pedri/profil/spieler/683840,matched_alias
+m,Joao Neves,POR,26,7,0,2,10,0.2,https://www.transfermarkt.it/joao-neves/profil/spieler/670681,matched_alias
+m,Doué,FRA,25,13,2,3,10,0.3,https://www.transfermarkt.it/desire-doue/profil/spieler/914562,matched_alias
+m,Guimaraes,BRA,25,9,1,6,10,0.6,https://www.transfermarkt.it/bruno-guimaraes/profil/spieler/520624,matched_alias
+m,Calhanoglu,TUR,24,12,0,4,10,0.4,https://www.transfermarkt.it/hakan-calhanoglu/profil/spieler/126414,matched_alias
+m,Guler,TUR,24,6,0,4,10,0.4,https://www.transfermarkt.it/arda-guler/profil/spieler/861410,matched_alias
+m,Zaire Emery,FRA,24,3,0,2,10,0.2,https://www.transfermarkt.it/warren-zaire-emery/profil/spieler/810092,matched_alias
+m,Enzo Fernandez,ARG,23,15,1,5,9,0.556,https://www.transfermarkt.it/enzo-fernandez/profil/spieler/648195,matched_alias
+m,Rice,ING,23,5,1,2,10,0.2,https://www.transfermarkt.it/declan-rice/profil/spieler/357662,matched_alias
+m,Vitinha,POR,22,7,0,3,10,0.3,https://www.transfermarkt.it/vitinha/profil/spieler/487469,matched_alias
+m,Eze,ING,21,10,0,1,10,0.1,https://www.transfermarkt.it/eberechi-eze/profil/spieler/479999,matched_alias
+m,Mac Allister,ARG,21,5,2,7,9,0.778,https://www.transfermarkt.it/alexis-mac-allister/profil/spieler/534033,matched_alias_position
+m,Paqueta,BRA,21,13,1,6,10,0.6,https://www.transfermarkt.it/lucas-paqueta/profil/spieler/444523,matched_alias
+m,Pulisic,USA,20,10,1,8,18,0.444,https://www.transfermarkt.it/christian-pulisic/profil/spieler/315779,matched_alias
+m,Bernardo Silva,POR,19,3,0,2,10,0.2,https://www.transfermarkt.it/bernardo-silva/profil/spieler/241641,matched_alias
+m,Doku,BEL,19,8,0,4,10,0.4,https://www.transfermarkt.it/jeremy-doku/profil/spieler/486049,matched_alias
+m,Sane,GER,19,7,1,4,10,0.4,https://www.transfermarkt.it/leroy-sane/profil/spieler/192565,matched_alias
+m,Tchouameni,FRA,19,2,0,3,10,0.3,https://www.transfermarkt.it/aurelien-tchouameni/profil/spieler/413112,matched_alias
+m,Caicedo,ECU,18,5,0,5,10,0.5,https://www.transfermarkt.it/moises-caicedo/profil/spieler/687626,matched_manual
+m,Cherki,FRA,18,10,1,3,10,0.3,https://www.transfermarkt.it/rayan-cherki/profil/spieler/607223,matched_alias
+m,Pavlovic A.,GER,18,4,0,2,10,0.2,https://www.transfermarkt.it/aleksandar-pavlovic/profil/spieler/792380,matched_alias
+m,Timber Q.,OLA,18,4,0,3,10,0.3,https://www.transfermarkt.it/quinten-timber/profil/spieler/420213,matched_alias
+m,Trossard,BEL,17,8,1,1,10,0.1,https://www.transfermarkt.it/leandro-trossard/profil/spieler/144028,matched_alias
+m,Ugarte,URU,17,0,0,3,10,0.3,https://www.transfermarkt.it/manuel-ugarte/profil/spieler/476701,matched_alias
+m,Madueke,ING,16,8,0,2,10,0.2,https://www.transfermarkt.it/noni-madueke/profil/spieler/503987,matched_alias
+m,Nusa,NOR,16,5,2,5,10,0.5,https://www.transfermarkt.it/antonio-nusa/profil/spieler/894914,matched_alias
+m,Zubimendi,SPA,16,6,0,2,10,0.2,https://www.transfermarkt.it/martin-zubimendi/profil/spieler/423440,matched_alias
+m,Kante,FRA,15,4,0,4,10,0.4,https://www.transfermarkt.it/ngolo-kante/profil/spieler/225083,matched_alias
+m,Matheus Nunes,POR,15,1,0,3,10,0.3,https://www.transfermarkt.it/matheus-nunes/profil/spieler/601883,matched_alias
+m,Leweling,GER,14,11,0,1,10,0.1,https://www.transfermarkt.it/jamie-leweling/profil/spieler/518505,matched_alias
+m,Mainoo,ING,14,1,0,4,10,0.4,https://www.transfermarkt.it/kobbie-mainoo/profil/spieler/820374,matched_alias
+m,Mctominay,SCO,14,14,1,3,10,0.3,https://www.transfermarkt.it/scott-mctominay/profil/spieler/315969,matched_alias
+m,Nico Williams,SPA,14,6,0,0,10,0.0,https://www.transfermarkt.it/nico-williams/profil/spieler/709187,matched_alias
+m,Nmecha F.,GER,14,5,0,2,10,0.2,https://www.transfermarkt.it/felix-nmecha/profil/spieler/406640,matched_alias
+m,Olmo,SPA,14,8,0,4,10,0.4,https://www.transfermarkt.it/dani-olmo/profil/spieler/293385,matched_alias
+m,Palacios E.,ARG,14,0,0,3,9,0.333,https://www.transfermarkt.it/exequiel-palacios/profil/spieler/401578,matched_alias
+m,Baena,SPA,13,2,0,3,10,0.3,https://www.transfermarkt.it/alex-baena/profil/spieler/548111,matched_alias
+m,De Bruyne,BEL,13,5,1,4,10,0.4,https://www.transfermarkt.it/kevin-de-bruyne/profil/spieler/88755,matched_alias
+m,De Jong F.,OLA,13,1,0,2,10,0.2,https://www.transfermarkt.it/frenkie-de-jong/profil/spieler/326330,matched_alias
+m,Ederson J.,BRA,13,3,0,0,10,0.0,https://www.transfermarkt.it/ederson/profil/spieler/607854,matched_fuzzy_position_87
+m,Jackson,SEN,13,11,3,5,19,0.263,https://www.transfermarkt.it/nicolas-jackson/profil/spieler/776890,matched_alias
+m,Kang-In Lee,KOR,13,4,0,9,13,0.692,https://www.transfermarkt.it/kang-in-lee/profil/spieler/557149,matched_alias
+m,Onana Am.,BEL,13,2,1,4,10,0.4,https://www.transfermarkt.it/amadou-onana/profil/spieler/485706,matched_alias
+m,Reijnders,OLA,13,7,1,3,10,0.3,https://www.transfermarkt.it/tijjani-reijnders/profil/spieler/460939,matched_alias
+m,Saibari,MAR,13,19,3,7,26,0.269,https://www.transfermarkt.it/ismael-saibari/profil/spieler/702869,matched_alias
+m,Amiri N.,GER,12,17,0,2,10,0.2,https://www.transfermarkt.it/nadiem-amiri/profil/spieler/232454,matched_alias
+m,Conceicao F.,POR,12,4,1,4,10,0.4,https://www.transfermarkt.it/francisco-conceicao/profil/spieler/487474,matched_alias
+m,Gravenberch,OLA,12,6,0,3,10,0.3,https://www.transfermarkt.it/ryan-gravenberch/profil/spieler/478573,matched_alias
+m,Koopmeiners,OLA,12,2,0,3,10,0.3,https://www.transfermarkt.it/teun-koopmeiners/profil/spieler/360518,matched_alias
+m,Manu Kone,FRA,12,2,0,2,10,0.2,https://www.transfermarkt.it/manu-kone/profil/spieler/624690,matched_alias
+m,Ndiaye I.,SEN,12,6,0,3,19,0.158,https://www.transfermarkt.it/iliman-ndiaye/profil/spieler/623570,matched_alias
+m,Rios R.,COL,12,8,0,7,10,0.7,https://www.transfermarkt.it/richard-rios/profil/spieler/735573,matched_alias
+m,Ruiz,SPA,12,2,0,1,10,0.1,https://www.transfermarkt.it/fabian-ruiz/profil/spieler/350219,matched_alias
+m,Sarr P.,SEN,12,2,0,4,19,0.211,https://www.transfermarkt.it/pape-matar-sarr/profil/spieler/568693,matched_alias
+m,De Ketelaere,BEL,11,5,2,4,10,0.4,https://www.transfermarkt.it/charles-de-ketelaere/profil/spieler/435772,matched_alias
+m,Mcginn,SCO,11,10,0,3,10,0.3,https://www.transfermarkt.it/john-mcginn/profil/spieler/193116,matched_alias
+m,Akliouche,FRA,10,7,0,4,10,0.4,https://www.transfermarkt.it/maghnes-akliouche/profil/spieler/745200,matched_alias
+m,Almada,ARG,10,4,1,5,9,0.556,https://www.transfermarkt.it/thiago-almada/profil/spieler/576028,matched_alias
+m,De La Cruz,URU,10,1,0,1,10,0.1,https://www.transfermarkt.it/nicolas-de-la-cruz/profil/spieler/397458,matched_fuzzy_93
+m,De Paul,ARG,10,4,0,7,9,0.778,https://www.transfermarkt.it/rodrigo-de-paul/profil/spieler/255901,matched_alias
+m,Diaz B.,MAR,10,2,1,7,26,0.269,https://www.transfermarkt.it/brahim-diaz/profil/spieler/314678,matched_alias
+m,El Khannouss,MAR,10,9,2,7,26,0.269,https://www.transfermarkt.it/bilal-el-khannouss/profil/spieler/654982,matched_alias
+m,Paez,ECU,10,2,0,6,10,0.6,https://www.transfermarkt.it/kendry-paez/profil/spieler/1052439,matched_alias
+m,Pino,SPA,10,5,0,4,10,0.4,https://www.transfermarkt.it/yeremy-pino/profil/spieler/568157,matched_alias
+m,Rabiot,FRA,10,6,0,3,10,0.3,https://www.transfermarkt.it/adrien-rabiot/profil/spieler/182913,matched_alias
+m,Soucek,RCE,10,6,1,5,10,0.5,https://www.transfermarkt.it/tomas-soucek/profil/spieler/283628,matched_alias
+m,Stiller,GER,10,2,0,3,10,0.3,https://www.transfermarkt.it/angelo-stiller/profil/spieler/443710,matched_alias
+m,Sulemana K.,GHA,10,3,0,5,10,0.5,https://www.transfermarkt.it/kamaldeen-sulemana/profil/spieler/746695,matched_alias
+m,Tielemans,BEL,10,2,1,4,10,0.4,https://www.transfermarkt.it/youri-tielemans/profil/spieler/249565,matched_alias
+m,Trincao,POR,10,13,1,3,10,0.3,https://www.transfermarkt.it/francisco-trincao/profil/spieler/412669,matched_alias
+m,Bouaddi,MAR,9,0,0,3,26,0.115,https://www.transfermarkt.it/ayyoub-bouaddi/profil/spieler/1097139,matched_alias
+m,Gavi,SPA,9,0,0,2,10,0.2,https://www.transfermarkt.it/gavi/profil/spieler/646740,matched_alias
+m,Kluivert,OLA,9,2,0,1,10,0.1,https://www.transfermarkt.it/justin-kluivert/profil/spieler/330659,matched_alias
+m,Merino,SPA,9,6,0,2,10,0.2,https://www.transfermarkt.it/mikel-merino/profil/spieler/338424,matched_alias
+m,Rogers,ING,9,14,1,4,10,0.4,https://www.transfermarkt.it/morgan-rogers/profil/spieler/503743,matched_alias
+m,Summerville,OLA,9,7,0,2,10,0.2,https://www.transfermarkt.it/crysencio-summerville/profil/spieler/474701,matched_alias
+m,Vlasic,CRO,9,9,0,3,10,0.3,https://www.transfermarkt.it/nikola-vlasic/profil/spieler/293200,matched_alias
+m,Adingra,CIV,8,4,1,3,13,0.231,https://www.transfermarkt.it/simon-adingra/profil/spieler/658536,matched_alias
+m,Anderson,ING,8,4,0,4,10,0.4,https://www.transfermarkt.it/elliot-anderson/profil/spieler/567576,matched_alias
+m,Ayari K.,TUN,8,1,0,4,18,0.222,https://www.transfermarkt.it/khalil-ayari/profil/spieler/1198342,matched_alias
+m,Baturina,CRO,8,8,0,4,10,0.4,https://www.transfermarkt.it/martin-baturina/profil/spieler/580451,matched_alias
+m,Baumgartner,AUT,8,17,0,2,10,0.2,https://www.transfermarkt.it/christoph-baumgartner/profil/spieler/324278,matched_alias
+m,Chaibi,ALG,8,3,0,2,23,0.087,https://www.transfermarkt.it/fares-chaibi/profil/spieler/855015,matched_alias
+m,Enciso,PAR,8,12,0,5,10,0.5,https://www.transfermarkt.it/julio-enciso/profil/spieler/660867,matched_alias
+m,Goretzka,GER,8,5,0,3,10,0.3,https://www.transfermarkt.it/leon-goretzka/profil/spieler/153084,matched_alias
+m,Kubo,JAP,8,2,0,5,13,0.385,https://www.transfermarkt.it/takefusa-kubo/profil/spieler/405398,matched_alias
+m,Lang N.,OLA,8,3,0,0,10,0.0,https://www.transfermarkt.it/noa-lang/profil/spieler/339332,matched_alias
+m,Lerma,COL,8,0,2,7,10,0.7,https://www.transfermarkt.it/jefferson-lerma/profil/spieler/262980,matched_alias
+m,Mckennie,USA,8,9,1,6,18,0.333,https://www.transfermarkt.it/weston-mckennie/profil/spieler/332697,matched_alias
+m,Nico Paz,ARG,8,13,1,5,9,0.556,https://www.transfermarkt.it/nico-paz/profil/spieler/948294,matched_alias
+m,Ouedraogo,GER,8,4,0,0,10,0.0,https://www.transfermarkt.it/assan-ouedraogo/profil/spieler/897424,matched_alias
+m,Ruben Neves,POR,8,12,0,4,10,0.4,https://www.transfermarkt.it/ruben-neves/profil/spieler/225161,matched_alias
+m,Sangare,CIV,8,2,0,3,13,0.231,https://www.transfermarkt.it/ibrahim-sangare/profil/spieler/375885,matched_alias
+m,Adams T.,USA,7,2,0,4,18,0.222,https://www.transfermarkt.it/tyler-adams/profil/spieler/332705,matched_alias
+m,Berge,NOR,7,0,0,6,10,0.6,https://www.transfermarkt.it/sander-berge/profil/spieler/333014,matched_alias
+m,Bergvall,SVE,7,1,0,4,10,0.4,https://www.transfermarkt.it/lucas-bergvall/profil/spieler/866246,matched_alias
+m,Boudaoui,ALG,7,1,0,1,23,0.043,https://www.transfermarkt.it/hicham-boudaoui/profil/spieler/560593,matched_alias
+m,Diego Gomez,PAR,7,10,2,7,10,0.7,https://www.transfermarkt.it/diego-gomez/profil/spieler/996897,matched_alias
+m,Doak,SCO,7,0,0,2,10,0.2,https://www.transfermarkt.it/ben-gannon-doak/profil/spieler/719673,matched_alias
+m,Doan,JAP,7,7,1,8,13,0.615,https://www.transfermarkt.it/ritsu-doan/profil/spieler/358504,matched_alias
+m,El Aynaoui,MAR,7,2,2,6,26,0.231,https://www.transfermarkt.it/neil-el-aynaoui/profil/spieler/901019,matched_alias
+m,Elanga,SVE,7,3,1,4,10,0.4,https://www.transfermarkt.it/anthony-elanga/profil/spieler/583189,matched_alias
+m,Hadj Moussa,ALG,7,14,1,3,23,0.13,https://www.transfermarkt.it/anis-hadj-moussa/profil/spieler/917911,matched_alias
+m,Hannibal,TUN,7,1,0,4,18,0.222,https://www.transfermarkt.it/hannibal/profil/spieler/607224,matched_alias
+m,Jashari,SVI,7,0,0,4,10,0.4,https://www.transfermarkt.it/ardon-jashari/profil/spieler/608172,matched_alias
+m,Kokcu,TUR,7,10,1,4,10,0.4,https://www.transfermarkt.it/orkun-kokcu/profil/spieler/454567,matched_alias
+m,Kovacic,CRO,7,0,0,2,10,0.2,https://www.transfermarkt.it/mateo-kovacic/profil/spieler/51471,matched_alias
+m,Sano,JAP,7,,,,13,,,ambiguous_alias
+m,Sarr I.,SEN,7,21,1,4,19,0.211,https://www.transfermarkt.it/ismaila-sarr/profil/spieler/410225,matched_alias
+m,Sucic L.,CRO,7,4,0,3,10,0.3,https://www.transfermarkt.it/luka-sucic/profil/spieler/502722,matched_alias
+m,Tillman,USA,7,8,0,5,18,0.278,https://www.transfermarkt.it/malik-tillman/profil/spieler/467437,matched_manual
+m,Zakaria,SVI,7,2,0,4,10,0.4,https://www.transfermarkt.it/denis-zakaria/profil/spieler/334526,matched_alias
+m,Arias J.,COL,6,8,3,5,10,0.5,https://www.transfermarkt.it/jhon-arias/profil/spieler/588989,matched_alias
+m,Aursnes,NOR,6,4,0,2,10,0.2,https://www.transfermarkt.it/fredrik-aursnes/profil/spieler/223367,matched_alias
+m,Bentancur,URU,6,1,0,2,10,0.2,https://www.transfermarkt.it/rodrigo-bentancur/profil/spieler/354362,matched_alias
+m,Camara L.,SEN,6,3,1,4,19,0.211,https://www.transfermarkt.it/lamine-camara/profil/spieler/918969,matched_alias
+m,Chukwuemeka,AUT,6,3,1,3,10,0.3,https://www.transfermarkt.it/carney-chukwuemeka/profil/spieler/659459,matched_alias
+m,Fabinho,BRA,6,3,0,4,10,0.4,https://www.transfermarkt.it/fabinho/profil/spieler/225693,matched_alias
+m,Ferguson,SCO,6,1,0,3,10,0.3,https://www.transfermarkt.it/lewis-ferguson/profil/spieler/428563,matched_alias
+m,Kone I.,CAN,6,6,1,9,14,0.643,https://www.transfermarkt.it/ismael-kone/profil/spieler/921655,matched_alias
+m,Seiwald,AUT,6,0,1,3,10,0.3,https://www.transfermarkt.it/nicolas-seiwald/profil/spieler/404950,matched_alias
+m,Svanberg,SVE,6,5,0,4,10,0.4,https://www.transfermarkt.it/mattias-svanberg/profil/spieler/342405,matched_alias
+m,Yuksek,TUR,6,2,0,3,10,0.3,https://www.transfermarkt.it/ismail-yuksek/profil/spieler/613725,matched_alias
+m,Angulo N.,ECU,5,7,2,6,10,0.6,https://www.transfermarkt.it/nilson-angulo/profil/spieler/903611,matched_alias
+m,Baah,GHA,5,3,0,5,10,0.5,https://www.transfermarkt.it/christopher-bonsu-baah/profil/spieler/1119447,matched_alias
+m,Barco,ARG,5,3,2,3,9,0.333,https://www.transfermarkt.it/valentin-barco/profil/spieler/849410,matched_alias
+m,Casemiro,BRA,5,9,2,8,10,0.8,https://www.transfermarkt.it/casemiro/profil/spieler/16306,matched_alias
+m,De Arrascaeta,URU,5,9,1,3,10,0.3,https://www.transfermarkt.it/giorgian-de-arrascaeta/profil/spieler/248410,matched_alias
+m,Endo,JAP,5,0,0,3,13,0.231,https://www.transfermarkt.it/wataru-endo/profil/spieler/146310,matched_alias
+m,Fatawu,GHA,5,9,1,3,10,0.3,https://www.transfermarkt.it/abdul-fatawu/profil/spieler/864121,matched_alias
+m,Fofana S.,CIV,5,4,0,2,13,0.154,https://www.transfermarkt.it/seko-fofana/profil/spieler/182893,matched_alias
+m,Gilmour,SCO,5,1,0,3,10,0.3,https://www.transfermarkt.it/billy-gilmour/profil/spieler/423744,matched_alias
+m,Gueye P.,SEN,5,5,0,4,19,0.211,https://www.transfermarkt.it/pape-gueye/profil/spieler/485963,matched_alias
+m,Henderson J.,ING,5,1,0,3,10,0.3,https://www.transfermarkt.it/jordan-henderson/profil/spieler/61651,matched_alias
+m,Ito J.,JAP,5,7,1,7,13,0.538,https://www.transfermarkt.it/junya-ito/profil/spieler/348791,matched_alias
+m,Kessie,CIV,5,12,0,3,13,0.231,https://www.transfermarkt.it/franck-kessie/profil/spieler/294808,matched_alias
+m,Martinez Em.,URU,5,0,0,6,10,0.6,https://www.transfermarkt.it/emiliano-martinez/profil/spieler/707447,matched_alias
+m,Maza,ALG,5,5,0,5,23,0.217,https://www.transfermarkt.it/ibrahim-maza/profil/spieler/905011,matched_alias
+m,Perisic,CRO,5,10,0,4,10,0.4,https://www.transfermarkt.it/ivan-perisic/profil/spieler/42460,matched_alias
+m,Rieder,SVI,5,6,0,3,10,0.3,https://www.transfermarkt.it/fabian-rieder/profil/spieler/507341,matched_alias
+m,Saelemaekers,BEL,5,3,0,3,10,0.3,https://www.transfermarkt.it/alexis-saelemaekers/profil/spieler/381950,matched_alias
+m,Schjelderup,NOR,5,10,1,6,10,0.6,https://www.transfermarkt.it/andreas-schjelderup/profil/spieler/670103,matched_alias
+m,Sow,SVI,5,5,0,3,10,0.3,https://www.transfermarkt.it/djibril-sow/profil/spieler/212723,matched_alias
+m,Sucic P.,CRO,5,4,0,4,10,0.4,https://www.transfermarkt.it/petar-sucic/profil/spieler/668207,matched_alias
+m,Thorstvedt,NOR,5,4,0,4,10,0.4,https://www.transfermarkt.it/kristian-thorstvedt/profil/spieler/564785,matched_alias
+m,Wanner,AUT,5,5,0,3,10,0.3,https://www.transfermarkt.it/paul-wanner/profil/spieler/900909,matched_alias
+m,Weah,USA,5,3,0,7,18,0.389,https://www.transfermarkt.it/timothy-weah/profil/spieler/370846,matched_alias
+m,Xhaka,SVI,5,1,1,3,10,0.3,https://www.transfermarkt.it/granit-xhaka/profil/spieler/111455,matched_alias
+m,Zerrouki,ALG,5,3,0,5,23,0.217,https://www.transfermarkt.it/ramiz-zerrouki/profil/spieler/416660,matched_alias
+m,Aaronson,USA,4,4,0,5,18,0.278,https://www.transfermarkt.it/brenden-aaronson/profil/spieler/393323,matched_alias
+m,Akgun,TUR,4,10,1,2,10,0.2,https://www.transfermarkt.it/yunus-akgun/profil/spieler/396908,matched_alias
+m,Alajbegovic,BOS,4,13,0,5,10,0.5,https://www.transfermarkt.it/kerim-alajbegovic/profil/spieler/929994,matched_alias
+m,Almiron,PAR,4,0,2,7,10,0.7,https://www.transfermarkt.it/miguel-almiron/profil/spieler/272999,matched_alias
+m,Alvarez E.,MEX,4,,,,16,,,ambiguous_alias
+m,Carrascal,COL,4,3,0,5,10,0.5,https://www.transfermarkt.it/jorge-carrascal/profil/spieler/354145,matched_alias
+m,Castano,COL,4,0,0,5,10,0.5,https://www.transfermarkt.it/kevin-castano/profil/spieler/857948,matched_alias
+m,Christie,SCO,4,2,1,4,10,0.4,https://www.transfermarkt.it/ryan-christie/profil/spieler/188077,matched_alias
+m,Danilo Dos Santos,BRA,4,10,2,4,10,0.4,https://www.transfermarkt.it/danilo/profil/spieler/808509,matched_manual
+m,Elia,COD,4,3,0,3,18,0.167,https://www.transfermarkt.it/meschack-elia/profil/spieler/423678,matched_alias
+m,Grob,GER,4,1,0,2,10,0.2,https://www.transfermarkt.it/pascal-gross/profil/spieler/82873,matched_manual
+m,Kahveci,TUR,4,2,0,3,10,0.3,https://www.transfermarkt.it/irfan-can-kahveci/profil/spieler/216603,matched_alias
+m,Kamada,JAP,4,1,1,7,13,0.538,https://www.transfermarkt.it/daichi-kamada/profil/spieler/356141,matched_alias
+m,Karlstrom,SVE,4,1,0,4,10,0.4,https://www.transfermarkt.it/jesper-karlstrom/profil/spieler/222855,matched_alias
+m,Maeda,JAP,4,17,0,4,13,0.308,https://www.transfermarkt.it/daizen-maeda/profil/spieler/420931,matched_alias
+m,Ndoye,SVI,4,2,3,4,10,0.4,https://www.transfermarkt.it/dan-ndoye/profil/spieler/365108,matched_alias
+m,Ozcan,TUR,4,0,0,3,10,0.3,https://www.transfermarkt.it/salih-ozcan/profil/spieler/244940,matched_alias
+m,Partey,GHA,4,0,0,3,10,0.3,https://www.transfermarkt.it/thomas-partey/profil/spieler/230784,matched_alias
+m,Pasalic Marco,CRO,4,2,0,4,10,0.4,https://www.transfermarkt.it/marco-pasalic/profil/spieler/395928,matched_fuzzy_93
+m,Pasalic Mario,CRO,4,10,1,4,10,0.4,https://www.transfermarkt.it/mario-pasalic/profil/spieler/205938,matched_fuzzy_93
+m,Plata,ECU,4,2,0,5,10,0.5,https://www.transfermarkt.it/gonzalo-plata/profil/spieler/592735,matched_alias
+m,Raskin,BEL,4,7,1,4,10,0.4,https://www.transfermarkt.it/nicolas-raskin/profil/spieler/422763,matched_alias
+m,Rodriguez B.,URU,4,13,0,3,10,0.3,https://www.transfermarkt.it/brian-rodriguez/profil/spieler/465818,matched_alias
+m,Schmid,AUT,4,4,0,3,10,0.3,https://www.transfermarkt.it/romano-schmid/profil/spieler/346853,matched_alias
+m,Skhiri,TUN,4,0,0,7,18,0.389,https://www.transfermarkt.it/ellyes-skhiri/profil/spieler/290587,matched_alias
+m,Til,OLA,4,17,0,1,10,0.1,https://www.transfermarkt.it/guus-til/profil/spieler/372267,matched_alias
+m,Wimmer,AUT,4,4,0,2,10,0.2,https://www.transfermarkt.it/patrick-wimmer/profil/spieler/533295,matched_alias
+m,Achouri,TUN,3,5,1,4,18,0.222,https://www.transfermarkt.it/elias-achouri/profil/spieler/645589,matched_alias
+m,Aebischer,SVI,3,1,0,4,10,0.4,https://www.transfermarkt.it/michel-aebischer/profil/spieler/237658,matched_alias
+m,Amrabat,MAR,3,2,0,4,26,0.154,https://www.transfermarkt.it/sofyan-amrabat/profil/spieler/287579,matched_alias
+m,Aouar,ALG,3,15,1,4,23,0.174,https://www.transfermarkt.it/houssem-aouar/profil/spieler/395693,matched_alias
+m,Ayari,SVE,3,4,0,4,10,0.4,https://www.transfermarkt.it/yasin-ayari/profil/spieler/667287,matched_alias
+m,Campaz,COL,3,1,1,4,10,0.4,https://www.transfermarkt.it/jaminton-campaz/profil/spieler/491553,matched_alias
+m,Canobbio,URU,3,6,0,2,10,0.2,https://www.transfermarkt.it/agustin-canobbio/profil/spieler/457533,matched_alias
+m,Castillo,ECU,3,,,,10,,,ambiguous_alias
+m,Etienne Jr.,HAI,3,2,0,3,12,0.25,https://www.transfermarkt.it/derrick-etienne-jr-/profil/spieler/354763,matched_alias
+m,Fidalgo,MEX,3,2,0,4,16,0.25,https://www.transfermarkt.it/alvaro-fidalgo/profil/spieler/261503,matched_alias
+m,Freuler,SVI,3,1,0,4,10,0.4,https://www.transfermarkt.it/remo-freuler/profil/spieler/148252,matched_alias
+m,Guedes,POR,3,9,1,2,10,0.2,https://www.transfermarkt.it/goncalo-guedes/profil/spieler/225122,matched_alias
+m,In-Beom Hwang,KOR,3,1,0,4,13,0.308,https://www.transfermarkt.it/in-beom-hwang/profil/spieler/365394,matched_alias
+m,Lira,MEX,3,1,0,14,16,0.875,https://www.transfermarkt.it/erik-lira/profil/spieler/602324,matched_alias
+m,Lo Celso,ARG,3,3,1,5,9,0.556,https://www.transfermarkt.it/giovani-lo-celso/profil/spieler/348795,matched_alias
+m,Moreira,BEL,3,5,0,1,10,0.1,https://www.transfermarkt.it/diego-moreira/profil/spieler/655006,matched_alias
+m,Nakamura,JAP,3,14,2,7,13,0.538,https://www.transfermarkt.it/keito-nakamura/profil/spieler/405397,matched_alias
+m,Noslin,CUW,3,3,0,4,11,0.364,https://www.transfermarkt.it/tyrese-noslin/profil/spieler/708005,matched_alias
+m,Ounahi,MAR,3,5,1,5,26,0.192,https://www.transfermarkt.it/azzedine-ounahi/profil/spieler/593482,matched_alias
+m,Owusu,GHA,3,0,0,3,10,0.3,https://www.transfermarkt.it/elisha-owusu/profil/spieler/395695,matched_alias_position
+m,Paredes,ARG,3,3,0,2,9,0.222,https://www.transfermarkt.it/leandro-paredes/profil/spieler/166237,matched_alias
+m,Pellistri,URU,3,0,0,2,10,0.2,https://www.transfermarkt.it/facundo-pellistri/profil/spieler/676318,matched_alias
+m,Prass,AUT,3,3,0,3,10,0.3,https://www.transfermarkt.it/alexander-prass/profil/spieler/434116,matched_alias
+m,Puerta,COL,3,3,1,6,10,0.6,https://www.transfermarkt.it/gustavo-puerta/profil/spieler/936981,matched_alias
+m,Schlager X.,AUT,3,3,0,2,10,0.2,https://www.transfermarkt.it/xaver-schlager/profil/spieler/223979,matched_alias
+m,Slimane,TUN,3,5,0,3,18,0.167,https://www.transfermarkt.it/anis-ben-slimane/profil/spieler/546712,matched_alias
+m,Sulc,RCE,3,15,1,4,10,0.4,https://www.transfermarkt.it/pavel-sulc/profil/spieler/500053,matched_alias
+m,Tanaka,JAP,3,4,0,6,13,0.462,https://www.transfermarkt.it/ao-tanaka/profil/spieler/489359,matched_alias
+m,Thorsby,NOR,3,3,0,3,10,0.3,https://www.transfermarkt.it/morten-thorsby/profil/spieler/226524,matched_alias
+m,Vanaken,BEL,3,12,0,2,10,0.2,https://www.transfermarkt.it/hans-vanaken/profil/spieler/137576,matched_alias
+m,Vargas R.,SVI,3,3,0,3,10,0.3,https://www.transfermarkt.it/ruben-vargas/profil/spieler/345886,matched_alias
+m,Volpato,AUS,3,2,0,1,10,0.1,https://www.transfermarkt.it/cristian-volpato/profil/spieler/746891,matched_alias
+m,Yassine,MAR,3,3,0,4,26,0.154,https://www.transfermarkt.it/gessime-yassine/profil/spieler/1151929,matched_alias
+m,Zendejas,USA,3,12,1,3,18,0.167,https://www.transfermarkt.it/alex-zendejas/profil/spieler/351505,matched_alias
+m,Afif,QAT,2,18,1,4,12,0.333,https://www.transfermarkt.it/akram-afif/profil/spieler/336646,matched_alias
+m,Alaba,AUT,2,0,0,2,10,0.2,https://www.transfermarkt.it/david-alaba/profil/spieler/59016,matched_alias
+m,Alan Franco,ECU,2,0,0,7,10,0.7,https://www.transfermarkt.it/alan-franco/profil/spieler/400960,matched_alias
+m,Alcivar,ECU,2,1,1,7,10,0.7,https://www.transfermarkt.it/jordy-alcivar/profil/spieler/598145,matched_alias
+m,Alvarado,MEX,2,4,0,9,16,0.562,https://www.transfermarkt.it/roberto-alvarado/profil/spieler/353583,matched_alias
+m,Andre Gomez,COL,2,4,0,4,10,0.4,https://www.transfermarkt.it/andres-gomez/profil/spieler/957461,matched_fuzzy_95
+m,Antonisse,CUW,2,1,1,4,11,0.364,https://www.transfermarkt.it/jeremy-antonisse/profil/spieler/594273,matched_alias
+m,Ashour,EGY,2,2,0,5,15,0.333,https://www.transfermarkt.it/emam-ashour/profil/spieler/604008,matched_alias
+m,Ateya,EGY,2,1,0,7,15,0.467,https://www.transfermarkt.it/marwan-ateya/profil/spieler/734542,matched_alias
+m,Bajraktarevic,BOS,2,7,0,5,10,0.5,https://www.transfermarkt.it/esmir-bajraktarevic/profil/spieler/925862,matched_alias
+m,Berg P.,NOR,2,1,0,6,10,0.6,https://www.transfermarkt.it/patrick-berg/profil/spieler/308439,matched_alias
+m,Berhalter,USA,2,7,1,7,18,0.389,https://www.transfermarkt.it/sebastian-berhalter/profil/spieler/734761,matched_alias
+m,Carrasquilla,PAN,2,2,0,2,15,0.133,https://www.transfermarkt.it/adalberto-carrasquilla/profil/spieler/375300,matched_alias
+m,Chavez L.,MEX,2,0,1,3,16,0.188,https://www.transfermarkt.it/luis-chavez/profil/spieler/331059,matched_alias
+m,Chong,CUW,2,0,1,4,11,0.364,https://www.transfermarkt.it/tahith-chong/profil/spieler/344830,matched_alias
+m,Danley,HAI,2,2,0,3,12,0.25,https://www.transfermarkt.it/danley-jean-jacques/profil/spieler/628834,matched_fuzzy_94
+m,Doudera,RCE,2,1,0,3,10,0.3,https://www.transfermarkt.it/david-doudera/profil/spieler/493758,matched_alias
+m,Eustaquio,CAN,2,1,0,6,14,0.429,https://www.transfermarkt.it/stephen-eustaquio/profil/spieler/512913,matched_alias
+m,Fayzullaev,UZB,2,4,0,3,12,0.25,https://www.transfermarkt.it/abbosbek-fayzullaev/profil/spieler/754037,matched_alias
+m,Felida,CUW,2,4,0,2,11,0.182,https://www.transfermarkt.it/kevin-felida/profil/spieler/433933,matched_alias
+m,Fruk,CRO,2,19,0,2,10,0.2,https://www.transfermarkt.it/toni-fruk/profil/spieler/432758,matched_alias
+m,Gharbi,TUN,2,0,0,7,18,0.389,https://www.transfermarkt.it/ismael-gharbi/profil/spieler/810096,matched_alias
+m,Ghayedi,IRN,2,6,1,3,12,0.25,https://www.transfermarkt.it/mehdi-ghayedi/profil/spieler/478192,matched_alias
+m,Ghedjemis,ALG,2,15,1,1,23,0.043,https://www.transfermarkt.it/fares-ghedjemis/profil/spieler/888738,matched_alias
+m,Gigovic,BOS,2,5,0,4,10,0.4,https://www.transfermarkt.it/armin-gigovic/profil/spieler/651269,matched_alias
+m,Gorre,CUW,2,5,0,2,11,0.182,https://www.transfermarkt.it/kenji-gorre/profil/spieler/374889,matched_alias
+m,Guiagon,CIV,2,12,0,3,13,0.231,https://www.transfermarkt.it/parfait-guiagon/profil/spieler/624913,matched_alias
+m,Gutierrez B.,MEX,2,2,2,7,16,0.438,https://www.transfermarkt.it/brian-gutierrez/profil/spieler/724443,matched_alias
+m,Hadziahmetovic,BOS,2,0,0,4,10,0.4,https://www.transfermarkt.it/amir-hadziahmetovic/profil/spieler/293213,matched_alias
+m,Huerta,MEX,2,2,0,2,16,0.125,https://www.transfermarkt.it/cesar-huerta/profil/spieler/540315,matched_alias
+m,Jae-Sung Lee,KOR,2,6,0,7,13,0.538,https://www.transfermarkt.it/jae-sung-lee/profil/spieler/314398,matched_alias
+m,Jakic,CRO,2,2,0,2,10,0.2,https://www.transfermarkt.it/kristijan-jakic/profil/spieler/374954,matched_alias
+m,Mahrez,ALG,2,8,2,4,23,0.174,https://www.transfermarkt.it/riyad-mahrez/profil/spieler/171424,matched_alias
+m,Mbuku,COD,2,4,0,4,18,0.222,https://www.transfermarkt.it/nathanael-mbuku/profil/spieler/557614,matched_alias
+m,Minda,ECU,2,6,0,4,10,0.4,https://www.transfermarkt.it/alan-minda/profil/spieler/897051,matched_alias
+m,Modric,CRO,2,2,1,4,10,0.4,https://www.transfermarkt.it/luka-modric/profil/spieler/27992,matched_alias
+m,Mohebi,IRN,2,,,,12,,,ambiguous_alias
+m,Mokoena,SAF,2,7,0,3,16,0.188,https://www.transfermarkt.it/teboho-mokoena/profil/spieler/436372,matched_alias
+m,Moro N.,CRO,2,2,0,3,10,0.3,https://www.transfermarkt.it/nikola-moro/profil/spieler/316934,matched_alias
+m,Pedro Vite,ECU,2,4,0,7,10,0.7,https://www.transfermarkt.it/pedro-vite/profil/spieler/659806,matched_alias
+m,Pineda,MEX,2,5,0,7,16,0.438,https://www.transfermarkt.it/orbelin-pineda/profil/spieler/334042,matched_alias
+m,Portilla,COL,2,0,0,5,10,0.5,https://www.transfermarkt.it/juan-portilla/profil/spieler/585747,matched_alias
+m,Provod,RCE,2,8,0,3,10,0.3,https://www.transfermarkt.it/lukas-provod/profil/spieler/292779,matched_alias
+m,Qasem,IRQ,2,2,0,3,14,0.214,https://www.transfermarkt.it/ahmed-qasem/profil/spieler/833817,matched_alias
+m,Sabitzer,AUT,2,1,3,3,10,0.3,https://www.transfermarkt.it/marcel-sabitzer/profil/spieler/106987,matched_alias
+m,Sadilek M.,RCE,2,2,0,6,10,0.6,https://www.transfermarkt.it/michal-sadilek/profil/spieler/321204,matched_alias
+m,Saliba N.D.,CAN,2,5,0,9,14,0.643,https://www.transfermarkt.it/nathan-dylan-saliba/profil/spieler/842420,matched_alias
+m,Shukurov,UZB,2,0,0,8,12,0.667,https://www.transfermarkt.it/otabek-shukurov/profil/spieler/294525,matched_alias
+m,Sigur,CAN,2,1,1,10,14,0.714,https://www.transfermarkt.it/niko-sigur/profil/spieler/1045375,matched_alias
+m,Tahirovic,BOS,2,1,1,5,10,0.5,https://www.transfermarkt.it/benjamin-tahirovic/profil/spieler/787907,matched_alias
+m,Titraoui,ALG,2,5,0,3,23,0.13,https://www.transfermarkt.it/yassine-titraoui/profil/spieler/748445,matched_alias
+m,Tounekti,TUN,2,5,1,5,18,0.278,https://www.transfermarkt.it/sebastian-tounekti/profil/spieler/539677,matched_alias
+m,Uzun,TUR,2,10,1,2,10,0.2,https://www.transfermarkt.it/can-uzun/profil/spieler/816585,matched_alias
+m,Vargas O.,MEX,2,0,0,5,16,0.312,https://www.transfermarkt.it/obed-vargas/profil/spieler/889435,matched_alias
+m,Vega,MEX,2,4,0,8,16,0.5,https://www.transfermarkt.it/alexis-vega/profil/spieler/424689,matched_alias
+m,Yirenkyi,GHA,2,2,1,5,10,0.5,https://www.transfermarkt.it/caleb-yirenkyi/profil/spieler/1240763,matched_alias
+m,Zizo,EGY,2,5,1,6,15,0.4,https://www.transfermarkt.it/zizo/profil/spieler/320722,matched_alias
+m,jun-Oh Bae,KOR,2,3,0,5,13,0.385,https://www.transfermarkt.it/jun-ho-bae/profil/spieler/912081,matched_fuzzy_90
+m,Aasgaard,NOR,1,8,0,4,10,0.4,https://www.transfermarkt.it/thelo-aasgaard/profil/spieler/647384,matched_alias
+m,Abdullaev,UZB,1,0,0,3,12,0.25,https://www.transfermarkt.it/abdulla-abdullaev/profil/spieler/570272,matched_alias
+m,Abdurisag,QAT,1,4,0,4,12,0.333,https://www.transfermarkt.it/yusuf-abdurisag/profil/spieler/589099,matched_alias
+m,Adams J.,SAF,1,2,0,3,16,0.188,https://www.transfermarkt.it/jayden-adams/profil/spieler/804472,matched_alias
+m,Al-Ammari,IRQ,1,1,0,5,14,0.357,https://www.transfermarkt.it/amir-al-ammari/profil/spieler/303766,matched_alias
+m,Al-Dawoud,GRD,1,6,1,3,16,0.188,https://www.transfermarkt.it/mohammad-al-dawoud/profil/spieler/310801,matched_alias
+m,Al-Dawsari N.,SAU,1,1,0,5,20,0.25,https://www.transfermarkt.it/nasser-al-dawsari/profil/spieler/509911,matched_alias
+m,Al-Dawsari S.,SAU,1,10,1,6,20,0.3,https://www.transfermarkt.it/salem-al-dawsari/profil/spieler/195332,matched_alias
+m,Al-Haydos,QAT,1,3,0,3,12,0.25,https://www.transfermarkt.it/hasan-al-haydos/profil/spieler/86286,matched_alias
+m,Al-Hejji,SAU,1,3,0,3,20,0.15,https://www.transfermarkt.it/alaa-hejji/profil/spieler/443937,matched_fuzzy_88
+m,Al-Johani,SAU,1,1,0,4,20,0.2,https://www.transfermarkt.it/ziyad-al-johani/profil/spieler/901079,matched_alias
+m,Al-Juwayr,SAU,1,7,0,9,20,0.45,https://www.transfermarkt.it/musab-al-juwayr/profil/spieler/901181,matched_alias
+m,Al-Khaibari,SAU,1,1,0,8,20,0.4,https://www.transfermarkt.it/abdullah-al-khaibari/profil/spieler/437903,matched_alias
+m,Al-Mannai,QAT,1,5,0,5,12,0.417,https://www.transfermarkt.it/mohamed-al-mannai/profil/spieler/822935,matched_alias
+m,Al-Rashdan,GRD,1,2,1,8,16,0.5,https://www.transfermarkt.it/nizar-al-rashdan/profil/spieler/734751,matched_alias
+m,Al-Rawabdeh,GRD,1,2,0,7,16,0.438,https://www.transfermarkt.it/noor-al-rawabdeh/profil/spieler/561485,matched_alias
+m,Ali-Ahmed,CAN,1,4,1,7,14,0.5,https://www.transfermarkt.it/ali-ahmed/profil/spieler/995642,matched_alias
+m,Amyn,IRQ,1,2,0,5,14,0.357,https://www.transfermarkt.it/youssef-amyn/profil/spieler/684307,matched_alias
+m,Appollis,SAF,1,12,2,4,16,0.25,https://www.transfermarkt.it/oswin-appollis/profil/spieler/673381,matched_alias
+m,Arcanjo,CPV,1,2,0,5,10,0.5,https://www.transfermarkt.it/telmo-arcanjo/profil/spieler/791528,matched_alias
+m,Arfsten,USA,1,5,0,10,18,0.556,https://www.transfermarkt.it/max-arfsten/profil/spieler/993063,matched_alias
+m,Aydin,TUR,1,0,0,2,10,0.2,https://www.transfermarkt.it/oguz-aydin/profil/spieler/563749,matched_alias
+m,Ayed,GRD,1,1,0,3,16,0.188,https://www.transfermarkt.it/rajaei-ayed/profil/spieler/261842,matched_alias
+m,Ayhan,TUR,1,1,0,1,10,0.1,https://www.transfermarkt.it/kaan-ayhan/profil/spieler/119031,matched_alias
+m,Bacuna J.,CUW,1,1,1,4,11,0.364,https://www.transfermarkt.it/juninho-bacuna/profil/spieler/348863,matched_alias
+m,Bacuna L.,CUW,1,9,0,4,11,0.364,https://www.transfermarkt.it/leandro-bacuna/profil/spieler/126014,matched_alias
+m,Basic,BOS,1,3,0,5,10,0.5,https://www.transfermarkt.it/ivan-basic/profil/spieler/620560,matched_alias
+m,Bayesh,IRQ,1,1,0,5,14,0.357,https://www.transfermarkt.it/ibrahim-bayesh/profil/spieler/560957,matched_alias
+m,Bayliss,NZL,1,5,0,4,10,0.4,https://www.transfermarkt.it/lachlan-bayliss/profil/spieler/1109358,matched_alias
+m,Belhadj Mahmoud,TUN,1,2,0,5,18,0.278,https://www.transfermarkt.it/mohamed-belhadj-mahmoud/profil/spieler/673513,matched_alias
+m,Bell,NZL,1,0,0,6,10,0.6,https://www.transfermarkt.it/joe-bell/profil/spieler/345700,matched_alias
+m,Bellegarde,HAI,1,1,0,4,12,0.333,https://www.transfermarkt.it/jean-ricner-bellegarde/profil/spieler/450050,matched_alias
+m,Bentaleb,ALG,1,2,0,1,23,0.043,https://www.transfermarkt.it/nabil-bentaleb/profil/spieler/245537,matched_alias
+m,Boakye,GHA,1,6,0,0,10,0.0,https://www.transfermarkt.it/augustine-boakye/profil/spieler/579263,matched_alias
+m,Bobadilla,PAR,1,3,1,6,10,0.6,https://www.transfermarkt.it/damian-bobadilla/profil/spieler/861852,matched_alias
+m,Boudiaf,QAT,1,1,0,4,12,0.333,https://www.transfermarkt.it/karim-boudiaf/profil/spieler/222385,matched_alias
+m,Boulbina,ALG,1,13,0,2,23,0.087,https://www.transfermarkt.it/adil-boulbina/profil/spieler/748443,matched_alias
+m,Burnic,BOS,1,1,0,5,10,0.5,https://www.transfermarkt.it/dzenis-burnic/profil/spieler/251295,matched_alias
+m,Caballero,PAR,1,1,1,2,10,0.2,https://www.transfermarkt.it/gustavo-caballero/profil/spieler/891672,matched_alias
+m,Casimir,HAI,1,1,0,3,12,0.25,https://www.transfermarkt.it/josue-casimir/profil/spieler/763182,matched_alias
+m,Castrop,KOR,1,3,0,7,13,0.538,https://www.transfermarkt.it/jens-castrop/profil/spieler/613192,matched_alias
+m,Cerv,RCE,1,3,0,4,10,0.4,https://www.transfermarkt.it/lukas-cerv/profil/spieler/611049,matched_alias
+m,Cheshmi,IRN,1,3,0,0,12,0.0,https://www.transfermarkt.it/roozbeh-cheshmi/profil/spieler/273879,matched_alias
+m,Choiniere,CAN,1,2,0,7,14,0.5,https://www.transfermarkt.it/mathieu-choiniere/profil/spieler/589006,matched_alias
+m,Cipenga,COD,1,6,0,3,18,0.167,https://www.transfermarkt.it/brian-cipenga/profil/spieler/700565,matched_alias
+m,Ciss,SEN,1,2,0,4,19,0.211,https://www.transfermarkt.it/pathe-ciss/profil/spieler/525578,matched_alias
+m,Costa,POR,1,7,0,4,10,0.4,https://www.transfermarkt.it/samu-costa/profil/spieler/657430,matched_alias_position
+m,Cristian Martinez,PAN,1,4,0,5,15,0.333,https://www.transfermarkt.it/cristian-martinez/profil/spieler/419247,matched_alias
+m,Cubas,PAR,1,0,0,2,10,0.2,https://www.transfermarkt.it/andres-cubas/profil/spieler/323872,matched_alias
+m,Curtis,SCO,1,8,1,3,10,0.3,https://www.transfermarkt.it/findlay-curtis/profil/spieler/1082993,matched_alias
+m,Darida,RCE,1,12,0,3,10,0.3,https://www.transfermarkt.it/vladimir-darida/profil/spieler/179643,matched_alias
+m,De Roon,OLA,1,2,0,1,10,0.1,https://www.transfermarkt.it/marten-de-roon/profil/spieler/133179,matched_alias
+m,Devlin,AUS,1,2,0,1,10,0.1,https://www.transfermarkt.it/cammy-devlin/profil/spieler/399162,matched_alias
+m,Diarra,SEN,1,3,0,4,19,0.211,https://www.transfermarkt.it/habib-diarra/profil/spieler/876631,matched_alias
+m,Diomande Y.,CIV,1,13,0,3,13,0.231,https://www.transfermarkt.it/yan-diomande/profil/spieler/1390649,matched_alias
+m,Dong-Gyeung Lee,KOR,1,5,2,6,13,0.462,https://www.transfermarkt.it/dong-gyeong-lee/profil/spieler/558086,matched_fuzzy_93
+m,Duarte De.,CPV,1,3,0,5,10,0.5,https://www.transfermarkt.it/deroy-duarte/profil/spieler/432852,matched_alias
+m,Duarte L.,CPV,1,0,1,4,10,0.4,https://www.transfermarkt.it/laros-duarte/profil/spieler/258513,matched_alias
+m,Dunga,EGY,1,0,0,2,15,0.133,https://www.transfermarkt.it/nabil-dunga/profil/spieler/479683,matched_alias
+m,Edmilson Junior,QAT,1,7,0,4,12,0.333,https://www.transfermarkt.it/edmilson-junior/profil/spieler/237846,matched_alias
+m,El Mourabet,MAR,1,2,0,4,26,0.154,https://www.transfermarkt.it/samir-el-mourabet/profil/spieler/1130514,matched_alias
+m,Esanov,UZB,1,5,0,1,12,0.083,https://www.transfermarkt.it/sherzod-esanov/profil/spieler/989068,matched_alias
+m,Ezatolahi,IRN,1,9,1,6,12,0.5,https://www.transfermarkt.it/saeed-ezatolahi/profil/spieler/249271,matched_alias
+m,Farji,IRQ,1,0,0,6,14,0.429,https://www.transfermarkt.it/marko-farji/profil/spieler/663153,matched_alias
+m,Fassnacht,SVI,1,19,1,2,10,0.2,https://www.transfermarkt.it/christian-fassnacht/profil/spieler/250490,matched_alias
+m,Fathi,QAT,1,0,0,5,12,0.417,https://www.transfermarkt.it/ahmed-fathi/profil/spieler/251183,matched_alias
+m,Fathy,EGY,1,2,0,4,15,0.267,https://www.transfermarkt.it/hamdy-fathy/profil/spieler/340303,matched_alias
+m,Flores M.,CAN,1,4,0,2,14,0.143,https://www.transfermarkt.it/marcelo-flores/profil/spieler/668495,matched_alias
+m,Gaber,QAT,1,0,0,3,12,0.25,https://www.transfermarkt.it/jassem-gaber/profil/spieler/735813,matched_alias
+m,Galarza,PAR,1,0,1,5,10,0.5,https://www.transfermarkt.it/matias-galarza/profil/spieler/661269,matched_alias
+m,Ganiev,UZB,1,2,0,7,12,0.583,https://www.transfermarkt.it/aziz-ganiev/profil/spieler/431911,matched_alias
+m,Garbett,NZL,1,3,0,6,10,0.6,https://www.transfermarkt.it/matthew-garbett/profil/spieler/617019,matched_alias
+m,Ghoddos,IRN,1,5,0,7,12,0.583,https://www.transfermarkt.it/saman-ghoddos/profil/spieler/204294,matched_alias
+m,Ghorbani,IRN,1,1,0,7,12,0.583,https://www.transfermarkt.it/mohammad-ghorbani/profil/spieler/856087,matched_alias
+m,Godoy,PAN,1,0,0,2,15,0.133,https://www.transfermarkt.it/anibal-godoy/profil/spieler/161671,matched_alias
+m,Grillitsch,AUT,1,3,0,2,10,0.2,https://www.transfermarkt.it/florian-grillitsch/profil/spieler/195736,matched_alias
+m,Gueye I.,SEN,1,2,0,5,19,0.263,https://www.transfermarkt.it/idrissa-gueye/profil/spieler/126665,matched_alias
+m,Harvey,PAN,1,0,1,5,15,0.333,https://www.transfermarkt.it/carlos-harvey/profil/spieler/628806,matched_alias
+m,Hassan,EGY,1,0,0,4,15,0.267,https://www.transfermarkt.it/haissem-hassan/profil/spieler/620164,matched_alias
+m,Hatim,QAT,1,0,0,1,12,0.083,https://www.transfermarkt.it/abdulaziz-hatim/profil/spieler/113915,matched_alias
+m,Hrustic,AUS,1,4,0,6,10,0.6,https://www.transfermarkt.it/ajdin-hrustic/profil/spieler/265625,matched_alias
+m,Iqbal,IRQ,1,0,0,3,14,0.214,https://www.transfermarkt.it/zidane-iqbal/profil/spieler/686845,matched_alias
+m,Irvine,AUS,1,0,0,4,10,0.4,https://www.transfermarkt.it/jackson-irvine/profil/spieler/192557,matched_alias
+m,Iskanderov,UZB,1,2,0,3,12,0.25,https://www.transfermarkt.it/jamshid-iskanderov/profil/spieler/260857,matched_alias
+m,Ismail,IRQ,1,4,0,3,14,0.214,https://www.transfermarkt.it/zaid-ismail/profil/spieler/1132850,matched_alias
+m,Jahanbakhsh,IRN,1,1,0,4,12,0.333,https://www.transfermarkt.it/alireza-jahanbakhsh/profil/spieler/213268,matched_alias
+m,James Rodriguez,COL,1,3,1,8,10,0.8,https://www.transfermarkt.it/james-rodriguez/profil/spieler/88103,matched_alias
+m,Jamiro Monteiro,CPV,1,2,0,3,10,0.3,https://www.transfermarkt.it/jamiro-monteiro/profil/spieler/272930,matched_alias
+m,Jamous,GRD,1,5,1,6,16,0.375,https://www.transfermarkt.it/amer-jamous/profil/spieler/744040,matched_alias
+m,Jamshid,QAT,1,3,0,3,12,0.25,https://www.transfermarkt.it/tahsin-mohammed-jamshid/profil/spieler/1143849,matched_alias
+m,Jasim,IRQ,1,4,0,2,14,0.143,https://www.transfermarkt.it/ali-jasim/profil/spieler/877672,matched_alias
+m,Jin-Gyu Kim,KOR,1,1,0,10,13,0.769,https://www.transfermarkt.it/jin-gyu-kim/profil/spieler/365377,matched_alias
+m,Jin-Seob Park,KOR,1,0,0,6,13,0.462,https://www.transfermarkt.it/jin-seob-park/profil/spieler/557469,matched_alias
+m,Johansson H.,SVE,1,0,0,2,10,0.2,https://www.transfermarkt.it/herman-johansson/profil/spieler/744853,matched_alias
+m,Just,NZL,1,7,1,8,10,0.8,https://www.transfermarkt.it/elijah-just/profil/spieler/485672,matched_alias
+m,Kaku,PAR,1,4,1,3,10,0.3,https://www.transfermarkt.it/kaku/profil/spieler/355817,matched_alias
+m,Kakuta,COD,1,9,0,1,18,0.056,https://www.transfermarkt.it/gael-kakuta/profil/spieler/74297,matched_alias
+m,Kanno,SAU,1,5,0,8,20,0.4,https://www.transfermarkt.it/mohamed-kanno/profil/spieler/308120,matched_alias
+m,Kayembe E.,COD,1,4,0,4,18,0.222,https://www.transfermarkt.it/edo-kayembe/profil/spieler/486477,matched_alias
+m,Khamdamov,UZB,1,6,0,3,12,0.25,https://www.transfermarkt.it/dostonbek-khamdamov/profil/spieler/294502,matched_alias
+m,Khamrobekov,UZB,1,0,0,5,12,0.417,https://www.transfermarkt.it/odildzhon-khamrobekov/profil/spieler/288915,matched_alias
+m,Khedira,TUN,1,5,0,3,18,0.167,https://www.transfermarkt.it/rani-khedira/profil/spieler/124410,matched_alias
+m,Kuwas,CUW,1,7,0,3,11,0.273,https://www.transfermarkt.it/brandley-kuwas/profil/spieler/232219,matched_alias
+m,Lasheen,EGY,1,0,0,5,15,0.333,https://www.transfermarkt.it/mohanad-lasheen/profil/spieler/479682,matched_alias
+m,Leckie,AUS,1,0,0,2,10,0.2,https://www.transfermarkt.it/mathew-leckie/profil/spieler/126214,matched_alias
+m,Leverton,HAI,1,0,0,2,12,0.167,https://www.transfermarkt.it/leverton-pierre/profil/spieler/552467,matched_fuzzy_94
+m,Mabil,AUS,1,3,1,3,10,0.3,https://www.transfermarkt.it/awer-mabil/profil/spieler/255729,matched_alias
+m,Madibo,QAT,1,0,0,4,12,0.333,https://www.transfermarkt.it/assim-madibo/profil/spieler/336667,matched_alias
+m,Mahmic,BOS,1,8,0,2,10,0.2,https://www.transfermarkt.it/ermin-mahmic/profil/spieler/803049,matched_alias
+m,Mandash,SAU,1,8,2,5,20,0.25,https://www.transfermarkt.it/sultan-mandash/profil/spieler/210349,matched_alias
+m,Manzambi,SVI,1,7,0,4,10,0.4,https://www.transfermarkt.it/johan-manzambi/profil/spieler/927353,matched_alias
+m,Martha,CUW,1,2,1,2,11,0.182,https://www.transfermarkt.it/arjany-martha/profil/spieler/572519,matched_alias
+m,Masharipov,UZB,1,0,0,0,12,0.0,https://www.transfermarkt.it/jaloliddin-masharipov/profil/spieler/274536,matched_alias
+m,Mauricio,PAR,1,4,0,3,10,0.3,https://www.transfermarkt.it/mauricio/profil/spieler/678439,matched_alias
+m,Mbatha,SAF,1,1,0,4,16,0.25,https://www.transfermarkt.it/thalente-mbatha/profil/spieler/735697,matched_alias
+m,Mbaye,SEN,1,3,2,5,19,0.263,https://www.transfermarkt.it/ibrahim-mbaye/profil/spieler/1185888,matched_alias
+m,McCowatt,NZL,1,12,0,8,10,0.8,https://www.transfermarkt.it/callum-mccowatt/profil/spieler/400797,matched_alias
+m,Mclean,SCO,1,3,0,4,10,0.4,https://www.transfermarkt.it/kenny-mclean/profil/spieler/126600,matched_alias
+m,Memic,BOS,1,3,1,5,10,0.5,https://www.transfermarkt.it/amar-memic/profil/spieler/638990,matched_alias
+m,Mendes R.,CPV,1,5,0,6,10,0.6,https://www.transfermarkt.it/ryan-mendes/profil/spieler/111627,matched_alias
+m,Metcalfe,AUS,1,0,0,10,10,1.0,https://www.transfermarkt.it/connor-metcalfe/profil/spieler/522223,matched_alias
+m,Millar,CAN,1,3,0,6,14,0.429,https://www.transfermarkt.it/liam-millar/profil/spieler/487417,matched_alias
+m,Mofokeng,SAF,1,11,0,3,16,0.188,https://www.transfermarkt.it/relebohile-mofokeng/profil/spieler/1125037,matched_alias
+m,Mora,MEX,1,6,0,5,16,0.312,https://www.transfermarkt.it/gilberto-mora/profil/spieler/1155723,matched_alias
+m,Moutoussamy,COD,1,3,0,3,18,0.167,https://www.transfermarkt.it/samuel-moutoussamy/profil/spieler/353403,matched_alias
+m,Mozgovoy,UZB,1,0,0,8,12,0.667,https://www.transfermarkt.it/akmal-mozgovoy/profil/spieler/562022,matched_alias
+m,Mukau,COD,1,2,0,4,18,0.222,https://www.transfermarkt.it/ngalayel-mukau/profil/spieler/1016015,matched_alias
+m,Munoz V.,SPA,1,7,1,2,10,0.2,https://www.transfermarkt.it/victor-munoz/profil/spieler/935231,matched_alias
+m,Ndiaye B.,SEN,1,0,0,1,19,0.053,https://www.transfermarkt.it/bara-sapoko-ndiaye/profil/spieler/1497653,matched_alias
+m,O'Neill,AUS,1,0,0,10,10,1.0,https://www.transfermarkt.it/aiden-oneill/profil/spieler/385918,matched_alias
+m,Ojeda,PAR,1,0,0,7,10,0.7,https://www.transfermarkt.it/braian-ojeda/profil/spieler/491596,matched_alias
+m,Okon-Engstler,AUS,1,0,0,6,10,0.6,https://www.transfermarkt.it/paul-okon-engstler/profil/spieler/1064377,matched_alias
+m,Osorio,CAN,1,0,1,6,14,0.429,https://www.transfermarkt.it/jonathan-osorio/profil/spieler/260807,matched_alias
+m,Oulai,CIV,1,2,0,5,13,0.385,https://www.transfermarkt.it/christ-inao-oulai/profil/spieler/1279526,matched_alias
+m,Pickel,COD,1,1,0,3,18,0.167,https://www.transfermarkt.it/charles-pickel/profil/spieler/243879,matched_alias
+m,Pina K.,CPV,1,,,,10,,,unmatched_fuzzy_33
+m,Providence,HAI,1,1,1,4,12,0.333,https://www.transfermarkt.it/ruben-providence/profil/spieler/536520,matched_alias
+m,Quintero,COL,1,4,0,6,10,0.6,https://www.transfermarkt.it/juan-fernando-quintero/profil/spieler/122582,matched_alias
+m,Quintero A.,PAN,1,5,0,1,15,0.067,https://www.transfermarkt.it/alberto-quintero/profil/spieler/126019,matched_alias
+m,Razzaghinia,IRN,1,0,0,3,12,0.25,https://www.transfermarkt.it/amirmohammad-razzaghinia/profil/spieler/1051591,matched_alias
+m,Reyna,USA,1,1,1,6,18,0.333,https://www.transfermarkt.it/giovanni-reyna/profil/spieler/504215,matched_alias
+m,Rodrigues,CPV,1,6,1,4,10,0.4,https://www.transfermarkt.it/garry-rodrigues/profil/spieler/170895,matched_alias
+m,Roemeratoe,CUW,1,0,0,4,11,0.364,https://www.transfermarkt.it/godfried-roemeratoe/profil/spieler/393241,matched_alias
+m,Roldan,USA,1,3,0,10,18,0.556,https://www.transfermarkt.it/cristian-roldan/profil/spieler/354792,matched_alias
+m,Rufer,NZL,1,2,0,5,10,0.5,https://www.transfermarkt.it/alex-rufer/profil/spieler/256019,matched_alias
+m,Saad,TUN,1,0,0,6,18,0.333,https://www.transfermarkt.it/elias-saad/profil/spieler/526466,matched_alias
+m,Saadeh,GRD,1,0,1,8,16,0.5,https://www.transfermarkt.it/ibrahim-saadeh/profil/spieler/709974,matched_alias
+m,Saber,EGY,1,6,1,6,15,0.4,https://www.transfermarkt.it/mahmoud-saber/profil/spieler/729390,matched_alias
+m,Sadiki,COD,1,0,0,3,18,0.167,https://www.transfermarkt.it/noah-sadiki/profil/spieler/727089,matched_alias
+m,Sainte,HAI,1,0,0,2,12,0.167,https://www.transfermarkt.it/carl-sainte/profil/spieler/718244,matched_alias
+m,Schopf,AUT,1,5,0,0,10,0.0,https://www.transfermarkt.it/alessandro-schopf/profil/spieler/118397,matched_alias
+m,Semedo Y.,CPV,1,0,0,2,10,0.2,https://www.transfermarkt.it/yannick-semedo/profil/spieler/620307,matched_alias
+m,Seri,CIV,1,0,0,1,13,0.077,https://www.transfermarkt.it/jean-michael-seri/profil/spieler/178614,matched_alias
+m,Seung-Ho Paik,KOR,1,4,0,6,13,0.462,https://www.transfermarkt.it/seung-ho-paik/profil/spieler/282689,matched_alias
+m,Shaffelburg,CAN,1,0,0,4,14,0.286,https://www.transfermarkt.it/jacob-shaffelburg/profil/spieler/637632,matched_alias
+m,Sher,IRQ,1,1,0,3,14,0.214,https://www.transfermarkt.it/aimar-sher/profil/spieler/579294,matched_alias
+m,Sibo,GHA,1,0,0,5,10,0.5,https://www.transfermarkt.it/kwasi-sibo/profil/spieler/538006,matched_alias
+m,Simon D.,HAI,1,1,0,2,12,0.167,https://www.transfermarkt.it/dominique-simon/profil/spieler/988188,matched_alias
+m,Singh,NZL,1,2,0,8,10,0.8,https://www.transfermarkt.it/sarpreet-singh/profil/spieler/350357,matched_alias
+m,Sithole,SAF,1,2,1,4,16,0.25,https://www.transfermarkt.it/yaya-sithole/profil/spieler/401736,matched_alias
+m,Sochurek,RCE,1,0,0,1,10,0.1,https://www.transfermarkt.it/hugo-sochurek/profil/spieler/1206877,matched_alias
+m,Sojka,RCE,1,4,0,2,10,0.2,https://www.transfermarkt.it/alexandr-sojka/profil/spieler/826103,matched_alias
+m,Stamenic,NZL,1,3,0,8,10,0.8,https://www.transfermarkt.it/marko-stamenic/profil/spieler/617018,matched_alias
+m,Stroud,SVE,1,7,0,1,10,0.1,https://www.transfermarkt.it/elliot-stroud/profil/spieler/687622,matched_alias
+m,Sunjic,BOS,1,4,0,3,10,0.3,https://www.transfermarkt.it/ivan-sunjic/profil/spieler/226097,matched_alias
+m,Taha Ali,SVE,1,5,0,1,10,0.1,https://www.transfermarkt.it/taha-ali/profil/spieler/731771,matched_alias
+m,Thomas R.,NZL,1,1,0,6,10,0.6,https://www.transfermarkt.it/ryan-thomas/profil/spieler/203357,matched_alias
+m,Torabi,IRN,1,2,0,1,12,0.083,https://www.transfermarkt.it/mehdi-torabi/profil/spieler/283833,matched_alias
+m,Toure,CIV,1,5,0,2,13,0.154,https://www.transfermarkt.it/bazoumana-toure/profil/spieler/1067904,matched_alias
+m,Trewin,AUS,1,1,0,6,10,0.6,https://www.transfermarkt.it/kai-trewin/profil/spieler/691326,matched_alias
+m,Trezeguet,EGY,1,18,1,4,15,0.267,https://www.transfermarkt.it/trezeguet/profil/spieler/234189,matched_alias
+m,Valencia A.,ECU,1,4,1,3,10,0.3,https://www.transfermarkt.it/anthony-valencia/profil/spieler/974374,matched_alias
+m,Varela H.,CPV,1,6,0,2,10,0.2,https://www.transfermarkt.it/helio-varela/profil/spieler/840836,matched_alias
+m,Visinsky,RCE,1,9,1,2,10,0.2,https://www.transfermarkt.it/denis-visinsky/profil/spieler/652060,matched_alias
+m,Witsel,BEL,1,1,0,4,10,0.4,https://www.transfermarkt.it/axel-witsel/profil/spieler/35047,matched_alias
+m,Woodensky,HAI,1,0,0,1,12,0.083,https://www.transfermarkt.it/woodensky-pierre/profil/spieler/1017735,matched_fuzzy_94
+m,Yakob,IRQ,1,4,0,6,14,0.429,https://www.transfermarkt.it/kevin-yakob/profil/spieler/413268,matched_alias
+m,Zeneli,SVE,1,3,0,3,10,0.3,https://www.transfermarkt.it/besfort-zeneli/profil/spieler/715653,matched_alias
+m,Zwane,SAF,1,0,0,3,16,0.188,https://www.transfermarkt.it/themba-zwane/profil/spieler/176578,matched_alias
+st,Mbappe,FRA,37,42,1,4,10,0.4,https://www.transfermarkt.it/kylian-mbappe/profil/spieler/342229,matched_alias
+st,Vinicius Jr.,BRA,37,22,2,8,10,0.8,https://www.transfermarkt.it/vinicius-junior/profil/spieler/371998,matched_fuzzy_84
+st,Yamal,SPA,37,24,0,2,10,0.2,https://www.transfermarkt.it/lamine-yamal/profil/spieler/937958,matched_alias
+st,Messi,ARG,35,13,3,5,9,0.556,https://www.transfermarkt.it/lionel-messi/profil/spieler/28003,matched_alias
+st,Haaland,NOR,34,38,1,3,10,0.3,https://www.transfermarkt.it/erling-haaland/profil/spieler/418560,matched_alias
+st,Alvarez J.,ARG,33,20,1,3,9,0.333,https://www.transfermarkt.it/julian-alvarez/profil/spieler/576024,matched_alias
+st,Kane,ING,33,61,1,2,10,0.2,https://www.transfermarkt.it/harry-kane/profil/spieler/132098,matched_alias
+st,Martinez La.,ARG,32,22,4,5,9,0.556,https://www.transfermarkt.it/lautaro-martinez/profil/spieler/406625,matched_manual
+st,Dembele,FRA,31,20,0,2,10,0.2,https://www.transfermarkt.it/ousmane-dembele/profil/spieler/288230,matched_alias
+st,Olise,FRA,29,22,3,4,10,0.4,https://www.transfermarkt.it/michael-olise/profil/spieler/566723,matched_alias
+st,Ronaldo,POR,27,30,0,2,10,0.2,https://www.transfermarkt.it/cristiano-ronaldo/profil/spieler/8198,matched_alias
+st,Rashford,ING,25,14,0,5,10,0.5,https://www.transfermarkt.it/marcus-rashford/profil/spieler/258923,matched_alias
+st,Yildiz,TUR,24,11,0,2,10,0.2,https://www.transfermarkt.it/kenan-yildiz/profil/spieler/845654,matched_manual
+st,Isak,SVE,23,4,1,2,10,0.2,https://www.transfermarkt.it/alexander-isak/profil/spieler/349066,matched_alias
+st,Diaz,COL,22,26,3,8,10,0.8,https://www.transfermarkt.it/luis-diaz/profil/spieler/480692,matched_alias
+st,Gyokeres,SVE,21,21,5,3,10,0.3,https://www.transfermarkt.it/viktor-gyokeres/profil/spieler/325443,matched_alias
+st,Lukaku,BEL,21,1,1,2,10,0.2,https://www.transfermarkt.it/romelu-lukaku/profil/spieler/96341,matched_alias
+st,Martinelli,BRA,21,11,2,4,10,0.4,https://www.transfermarkt.it/gabriel-martinelli/profil/spieler/655488,matched_alias
+st,Ferran Torres,SPA,20,21,1,4,10,0.4,https://www.transfermarkt.it/ferran-torres/profil/spieler/398184,matched_alias
+st,Nunez,URU,20,9,0,2,10,0.2,https://www.transfermarkt.it/darwin-nunez/profil/spieler/546543,matched_alias
+st,Gakpo,OLA,19,9,2,4,10,0.4,https://www.transfermarkt.it/cody-gakpo/profil/spieler/434675,matched_alias
+st,Oyarzabal,SPA,19,18,3,2,10,0.2,https://www.transfermarkt.it/mikel-oyarzabal/profil/spieler/351478,matched_alias
+st,Watkins,ING,19,21,2,3,10,0.3,https://www.transfermarkt.it/ollie-watkins/profil/spieler/324358,matched_alias
+st,Lopez J.M.,ARG,18,14,0,5,9,0.556,https://www.transfermarkt.it/jose-manuel-lopez/profil/spieler/844797,matched_alias
+st,Havertz,GER,17,7,2,3,10,0.3,https://www.transfermarkt.it/kai-havertz/profil/spieler/309400,matched_alias
+st,Malen,OLA,17,22,0,4,10,0.4,https://www.transfermarkt.it/donyell-malen/profil/spieler/326029,matched_alias
+st,Toney,ING,17,42,0,1,10,0.1,https://www.transfermarkt.it/ivan-toney/profil/spieler/251664,matched_alias
+st,Diallo,CIV,16,2,1,5,13,0.385,https://www.transfermarkt.it/amad-diallo/profil/spieler/536835,matched_alias
+st,Leao,POR,16,10,0,1,10,0.1,https://www.transfermarkt.it/rafael-leao/profil/spieler/357164,matched_alias
+st,Salah,EGY,16,12,0,2,15,0.133,https://www.transfermarkt.it/mohamed-salah/profil/spieler/148455,matched_alias
+st,Beier,GER,15,10,0,2,10,0.2,https://www.transfermarkt.it/maximilian-beier/profil/spieler/578392,matched_alias
+st,Gordon A.,ING,15,17,1,4,10,0.4,https://www.transfermarkt.it/anthony-gordon/profil/spieler/503733,matched_alias
+st,Schick,RCE,15,22,2,5,10,0.5,https://www.transfermarkt.it/patrik-schick/profil/spieler/242086,matched_alias
+st,Thuram M.,FRA,15,18,1,3,10,0.3,https://www.transfermarkt.it/marcus-thuram/profil/spieler/318528,matched_alias
+st,Cunha,BRA,14,10,0,8,10,0.8,https://www.transfermarkt.it/matheus-cunha/profil/spieler/517894,matched_alias
+st,Endrick,BRA,14,8,1,3,10,0.3,https://www.transfermarkt.it/endrick/profil/spieler/971570,matched_alias
+st,Marmoush,EGY,14,8,2,5,15,0.333,https://www.transfermarkt.it/omar-marmoush/profil/spieler/445939,matched_alias
+st,Neto,POR,14,10,1,4,10,0.4,https://www.transfermarkt.it/pedro-neto/profil/spieler/487465,matched_alias
+st,Goncalo Ramos,POR,13,12,0,3,10,0.3,https://www.transfermarkt.it/goncalo-ramos/profil/spieler/550550,matched_alias
+st,Mane,SEN,13,14,5,4,19,0.211,https://www.transfermarkt.it/sadio-mane/profil/spieler/200512,matched_alias
+st,David,CAN,12,8,3,10,14,0.714,https://www.transfermarkt.it/jonathan-david/profil/spieler/533738,matched_manual
+st,Suarez Luis,COL,12,38,1,6,10,0.6,https://www.transfermarkt.it/luis-suarez/profil/spieler/424784,matched_fuzzy_93
+st,Woltemade,GER,12,12,0,3,10,0.3,https://www.transfermarkt.it/nick-woltemade/profil/spieler/455661,matched_alias
+st,Akturkoglu,TUR,11,16,1,3,10,0.3,https://www.transfermarkt.it/kerem-akturkoglu/profil/spieler/382528,matched_alias
+st,Cordoba J.,COL,11,22,0,3,10,0.3,https://www.transfermarkt.it/jhon-cordoba/profil/spieler/185245,matched_alias
+st,Neymar,BRA,11,6,0,0,10,0.0,https://www.transfermarkt.it/neymar/profil/spieler/68290,matched_alias
+st,Williams I.,GHA,11,4,0,1,10,0.1,https://www.transfermarkt.it/inaki-williams/profil/spieler/255508,matched_alias
+st,Yilmaz B.A.,TUR,11,12,2,4,10,0.4,https://www.transfermarkt.it/baris-alper-yilmaz/profil/spieler/541537,matched_manual
+st,Embolo,SVI,10,10,2,3,10,0.3,https://www.transfermarkt.it/breel-embolo/profil/spieler/237662,matched_alias
+st,Semenyo,GHA,10,21,0,3,10,0.3,https://www.transfermarkt.it/antoine-semenyo/profil/spieler/583255,matched_alias
+st,Balogun,USA,9,19,4,10,18,0.556,https://www.transfermarkt.it/folarin-balogun/profil/spieler/503770,matched_alias
+st,Brobbey,OLA,9,8,0,4,10,0.4,https://www.transfermarkt.it/brian-brobbey/profil/spieler/473169,matched_alias
+st,Diao,SEN,9,2,0,3,19,0.158,https://www.transfermarkt.it/assane-diao/profil/spieler/1061282,matched_alias
+st,Gouiri,ALG,9,11,2,3,23,0.13,https://www.transfermarkt.it/amine-gouiri/profil/spieler/418659,matched_alias
+st,Joao Felix,POR,9,26,1,4,10,0.4,https://www.transfermarkt.it/joao-felix/profil/spieler/462250,matched_alias
+st,Nuamah,GHA,9,0,0,1,10,0.1,https://www.transfermarkt.it/ernest-nuamah/profil/spieler/955070,matched_alias
+st,Bobb,NOR,8,0,0,6,10,0.6,https://www.transfermarkt.it/oscar-bobb/profil/spieler/661207,matched_alias
+st,Heung-Min Son,KOR,8,2,5,10,13,0.769,https://www.transfermarkt.it/heung-min-son/profil/spieler/91845,matched_alias
+st,Kramaric,CRO,8,15,0,4,10,0.4,https://www.transfermarkt.it/andrej-kramaric/profil/spieler/46580,matched_alias
+st,Undav,GER,8,25,3,3,10,0.3,https://www.transfermarkt.it/deniz-undav/profil/spieler/339314,matched_alias
+st,Wissa,COD,8,3,0,3,18,0.167,https://www.transfermarkt.it/yoane-wissa/profil/spieler/388165,matched_alias
+st,Arnautovic,AUT,7,10,0,3,10,0.3,https://www.transfermarkt.it/marko-arnautovic/profil/spieler/41384,matched_alias
+st,Depay,OLA,7,1,0,1,10,0.1,https://www.transfermarkt.it/memphis-depay/profil/spieler/167850,matched_alias
+st,Luiz Henrique,BRA,7,6,0,7,10,0.7,https://www.transfermarkt.it/luiz-henrique/profil/spieler/800175,matched_alias
+st,Mateta,FRA,7,16,0,1,10,0.1,https://www.transfermarkt.it/jean-philippe-mateta/profil/spieler/420002,matched_alias
+st,Sorloth,NOR,7,20,0,5,10,0.5,https://www.transfermarkt.it/alexander-sorloth/profil/spieler/238407,matched_alias
+st,Amoura,ALG,6,8,1,4,23,0.174,https://www.transfermarkt.it/mohamed-amoura/profil/spieler/746910,matched_alias
+st,Demirovic,BOS,6,15,0,4,10,0.4,https://www.transfermarkt.it/ermedin-demirovic/profil/spieler/335457,matched_alias
+st,Dzeko,BOS,6,8,1,2,10,0.2,https://www.transfermarkt.it/edin-dzeko/profil/spieler/28396,matched_alias
+st,Ezzalzouli,MAR,6,15,0,6,26,0.231,https://www.transfermarkt.it/abde-ezzalzouli/profil/spieler/724520,matched_alias
+st,Gimenez S.,MEX,6,1,1,5,16,0.312,https://www.transfermarkt.it/santiago-gimenez/profil/spieler/552955,matched_alias
+st,Hee-Chan Hwang,KOR,6,3,1,6,13,0.462,https://www.transfermarkt.it/hee-chan-hwang/profil/spieler/292246,matched_alias
+st,Lukebakio,BEL,6,2,4,3,10,0.3,https://www.transfermarkt.it/dodi-lukebakio/profil/spieler/303259,matched_alias
+st,Wahi,CIV,6,10,0,2,13,0.154,https://www.transfermarkt.it/elye-wahi/profil/spieler/659542,matched_alias
+st,Okafor,SVI,5,8,0,1,10,0.1,https://www.transfermarkt.it/noah-okafor/profil/spieler/346890,matched_alias
+st,Strand Larsen,NOR,5,10,2,5,10,0.5,https://www.transfermarkt.it/jorgen-strand-larsen/profil/spieler/429983,matched_alias
+st,Talbi C.,MAR,5,4,0,3,26,0.115,https://www.transfermarkt.it/chemsdine-talbi/profil/spieler/743384,matched_alias
+st,Gonzalez A.,MEX,4,24,1,7,16,0.438,https://www.transfermarkt.it/armando-gonzalez/profil/spieler/837619,matched_alias
+st,Guessand,CIV,4,4,1,4,13,0.308,https://www.transfermarkt.it/evann-guessand/profil/spieler/500689,matched_alias
+st,Hlozek,RCE,4,0,1,2,10,0.2,https://www.transfermarkt.it/adam-hlozek/profil/spieler/552057,matched_alias
+st,Nygren,SVE,4,21,0,4,10,0.4,https://www.transfermarkt.it/benjamin-nygren/profil/spieler/475949,matched_alias
+st,Pepi,USA,4,19,0,4,18,0.222,https://www.transfermarkt.it/ricardo-pepi/profil/spieler/627207,matched_alias
+st,Thomas-Asante,GHA,4,13,0,3,10,0.3,https://www.transfermarkt.it/brandon-thomas-asante/profil/spieler/451747,matched_alias
+st,Adams C.,SCO,3,8,2,2,10,0.2,https://www.transfermarkt.it/che-adams/profil/spieler/346779,matched_alias
+st,Banza,COD,3,9,0,1,18,0.056,https://www.transfermarkt.it/simon-banza/profil/spieler/344869,matched_alias
+st,Bonny,CIV,3,7,0,1,13,0.077,https://www.transfermarkt.it/ange-yoan-bonny/profil/spieler/827734,matched_alias
+st,Buchanan,CAN,3,7,0,9,14,0.643,https://www.transfermarkt.it/tajon-buchanan/profil/spieler/638793,matched_alias
+st,David P.,CAN,3,15,1,6,14,0.429,https://www.transfermarkt.it/promise-david/profil/spieler/888785,matched_alias
+st,Diatta,SEN,3,0,0,4,19,0.211,https://www.transfermarkt.it/krepin-diatta/profil/spieler/490426,matched_alias
+st,Foster,SAF,3,3,0,4,16,0.25,https://www.transfermarkt.it/lyle-foster/profil/spieler/467623,matched_alias
+st,Giuliano Simeone,ARG,3,7,1,6,9,0.667,https://www.transfermarkt.it/giuliano-simeone/profil/spieler/742201,matched_alias
+st,Haji Wright,USA,3,18,2,3,18,0.167,https://www.transfermarkt.it/haji-wright/profil/spieler/315291,matched_alias
+st,Hernandez C.,COL,3,15,0,3,10,0.3,https://www.transfermarkt.it/cucho-hernandez/profil/spieler/459463,matched_alias
+st,Isidor,HAI,3,6,2,4,12,0.333,https://www.transfermarkt.it/wilson-isidor/profil/spieler/494237,matched_alias
+st,Matanovic,CRO,3,15,1,2,10,0.2,https://www.transfermarkt.it/igor-matanovic/profil/spieler/605268,matched_alias
+st,Ueda,JAP,3,26,2,8,13,0.615,https://www.transfermarkt.it/ayase-ueda/profil/spieler/589128,matched_alias
+st,Aguirre,URU,2,9,0,3,10,0.3,https://www.transfermarkt.it/rodrigo-aguirre/profil/spieler/189410,matched_alias
+st,Al-Buraikan,SAU,2,8,1,8,20,0.4,https://www.transfermarkt.it/firas-al-buraikan/profil/spieler/631922,matched_alias
+st,Amdouni,SVI,2,0,0,2,10,0.2,https://www.transfermarkt.it/zeki-amdouni/profil/spieler/548729,matched_alias
+st,Ayew J.,GHA,2,6,1,3,10,0.3,https://www.transfermarkt.it/jordan-ayew/profil/spieler/108354,matched_alias
+st,Ayoube,MAR,2,11,0,2,26,0.077,https://www.transfermarkt.it/ayoube-amaimouni-echghouyab/profil/spieler/799993,matched_fuzzy_94
+st,Bongonda,COD,2,0,0,3,18,0.167,https://www.transfermarkt.it/theo-bongonda/profil/spieler/280701,matched_alias
+st,Budimir,CRO,2,19,0,3,10,0.3,https://www.transfermarkt.it/ante-budimir/profil/spieler/46413,matched_alias
+st,Cho-Gue Sung,KOR,2,7,3,5,13,0.385,https://www.transfermarkt.it/gue-sung-cho/profil/spieler/652537,matched_fuzzy_93
+st,Chytil,RCE,2,14,0,3,10,0.3,https://www.transfermarkt.it/mojmir-chytil/profil/spieler/405855,matched_alias
+st,Dieng B.,SEN,2,16,0,3,19,0.158,https://www.transfermarkt.it/bamba-dieng/profil/spieler/822458,matched_alias
+st,El Kaabi,MAR,2,21,3,6,26,0.231,https://www.transfermarkt.it/ayoub-el-kaabi/profil/spieler/521127,matched_alias
+st,Hauge,NOR,2,8,0,2,10,0.2,https://www.transfermarkt.it/jens-petter-hauge/profil/spieler/422355,matched_alias
+st,Hyun-Jun Yang,KOR,2,10,0,3,13,0.231,https://www.transfermarkt.it/hyun-jun-yang/profil/spieler/853110,matched_alias
+st,Iglesias,SPA,2,18,0,3,10,0.3,https://www.transfermarkt.it/borja-iglesias/profil/spieler/278359,matched_alias
+st,Irankunda,AUS,2,4,4,10,10,1.0,https://www.transfermarkt.it/nestory-irankunda/profil/spieler/956920,matched_alias
+st,Mohamed Toure,AUS,2,14,2,8,10,0.8,https://www.transfermarkt.it/mohamed-toure/profil/spieler/742770,matched_alias
+st,Musa P.,CRO,2,12,0,3,10,0.3,https://www.transfermarkt.it/petar-musa/profil/spieler/387110,matched_alias
+st,Ndiaye C.,SEN,2,13,1,6,19,0.316,https://www.transfermarkt.it/cherif-ndiaye/profil/spieler/480705,matched_alias
+st,Nicolas Pépé,CIV,2,8,1,3,13,0.231,https://www.transfermarkt.it/nicolas-pepe/profil/spieler/343052,matched_alias
+st,Oluwasei,CAN,2,7,0,9,14,0.643,https://www.transfermarkt.it/tani-oluwaseyi/profil/spieler/972465,matched_manual
+st,Quinones,MEX,2,37,0,6,16,0.375,https://www.transfermarkt.it/julian-quinones/profil/spieler/416090,matched_alias
+st,Rayan,BRA,2,7,1,2,10,0.2,https://www.transfermarkt.it/rayan/profil/spieler/1012564,matched_alias
+st,Sanabria,PAR,2,1,1,7,10,0.7,https://www.transfermarkt.it/antonio-sanabria/profil/spieler/234523,matched_alias
+st,Shomurodov,UZB,2,23,2,8,12,0.667,https://www.transfermarkt.it/eldor-shomurodov/profil/spieler/358166,matched_alias
+st,Stewart,SCO,2,11,0,1,10,0.1,https://www.transfermarkt.it/ross-stewart/profil/spieler/447995,matched_alias
+st,Taremi,IRN,2,16,4,7,12,0.583,https://www.transfermarkt.it/mehdi-taremi/profil/spieler/307058,matched_alias
+st,Vinas,URU,2,9,0,5,10,0.5,https://www.transfermarkt.it/federico-vinas/profil/spieler/578419,matched_alias
+st,Wood,NZL,2,6,1,6,10,0.6,https://www.transfermarkt.it/chris-wood/profil/spieler/108725,matched_alias
+st,Adel,EGY,1,3,0,3,15,0.2,https://www.transfermarkt.it/ibrahim-adel/profil/spieler/677278,matched_alias
+st,Adu,GHA,1,8,0,5,10,0.5,https://www.transfermarkt.it/prince-adu/profil/spieler/734799,matched_alias
+st,Al-Ganehi,QAT,1,3,0,0,12,0.0,https://www.transfermarkt.it/ahmed-al-ganehi/profil/spieler/670659,matched_alias
+st,Al-Ghannam,SAU,1,13,0,4,20,0.2,https://www.transfermarkt.it/khalid-al-ghannam/profil/spieler/631923,matched_alias
+st,Al-Hamadi,IRQ,1,1,1,4,14,0.286,https://www.transfermarkt.it/ali-al-hamadi/profil/spieler/610581,matched_alias
+st,Al-Hamdan,SAU,1,6,4,8,20,0.4,https://www.transfermarkt.it/abdullah-al-hamdan/profil/spieler/68626,matched_alias
+st,Al-Mardi,GRD,1,3,0,6,16,0.375,https://www.transfermarkt.it/mahmoud-al-mardi/profil/spieler/401086,matched_alias
+st,Al-Shehri,SAU,1,4,0,6,20,0.3,https://www.transfermarkt.it/saleh-al-shehri/profil/spieler/242267,matched_alias
+st,Alaaeldin,QAT,1,5,1,4,12,0.333,https://www.transfermarkt.it/ahmed-alaaeldin/profil/spieler/187987,matched_alias
+st,Alipour,IRN,1,6,0,6,12,0.5,https://www.transfermarkt.it/ali-alipour/profil/spieler/249360,matched_alias
+st,Almoez Ali,QAT,1,1,0,1,12,0.083,https://www.transfermarkt.it/almoez-ali/profil/spieler/345095,matched_alias
+st,Amanov,UZB,1,4,0,1,12,0.083,https://www.transfermarkt.it/azizbek-amanov/profil/spieler/517918,matched_alias
+st,Arce,PAR,1,11,1,5,10,0.5,https://www.transfermarkt.it/alex-arce/profil/spieler/970518,matched_alias
+st,Arevalo,ECU,1,13,0,4,10,0.4,https://www.transfermarkt.it/jeremy-arevalo/profil/spieler/971663,matched_alias
+st,Avalos,PAR,1,10,0,2,10,0.2,https://www.transfermarkt.it/gabriel-avalos/profil/spieler/358418,matched_alias
+st,Ayensa,IRN,1,7,0,0,12,0.0,https://www.transfermarkt.it/dennis-eckert-ayensa/profil/spieler/249303,matched_alias
+st,Azaizeh,GRD,1,2,0,4,16,0.25,https://www.transfermarkt.it/ali-azaizeh/profil/spieler/1059056,matched_alias
+st,Bakambu,COD,1,4,0,4,18,0.222,https://www.transfermarkt.it/cedric-bakambu/profil/spieler/127048,matched_alias
+st,Barbarouses,NZL,1,4,1,7,10,0.7,https://www.transfermarkt.it/kosta-barbarouses/profil/spieler/50200,matched_alias
+st,Barcenas,PAN,1,3,1,5,15,0.333,https://www.transfermarkt.it/yoel-barcenas/profil/spieler/283473,matched_alias
+st,Bazdar S.,BOS,1,6,0,3,10,0.3,https://www.transfermarkt.it/samed-bazdar/profil/spieler/710969,matched_alias
+st,Benbouali,ALG,1,19,1,3,23,0.13,https://www.transfermarkt.it/nadhir-benbouali/profil/spieler/840254,matched_alias
+st,Benchimol,CPV,1,12,1,1,10,0.1,https://www.transfermarkt.it/benchimol/profil/spieler/820252,matched_alias
+st,Bernhardsson,SVE,1,4,0,2,10,0.2,https://www.transfermarkt.it/alexander-bernhardsson/profil/spieler/633454,matched_alias
+st,Cabral J.,CPV,1,7,0,4,10,0.4,https://www.transfermarkt.it/jovane-cabral/profil/spieler/448466,matched_alias
+st,Chaouat,TUN,1,14,1,7,18,0.389,https://www.transfermarkt.it/firas-chaouat/profil/spieler/402087,matched_alias
+st,Chory,RCE,1,17,2,4,10,0.4,https://www.transfermarkt.it/tomas-chory/profil/spieler/198614,matched_alias
+st,Da Costa,CPV,1,6,0,4,10,0.4,https://www.transfermarkt.it/nuno-da-costa/profil/spieler/306166,matched_alias
+st,Dargahi,IRN,1,,,,12,,,unmatched_fuzzy_52
+st,Deedson,HAI,1,1,0,4,12,0.333,https://www.transfermarkt.it/louicius-deedson/profil/spieler/646108,matched_alias
+st,Diakite,CIV,1,7,0,3,13,0.231,https://www.transfermarkt.it/oumar-diakite/profil/spieler/847279,matched_alias
+st,Dykes,SCO,1,5,0,3,10,0.3,https://www.transfermarkt.it/lyndon-dykes/profil/spieler/347138,matched_alias
+st,Elloumi,TUN,1,1,0,4,18,0.222,https://www.transfermarkt.it/rayan-elloumi/profil/spieler/1273985,matched_alias
+st,Fajardo,PAN,1,5,0,5,15,0.333,https://www.transfermarkt.it/jose-fajardo/profil/spieler/546803,matched_alias
+st,Fakhoury,GRD,1,8,1,5,16,0.312,https://www.transfermarkt.it/odeh-fakhoury/profil/spieler/1252820,matched_alias
+st,Fernandez-Pardo,BEL,1,8,0,2,10,0.2,https://www.transfermarkt.it/matias-fernandez-pardo/profil/spieler/724129,matched_alias
+st,Fortune,HAI,1,3,0,2,12,0.167,https://www.transfermarkt.it/yassin-fortune/profil/spieler/342878,matched_alias
+st,Goto,JAP,1,13,0,4,13,0.308,https://www.transfermarkt.it/keisuke-goto/profil/spieler/916623,matched_alias
+st,Gregoritsch,AUT,1,9,1,3,10,0.3,https://www.transfermarkt.it/michael-gregoritsch/profil/spieler/120205,matched_alias
+st,Gul,TUR,1,7,1,3,10,0.3,https://www.transfermarkt.it/deniz-gul/profil/spieler/1063292,matched_alias
+st,Hansen,CUW,1,1,0,3,11,0.273,https://www.transfermarkt.it/sontje-hansen/profil/spieler/485582,matched_alias
+st,Hirst,SCO,1,11,0,4,10,0.4,https://www.transfermarkt.it/george-hirst/profil/spieler/420808,matched_alias
+st,Hosseinzadeh,IRN,1,13,2,8,12,0.667,https://www.transfermarkt.it/amirhossein-hosseinzadeh/profil/spieler/542380,matched_alias
+st,Hussein A.,IRQ,1,9,1,5,14,0.357,https://www.transfermarkt.it/aymen-hussein/profil/spieler/401054,matched_alias
+st,Hyeon-gyu Oh,KOR,1,18,2,8,13,0.615,https://www.transfermarkt.it/hyeon-gyu-oh/profil/spieler/639246,matched_alias
+st,Igor Thiago,BRA,1,25,2,4,10,0.4,https://www.transfermarkt.it/igor-thiago/profil/spieler/739443,matched_alias
+st,Ismael Diaz,PAN,1,10,0,4,15,0.267,https://www.transfermarkt.it/ismael-diaz/profil/spieler/243298,matched_alias
+st,Itten,SVI,1,16,0,2,10,0.2,https://www.transfermarkt.it/cedric-itten/profil/spieler/243856,matched_alias
+st,Ji-Sung Eom,KOR,1,3,1,6,13,0.462,https://www.transfermarkt.it/ji-sung-eom/profil/spieler/706968,matched_alias
+st,Jimenez,MEX,1,10,3,7,16,0.438,https://www.transfermarkt.it/raul-jimenez/profil/spieler/206040,matched_alias
+st,Jordy Caicedo,ECU,1,8,1,3,10,0.3,https://www.transfermarkt.it/jordy-caicedo/profil/spieler/360412,matched_alias
+st,Jose Luis Rodriguez,PAN,1,4,0,4,15,0.267,https://www.transfermarkt.it/jose-luis-rodriguez/profil/spieler/425028,matched_alias
+st,Kalajdzic,AUT,1,7,0,3,10,0.3,https://www.transfermarkt.it/sasa-kalajdzic/profil/spieler/369567,matched_alias
+st,Karim,EGY,1,,,,15,,,unmatched_fuzzy_47
+st,Kastaneer,CUW,1,6,0,4,11,0.364,https://www.transfermarkt.it/gervane-kastaneer/profil/spieler/240752,matched_alias
+st,Kuchta,RCE,1,15,0,2,10,0.2,https://www.transfermarkt.it/jan-kuchta/profil/spieler/334802,matched_alias
+st,Larin,CAN,1,10,0,4,14,0.286,https://www.transfermarkt.it/cyle-larin/profil/spieler/343463,matched_alias
+st,Lenny,HAI,1,16,1,2,12,0.167,https://www.transfermarkt.it/lenny-joseph/profil/spieler/815359,matched_fuzzy_94
+st,Livramento L.,CPV,1,0,1,4,10,0.4,https://www.transfermarkt.it/dailon-livramento/profil/spieler/676411,matched_fuzzy_97
+st,Locadia,CUW,1,5,0,1,11,0.091,https://www.transfermarkt.it/jurgen-locadia/profil/spieler/166240,matched_alias
+st,Londono,PAN,1,1,0,1,15,0.067,https://www.transfermarkt.it/azarias-londono/profil/spieler/860998,matched_alias
+st,Lukic J.,BOS,1,20,0,2,10,0.2,https://www.transfermarkt.it/jovo-lukic/profil/spieler/457738,matched_alias
+st,Makgopa,SAF,1,7,0,3,16,0.188,https://www.transfermarkt.it/evidence-makgopa/profil/spieler/746781,matched_alias
+st,Margaritha,CUW,1,7,0,3,11,0.273,https://www.transfermarkt.it/jearl-margaritha/profil/spieler/538958,matched_alias
+st,Martinez G.,MEX,1,9,1,4,16,0.25,https://www.transfermarkt.it/guillermo-martinez/profil/spieler/347932,matched_alias
+st,Maseko,SAF,1,2,0,2,16,0.125,https://www.transfermarkt.it/thapelo-maseko/profil/spieler/983330,matched_alias
+st,Mastouri,TUN,1,4,1,5,18,0.278,https://www.transfermarkt.it/hazem-mastouri/profil/spieler/953150,matched_alias
+st,Mayele,COD,1,14,0,0,18,0.0,https://www.transfermarkt.it/fiston-mayele/profil/spieler/727157,matched_alias
+st,Moghanlou,IRN,1,8,0,3,12,0.25,https://www.transfermarkt.it/shahriar-moghanlou/profil/spieler/357125,matched_alias
+st,Mohanad Ali,IRQ,1,7,3,5,14,0.357,https://www.transfermarkt.it/mohanad-ali/profil/spieler/589646,matched_alias
+st,Moremi,SAF,1,11,0,4,16,0.25,https://www.transfermarkt.it/tshepang-moremi/profil/spieler/844485,matched_alias
+st,Muntari,QAT,1,0,1,3,12,0.25,https://www.transfermarkt.it/mohammed-muntari/profil/spieler/266935,matched_alias
+st,Nazon,HAI,1,2,0,4,12,0.333,https://www.transfermarkt.it/duckens-nazon/profil/spieler/345763,matched_alias
+st,Nico Gonzalez,ARG,1,5,0,6,9,0.667,https://www.transfermarkt.it/nico-gonzalez/profil/spieler/486031,matched_alias
+st,Nilsson,SVE,1,0,1,2,10,0.2,https://www.transfermarkt.it/gustaf-nilsson/profil/spieler/320440,matched_alias
+st,Ogawa,JAP,1,9,2,6,13,0.462,https://www.transfermarkt.it/koki-ogawa/profil/spieler/351567,matched_alias
+st,Olwan,GRD,1,5,2,5,16,0.312,https://www.transfermarkt.it/ali-olwan/profil/spieler/664057,matched_alias
+st,Pierrot,HAI,1,4,1,4,12,0.333,https://www.transfermarkt.it/frantzdy-pierrot/profil/spieler/492955,matched_alias
+st,Pitta,PAR,1,9,0,0,10,0.0,https://www.transfermarkt.it/isidro-pitta/profil/spieler/675178,matched_alias
+st,Rahimi,MAR,1,15,2,5,26,0.192,https://www.transfermarkt.it/soufiane-rahimi/profil/spieler/598506,matched_alias
+st,Randall,NZL,1,9,1,7,10,0.7,https://www.transfermarkt.it/jesse-randall/profil/spieler/677509,matched_alias
+st,Rayners,SAF,1,16,0,1,16,0.062,https://www.transfermarkt.it/iqraam-rayners/profil/spieler/337884,matched_alias
+st,Rodriguez K.,ECU,1,14,0,4,10,0.4,https://www.transfermarkt.it/kevin-rodriguez/profil/spieler/684159,matched_alias
+st,Sabra,GRD,1,3,1,3,16,0.188,https://www.transfermarkt.it/ibrahim-sabra/profil/spieler/1142382,matched_alias
+st,Semedo W.,CPV,1,22,1,5,10,0.5,https://www.transfermarkt.it/willy-semedo/profil/spieler/531450,matched_alias
+st,Sergeev,UZB,1,3,1,5,12,0.417,https://www.transfermarkt.it/igor-sergeev/profil/spieler/185372,matched_alias
+st,Shankland,SCO,1,20,3,2,10,0.2,https://www.transfermarkt.it/lawrence-shankland/profil/spieler/225744,matched_alias
+st,Shararh,GRD,1,6,1,6,16,0.375,https://www.transfermarkt.it/shararh/profil/spieler/677986,matched_alias
+st,Shiogay,JAP,1,10,0,2,13,0.154,https://www.transfermarkt.it/kento-shiogai/profil/spieler/1144627,matched_manual
+st,Sosa,PAR,1,7,0,4,10,0.4,https://www.transfermarkt.it/ramon-sosa/profil/spieler/745191,matched_alias
+st,Suzuki Y.,JAP,1,9,0,4,13,0.308,https://www.transfermarkt.it/yuito-suzuki/profil/spieler/668606,matched_alias
+st,Tabakovic,BOS,1,15,2,3,10,0.3,https://www.transfermarkt.it/haris-tabakovic/profil/spieler/203123,matched_alias
+st,Tamari,GRD,1,7,1,10,16,0.625,https://www.transfermarkt.it/mousa-tamari/profil/spieler/551505,matched_alias
+st,Tomas Rodriguez,PAN,1,7,1,2,15,0.133,https://www.transfermarkt.it/tomas-rodriguez/profil/spieler/569205,matched_alias
+st,Urunov,UZB,1,3,2,6,12,0.5,https://www.transfermarkt.it/oston-urunov/profil/spieler/492556,matched_alias
+st,Valencia E.,ECU,1,8,2,5,10,0.5,https://www.transfermarkt.it/enner-valencia/profil/spieler/139503,matched_alias
+st,Velupillay,AUS,1,4,0,2,10,0.2,https://www.transfermarkt.it/nishan-velupillay/profil/spieler/888140,matched_alias
+st,Waine,NZL,1,8,1,7,10,0.7,https://www.transfermarkt.it/ben-waine/profil/spieler/539502,matched_alias
+st,Waterman C.,PAN,1,3,1,5,15,0.333,https://www.transfermarkt.it/cecilio-waterman/profil/spieler/177064,matched_alias
+st,Weghorst,OLA,1,9,0,3,10,0.3,https://www.transfermarkt.it/wout-weghorst/profil/spieler/228645,matched_alias
+st,Yahya,SAU,1,3,0,4,20,0.2,https://www.transfermarkt.it/ayman-yahya/profil/spieler/735815,matched_alias
+st,Yanis,PAN,1,0,0,2,15,0.133,https://www.transfermarkt.it/cesar-yanis/profil/spieler/741098,matched_alias
+st,Yeboah,ECU,1,12,1,8,10,0.8,https://www.transfermarkt.it/john-yeboah/profil/spieler/439914,matched_alias
+st,Yengi,AUS,1,8,1,1,10,0.1,https://www.transfermarkt.it/tete-yengi/profil/spieler/849429,matched_alias
+st,Yousif,IRQ,1,3,1,2,14,0.143,https://www.transfermarkt.it/ali-yousif/profil/spieler/576265,matched_alias
+st,Ziko,EGY,1,14,2,2,15,0.133,https://www.transfermarkt.it/mostafa-ziko/profil/spieler/896616,matched_alias

@@ -1,0 +1,49 @@
+team_code,team_name,group,elo,win_odds
+MEX,Mexico,A,1868,67
+SAF,South Africa,A,1517,501
+KOR,South Korea,A,1756,251
+RCE,Czech Republic,A,1733,201
+CAN,Canada,B,1793,126
+BOS,Bosnia and Herzegovina,B,1591,201
+QAT,Qatar,B,1423,1001
+SVI,Switzerland,B,1894,67
+BRA,Brazil,C,1988,9
+MAR,Morocco,C,1822,51
+HAI,Haiti,C,1532,1001
+SCO,Scotland,C,1770,201
+USA,United States,D,1733,67
+PAR,Paraguay,D,1833,151
+AUS,Australia,D,1775,501
+TUR,Turkey,D,1906,81
+GER,Germany,E,1925,15
+CUW,Curacao,E,1433,2001
+CIV,Ivory Coast,E,1676,201
+ECU,Ecuador,E,1935,81
+OLA,Netherlands,F,1961,21
+JAP,Japan,F,1906,51
+SVE,Sweden,F,1714,101
+TUN,Tunisia,F,1633,501
+BEL,Belgium,G,1866,34
+EGY,Egypt,G,1699,251
+IRN,Iran,G,1764,501
+NZL,New Zealand,G,1585,1001
+SPA,Spain,H,2165,5.5
+CPV,Cape Verde,H,1576,1001
+SAU,Saudi Arabia,H,1566,1001
+URU,Uruguay,H,1892,67
+FRA,France,I,2081,6
+SEN,Senegal,I,1866,101
+IRQ,Iraq,I,1608,1001
+NOR,Norway,I,1917,29
+ARG,Argentina,J,2113,10
+ALG,Algeria,J,1743,251
+AUT,Austria,J,1830,151
+GRD,Jordan,J,1685,1501
+POR,Portugal,K,1984,8.5
+COD,DR Congo,K,1655,751
+UZB,Uzbekistan,K,1718,1001
+COL,Colombia,K,1977,34
+ING,England,L,2020,8
+CRO,Croatia,L,1930,81
+GHA,Ghana,L,1503,251
+PAN,Panama,L,1733,1001

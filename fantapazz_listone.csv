@@ -1,0 +1,1250 @@
+fanta_role,name,team_name,value
+gk,Simon,SPA,17
+gk,Martinez E.,ARG,16
+gk,Neuer,GER,15
+gk,Alisson,BRA,14
+gk,Diogo Costa,POR,14
+gk,Maignan,FRA,13
+gk,Courtois,BEL,12
+gk,Verbruggen,OLA,12
+gk,Kobel,SVI,11
+gk,Pickford,ING,11
+gk,Nyland,NOR,10
+gk,Mendy E.,SEN,9
+gk,Freese,USA,8
+gk,Roefs,OLA,8
+gk,Gill,PAR,7
+gk,Livakovic,CRO,7
+gk,Williams,SAF,7
+gk,Ederson,BRA,6
+gk,Gunn,SCO,6
+gk,Kovar,RCE,6
+gk,Muslera,URU,6
+gk,Schlager A.,AUT,6
+gk,Suzuki,JAP,6
+gk,Al-Aqidi,SAU,5
+gk,Johansson,SVE,5
+gk,Montero,COL,5
+gk,Rangel,MEX,5
+gk,Ryan,AUS,5
+gk,Seung-Gyu Kim,KOR,5
+gk,Alban Lafont,CIV,4
+gk,Beiranvand,IRN,4
+gk,Bounou,MAR,4
+gk,Cakir,TUR,4
+gk,El Shenawy,EGY,4
+gk,Galindez,ECU,4
+gk,Rochet,URU,4
+gk,Vasilj,BOS,4
+gk,Asare,GHA,3
+gk,Baumann,GER,3
+gk,Bayindir,TUR,3
+gk,Crepeau,CAN,3
+gk,Dahmen,TUN,3
+gk,Mpasi-Nzau,COD,3
+gk,Raya,SPA,3
+gk,St. Clair,CAN,3
+gk,Trafford,ING,3
+gk,Vozinha,CPV,3
+gk,Zidane,ALG,3
+gk,Fofana,CIV,2
+gk,Henderson D.,ING,2
+gk,Shobeir,EGY,2
+gk,Zigi,GHA,2
+gk,Abulaila,GRD,1
+gk,Abunada,QAT,1
+gk,Acevedo,MEX,1
+gk,Al-Fakhouri,GRD,1
+gk,Al-Kassar,SAU,1
+gk,Al-Owais,SAU,1
+gk,Alaa M.,EGY,1
+gk,Anang,GHA,1
+gk,Bani Attiah,GRD,1
+gk,Barsham,QAT,1
+gk,Beach,AUS,1
+gk,Ben Hessen,TUN,1
+gk,Benbout,ALG,1
+gk,Bodak,CUW,1
+gk,Boom-Keun Song,KOR,1
+gk,Brady,USA,1
+gk,CJ Dos Santos,CPV,1
+gk,Camilo Vargas,COL,1
+gk,Chaine,SAF,1
+gk,Chamakh,TUN,1
+gk,Crocombe,NZL,1
+gk,Da Rosa,CPV,1
+gk,Diaw,SEN,1
+gk,Diouf,SEN,1
+gk,Doornbusch,CUW,1
+gk,Duverger,HAI,1
+gk,El Kajoui,MAR,1
+gk,Epolo,COD,1
+gk,Ergashev,UZB,1
+gk,Fadhil,IRQ,1
+gk,Fayulu,COD,1
+gk,Fernandez,PAR,1
+gk,Flekken,OLA,1
+gk,Goodman,CAN,1
+gk,Gordon C.,SCO,1
+gk,Goss,SAF,1
+gk,Gunok,TUR,1
+gk,Hadzikic,BOS,1
+gk,Hassan J.,IRQ,1
+gk,Hayakawa,JAP,1
+gk,Hornicek,RCE,1
+gk,Hosseini H.,IRN,1
+gk,Hyeon-woo Jo,KOR,1
+gk,Izzo,AUS,1
+gk,Joan Garcia,SPA,1
+gk,Jose Sa,POR,1
+gk,Keller,SVI,1
+gk,Kelly,SCO,1
+gk,Kone M.,CIV,1
+gk,Kotarski,CRO,1
+gk,Lammens,BEL,1
+gk,Mastil,ALG,1
+gk,Mejia,PAN,1
+gk,Mele,URU,1
+gk,Mosquera O.,PAN,1
+gk,Musso,ARG,1
+gk,Mvogo,SVI,1
+gk,Nematov,UZB,1
+gk,Niazmand,IRN,1
+gk,Nordfeldt,SVE,1
+gk,Nubel,GER,1
+gk,Ochoa,MEX,1
+gk,Olveira,PAR,1
+gk,Osako,JAP,1
+gk,Ospina,COL,1
+gk,Pandur,CRO,1
+gk,Paulsen,NZL,1
+gk,Penders,BEL,1
+gk,Pentz,AUT,1
+gk,Pierre,HAI,1
+gk,Placide,HAI,1
+gk,Ramirez M.,ECU,1
+gk,Risser,FRA,1
+gk,Room,CUW,1
+gk,Rui Silva,POR,1
+gk,Rulli,ARG,1
+gk,Salah Zakaria,QAT,1
+gk,Samba,FRA,1
+gk,Samudio,PAN,1
+gk,Selvik,NOR,1
+gk,Soliman,EGY,1
+gk,Stanek,RCE,1
+gk,Tagnaouti,MAR,1
+gk,Talib,IRQ,1
+gk,Tangvik,NOR,1
+gk,Turner,USA,1
+gk,Valle,ECU,1
+gk,Weverton,BRA,1
+gk,Wiegele,AUT,1
+gk,Woud,NZL,1
+gk,Yusupov,UZB,1
+gk,Zetterstrom,SVE,1
+gk,Zlomislic,BOS,1
+cb,Gabriel M,BRA,23
+cb,Ruben Dias,POR,23
+cb,Saliba,FRA,23
+cb,Gvardiol,CRO,22
+cb,Dumfries,OLA,21
+cb,Hakimi,MAR,21
+cb,Marquinhos,BRA,21
+cb,Nuno Mendes,POR,21
+cb,Araujo M.,URU,20
+cb,Cubarsi,SPA,20
+cb,Kimmich,GER,20
+cb,Timber J.,OLA,20
+cb,Kounde,FRA,19
+cb,Van De Ven,OLA,19
+cb,Araujo R.,URU,18
+cb,Bremer,BRA,18
+cb,James R.,ING,18
+cb,Upamecano,FRA,18
+cb,Hincapie,ECU,17
+cb,Romero,ARG,17
+cb,Hernandez T.,FRA,16
+cb,Konate,FRA,16
+cb,Min-Jae Kim,KOR,16
+cb,Schlotterbeck,GER,16
+cb,Davies,CAN,15
+cb,Hato,OLA,15
+cb,Quansah,ING,15
+cb,Ake,OLA,14
+cb,Inacio,POR,14
+cb,Molina,ARG,14
+cb,Porro,SPA,14
+cb,Ait-Nouri,ALG,13
+cb,Diomande,CIV,13
+cb,Guehi,ING,13
+cb,Martinez Li.,ARG,13
+cb,Munoz D.,COL,13
+cb,Pacho,ECU,13
+cb,Rudiger,GER,13
+cb,Sarr M.,SEN,13
+cb,Wieffer,OLA,13
+cb,Akanji,SVI,12
+cb,Dalot,POR,12
+cb,Estupinan,ECU,12
+cb,Grimaldo,SPA,12
+cb,Gusto,FRA,12
+cb,Ndicka,CIV,12
+cb,Cucurella,SPA,11
+cb,Debast,BEL,11
+cb,Konsa,ING,11
+cb,Lacroix M.,FRA,11
+cb,Lucumi,COL,11
+cb,Stones,ING,11
+cb,Sutalo,CRO,11
+cb,Dest,USA,10
+cb,Eric Garcia,SPA,10
+cb,O'Reilly,ING,10
+cb,Olivera,URU,10
+cb,Stanisic,CRO,10
+cb,Thiaw,GER,10
+cb,Tomiyasu,JAP,10
+cb,Aguerd,MAR,9
+cb,Hernandez L.,FRA,9
+cb,Laimer,AUT,9
+cb,Llorente M.,SPA,9
+cb,Mazraoui,MAR,9
+cb,Sanchez D.,COL,9
+cb,Theate,BEL,9
+cb,Van Dijk,OLA,9
+cb,Van Hecke,OLA,9
+cb,Bensebaini,ALG,8
+cb,Cancelo,POR,8
+cb,Elvedi,SVI,8
+cb,Ibanez,BRA,8
+cb,Kadioglu,TUR,8
+cb,Livramento T.,ING,8
+cb,Pubill,SPA,8
+cb,Raum,GER,8
+cb,Richards,USA,8
+cb,Tah,GER,8
+cb,Danilo,BRA,7
+cb,De Cuyper,BEL,7
+cb,Dedic,BOS,7
+cb,Demiral,TUR,7
+cb,Gimenez J.,URU,7
+cb,Kalulu,COD,7
+cb,Khusanov,UZB,7
+cb,Ordonez,ECU,7
+cb,Robertson,SCO,7
+cb,Robinson A.,USA,7
+cb,Ryerson,NOR,7
+cb,Singo,CIV,7
+cb,Ajer,NOR,6
+cb,Anton,GER,6
+cb,Bardakci,TUR,6
+cb,Castagne,BEL,6
+cb,Danso,AUT,6
+cb,De Winter,BEL,6
+cb,Douglas Santos,BRA,6
+cb,Doué G.,CIV,6
+cb,Hickey,SCO,6
+cb,Hien,SVE,6
+cb,Ito H.,JAP,6
+cb,Kossounou,CIV,6
+cb,Krejci,RCE,6
+cb,Laporte,SPA,6
+cb,Medina,ARG,6
+cb,Niakhate,SEN,6
+cb,Otamendi,ARG,6
+cb,Senaya,GHA,6
+cb,Balerdi,ARG,5
+cb,Costa L.,CPV,5
+cb,El Ouahdi,MAR,5
+cb,Heggem,NOR,5
+cb,Leo Pereira,BRA,5
+cb,Tierney,SCO,5
+cb,Vasquez J.,MEX,5
+cb,Wan-Bissaka,COD,5
+cb,Amenda,SVI,4
+cb,Celik,TUR,4
+cb,Coufal,RCE,4
+cb,Digne,FRA,4
+cb,Erlic,CRO,4
+cb,Friedl,AUT,4
+cb,Jakobs,SEN,4
+cb,Lienhart,AUT,4
+cb,Ostigard,NOR,4
+cb,Patterson,SCO,4
+cb,Piquerez,URU,4
+cb,Riad,MAR,4
+cb,Affengruber,AUT,3
+cb,Agbadou,CIV,3
+cb,Alderete,PAR,3
+cb,Bombito,CAN,3
+cb,Brown N.,GER,3
+cb,Caleta-car,CRO,3
+cb,Circati,AUS,3
+cb,Comenencia,CUW,3
+cb,Diop,MAR,3
+cb,Elmali,TUR,3
+cb,Hadjam,ALG,3
+cb,Holes,RCE,3
+cb,Itakura,JAP,3
+cb,Johnston A.,CAN,3
+cb,Jurasek D.,RCE,3
+cb,Kabak,TUR,3
+cb,Kolasinac,BOS,3
+cb,Koulibaly,SEN,3
+cb,Lindelof,SVE,3
+cb,Montes,MEX,3
+cb,Muheim,SVI,3
+cb,Muldur,TUR,3
+cb,Opoku,GHA,3
+cb,Pedersen,NOR,3
+cb,Pongracic,CRO,3
+cb,Preciado An.,ECU,3
+cb,Scally,USA,3
+cb,Seko,JAP,3
+cb,Semedo,POR,3
+cb,Soyuncu,TUR,3
+cb,Spence,ING,3
+cb,Starfelt,SVE,3
+cb,Sugawara,JAP,3
+cb,Tagliafico,ARG,3
+cb,Talbi,TUN,3
+cb,Varela,URU,3
+cb,Vina,URU,3
+cb,Vuskovic,CRO,3
+cb,Watanabe,JAP,3
+cb,Wolfe,NOR,3
+cb,Young-Woo Seol,KOR,3
+cb,Abdulhamid,SAU,2
+cb,Akaydin,TUR,2
+cb,Al-Amri,SAU,2
+cb,Alex Sandro,BRA,2
+cb,Alfie Jones,CAN,2
+cb,Alonso,PAR,2
+cb,Bazoer,CUW,2
+cb,Bjorkan,NOR,2
+cb,Bos,AUS,2
+cb,Bueno,URU,2
+cb,Burn,ING,2
+cb,Cacace,NZL,2
+cb,Caceres S.,URU,2
+cb,Celik N.,BOS,2
+cb,Chavez M.,MEX,2
+cb,Comert,SVI,2
+cb,Ditta,COL,2
+cb,Ekdal H.,SVE,2
+cb,Falchener,NOR,2
+cb,Fatouh,EGY,2
+cb,Freeman,USA,2
+cb,Gallardo,MEX,2
+cb,Gomez,PAR,2
+cb,Gudmundsson,SVE,2
+cb,Hendry,SCO,2
+cb,Hranac,RCE,2
+cb,Hyam,SCO,2
+cb,Jaquez,SVI,2
+cb,Lagerbielke,SVE,2
+cb,Langas,NOR,2
+cb,Mandi,ALG,2
+cb,Mbemba,COD,2
+cb,Mckenna,SCO,2
+cb,Mckenzie,USA,2
+cb,Mechele,BEL,2
+cb,Medina Y.,ECU,2
+cb,Mina,COL,2
+cb,Montiel,ARG,2
+cb,Muharemovic,BOS,2
+cb,Murillo,PAN,2
+cb,Okon,SAF,2
+cb,Operi,CIV,2
+cb,Posch,AUT,2
+cb,Reyes,MEX,2
+cb,Robinson M.,USA,2
+cb,Romo,MEX,2
+cb,Salah-Eddine,MAR,2
+cb,Seys,BEL,2
+cb,Smith E.,SVE,2
+cb,Suzuki J.,JAP,2
+cb,Svensson,SVE,2
+cb,Trusty,USA,2
+cb,Widmer,SVI,2
+cb,Zima,RCE,2
+cb,Abada,ALG,1
+cb,Abdelmaguid,EGY,1
+cb,Abdelmonem,EGY,1
+cb,Abu Dahab,GRD,1
+cb,Abu Hasheesh,GRD,1
+cb,Abu Taha,GRD,1
+cb,Abualnadi,GRD,1
+cb,Ade,HAI,1
+cb,Adjetey,GHA,1
+cb,Al-Amin,QAT,1
+cb,Al-Arab,GRD,1
+cb,Al-Brake,QAT,1
+cb,Al-Harbi,SAU,1
+cb,Al-Hussain,QAT,1
+cb,Al-Oui,QAT,1
+cb,Al-Rosan,GRD,1
+cb,Al-Shamat,SAU,1
+cb,Al-Tambakti,SAU,1
+cb,Alaa T.,EGY,1
+cb,Ali Abdi,TUN,1
+cb,Ali H.,IRQ,1
+cb,Ali Majrashi,SAU,1
+cb,Alizhonov,UZB,1
+cb,Andrade,PAN,1
+cb,Araújo,POR,1
+cb,Arcus,HAI,1
+cb,Arias,COL,1
+cb,Arous,TUN,1
+cb,Ashurmatov,UZB,1
+cb,Baba,GHA,1
+cb,Badawi,GRD,1
+cb,Balbuena,PAR,1
+cb,Batubinsika,COD,1
+cb,Behich,AUS,1
+cb,Belaid,ALG,1
+cb,Belammari,MAR,1
+cb,Belghali,ALG,1
+cb,Ben Hamida,TUN,1
+cb,Ben Ouanes,TUN,1
+cb,Bindon,NZL,1
+cb,Blackman,PAN,1
+cb,Boushal,SAU,1
+cb,Boxall,NZL,1
+cb,Brenet,CUW,1
+cb,Bronn,TUN,1
+cb,Burgess,AUS,1
+cb,Bushiri,COD,1
+cb,Cabral S.,CPV,1
+cb,Caceres J.J.,PAR,1
+cb,Canale,PAR,1
+cb,Chaloupek,RCE,1
+cb,Chergui,ALG,1
+cb,Chikhaoui,TUN,1
+cb,Cordoba,PAN,1
+cb,Cornelius D.,CAN,1
+cb,Cross,SAF,1
+cb,Davis,PAN,1
+cb,De Fougerolles,CAN,1
+cb,Degenek,AUS,1
+cb,Delcroix,HAI,1
+cb,Diney,CPV,1
+cb,Diouf M.,SEN,1
+cb,Doski,IRQ,1
+cb,Duverne,HAI,1
+cb,Eiri,IRN,1
+cb,Elliot,NZL,1
+cb,Escobar,PAN,1
+cb,Eshmurodov,UZB,1
+cb,Experience,HAI,1
+cb,Farina,PAN,1
+cb,Felix Torres,ECU,1
+cb,Fernandes P.,CPV,1
+cb,Floranus,CUW,1
+cb,Fonville,CUW,1
+cb,Gaari,CUW,1
+cb,Geria,AUS,1
+cb,Gi-Yuk Lee,KOR,1
+cb,Gutierrez,PAN,1
+cb,Haddad,GRD,1
+cb,Hadzikadunic,BOS,1
+cb,Hafez,EGY,1
+cb,Hajsafi,IRN,1
+cb,Halhal,MAR,1
+cb,Han-Beom Lee,KOR,1
+cb,Hanley,SCO,1
+cb,Hany,EGY,1
+cb,Hardani,IRN,1
+cb,Hashem,IRQ,1
+cb,Herrington,AUS,1
+cb,Ibrahim,EGY,1
+cb,Italiano,AUS,1
+cb,Kabini,SAF,1
+cb,Kadesh,SAU,1
+cb,Kanaani,IRN,1
+cb,Kapuadi,COD,1
+cb,Karimov,UZB,1
+cb,Katic,BOS,1
+cb,Kayembe J.,COD,1
+cb,Khalilzadeh,IRN,1
+cb,Khoukhi,QAT,1
+cb,Konan,CIV,1
+cb,Lacroix D.,HAI,1
+cb,Lajami,SAU,1
+cb,Laryea,CAN,1
+cb,Laye,QAT,1
+cb,Luckassen,GHA,1
+cb,Machado,COL,1
+cb,Maidana,PAR,1
+cb,Makhanya,SAF,1
+cb,Masuaku,COD,1
+cb,Matuludi,SAF,1
+cb,Mbokazi,SAF,1
+cb,Mendes,QAT,1
+cb,Mendy A.,SEN,1
+cb,Mensah,GHA,1
+cb,Meunier,BEL,1
+cb,Miguel,QAT,1
+cb,Miller R.,PAN,1
+cb,Modiba,SAF,1
+cb,Mohammadi,IRN,1
+cb,Mojica,COL,1
+cb,Moon-Hwan KIM,KOR,1
+cb,Moreira S.,CPV,1
+cb,Mudau,SAF,1
+cb,Mujakic,BOS,1
+cb,Mumin,GHA,1
+cb,Mwene,AUT,1
+cb,Nagatomo,JAP,1
+cb,Nasib,GRD,1
+cb,Nasrullaev,UZB,1
+cb,Ndamane,SAF,1
+cb,Neffati,TUN,1
+cb,Nemati,IRN,1
+cb,Ngoy,BEL,1
+cb,Obaid,GRD,1
+cb,Obispo,CUW,1
+cb,Old,NZL,1
+cb,Oppong,GHA,1
+cb,Paugain,HAI,1
+cb,Payne,NZL,1
+cb,Pico,CPV,1
+cb,Pijnaker,NZL,1
+cb,Pina W.,CPV,1
+cb,Pires,CPV,1
+cb,Porozo,ECU,1
+cb,Putros,IRQ,1
+cb,Rabia,EGY,1
+cb,Radeljic,BOS,1
+cb,Ralston,SCO,1
+cb,Ramos,PAN,1
+cb,Ream,USA,1
+cb,Rekik,TUN,1
+cb,Rezaeian,IRN,1
+cb,Rodriguez,SVI,1
+cb,Saadoon,IRQ,1
+cb,Sambo,CUW,1
+cb,Sanabria J.M.,URU,1
+cb,Sanchez J.,MEX,1
+cb,Sayfiev,UZB,1
+cb,Sebelebele,SAF,1
+cb,Seck,SEN,1
+cb,Seidu,GHA,1
+cb,Sema,SVE,1
+cb,Sibisi,SAF,1
+cb,Smith T.,NZL,1
+cb,Souttar,AUS,1
+cb,Souttar J.,SCO,1
+cb,Stopira,CPV,1
+cb,Sulaka,IRQ,1
+cb,Surman,NZL,1
+cb,Svoboda,AUT,1
+cb,Tae-Hwan KIM,KOR,1
+cb,Tae-Seok Lee,KOR,1
+cb,Tahseen,IRQ,1
+cb,Taniguchi,JAP,1
+cb,Thakri,SAU,1
+cb,Thermoncy,HAI,1
+cb,Tougai,ALG,1
+cb,Tuanzebe,COD,1
+cb,Ulmasaiev,UZB,1
+cb,Urozov,UZB,1
+cb,Valery,TUN,1
+cb,Van Eijma,CUW,1
+cb,Veiga,POR,1
+cb,Velazquez,PAR,1
+cb,Waterman,CAN,1
+cb,Yahya A.,IRQ,1
+cb,Younis,IRQ,1
+cb,Yousefi,IRN,1
+cb,Yu-Min Cho,KOR,1
+cb,Zeleny,RCE,1
+cb,de Vries,NZL,1
+m,Saka,ING,35
+m,Raphinha,BRA,34
+m,Musiala,GER,33
+m,Rodri,SPA,32
+m,Wirtz,GER,32
+m,Odegaard,NOR,31
+m,Valverde,URU,31
+m,Barcola,FRA,30
+m,Bellingham,ING,30
+m,Zalazar,URU,29
+m,Bruno Fernandes,POR,27
+m,Pedri,SPA,27
+m,Joao Neves,POR,26
+m,Doué,FRA,25
+m,Guimaraes,BRA,25
+m,Calhanoglu,TUR,24
+m,Guler,TUR,24
+m,Zaire Emery,FRA,24
+m,Enzo Fernandez,ARG,23
+m,Rice,ING,23
+m,Vitinha,POR,22
+m,Eze,ING,21
+m,Mac Allister,ARG,21
+m,Paqueta,BRA,21
+m,Pulisic,USA,20
+m,Bernardo Silva,POR,19
+m,Doku,BEL,19
+m,Sane,GER,19
+m,Tchouameni,FRA,19
+m,Caicedo,ECU,18
+m,Cherki,FRA,18
+m,Pavlovic A.,GER,18
+m,Timber Q.,OLA,18
+m,Trossard,BEL,17
+m,Ugarte,URU,17
+m,Madueke,ING,16
+m,Nusa,NOR,16
+m,Zubimendi,SPA,16
+m,Kante,FRA,15
+m,Matheus Nunes,POR,15
+m,Leweling,GER,14
+m,Mainoo,ING,14
+m,Mctominay,SCO,14
+m,Nico Williams,SPA,14
+m,Nmecha F.,GER,14
+m,Olmo,SPA,14
+m,Palacios E.,ARG,14
+m,Baena,SPA,13
+m,De Bruyne,BEL,13
+m,De Jong F.,OLA,13
+m,Ederson J.,BRA,13
+m,Jackson,SEN,13
+m,Kang-In Lee,KOR,13
+m,Onana Am.,BEL,13
+m,Reijnders,OLA,13
+m,Saibari,MAR,13
+m,Amiri N.,GER,12
+m,Conceicao F.,POR,12
+m,Gravenberch,OLA,12
+m,Koopmeiners,OLA,12
+m,Manu Kone,FRA,12
+m,Ndiaye I.,SEN,12
+m,Rios R.,COL,12
+m,Ruiz,SPA,12
+m,Sarr P.,SEN,12
+m,De Ketelaere,BEL,11
+m,Mcginn,SCO,11
+m,Akliouche,FRA,10
+m,Almada,ARG,10
+m,De La Cruz,URU,10
+m,De Paul,ARG,10
+m,Diaz B.,MAR,10
+m,El Khannouss,MAR,10
+m,Paez,ECU,10
+m,Pino,SPA,10
+m,Rabiot,FRA,10
+m,Soucek,RCE,10
+m,Stiller,GER,10
+m,Sulemana K.,GHA,10
+m,Tielemans,BEL,10
+m,Trincao,POR,10
+m,Bouaddi,MAR,9
+m,Gavi,SPA,9
+m,Kluivert,OLA,9
+m,Merino,SPA,9
+m,Rogers,ING,9
+m,Summerville,OLA,9
+m,Vlasic,CRO,9
+m,Adingra,CIV,8
+m,Anderson,ING,8
+m,Ayari K.,TUN,8
+m,Baturina,CRO,8
+m,Baumgartner,AUT,8
+m,Chaibi,ALG,8
+m,Enciso,PAR,8
+m,Goretzka,GER,8
+m,Kubo,JAP,8
+m,Lang N.,OLA,8
+m,Lerma,COL,8
+m,Mckennie,USA,8
+m,Nico Paz,ARG,8
+m,Ouedraogo,GER,8
+m,Ruben Neves,POR,8
+m,Sangare,CIV,8
+m,Adams T.,USA,7
+m,Berge,NOR,7
+m,Bergvall,SVE,7
+m,Boudaoui,ALG,7
+m,Diego Gomez,PAR,7
+m,Doak,SCO,7
+m,Doan,JAP,7
+m,El Aynaoui,MAR,7
+m,Elanga,SVE,7
+m,Hadj Moussa,ALG,7
+m,Hannibal,TUN,7
+m,Jashari,SVI,7
+m,Kokcu,TUR,7
+m,Kovacic,CRO,7
+m,Sano,JAP,7
+m,Sarr I.,SEN,7
+m,Sucic L.,CRO,7
+m,Tillman,USA,7
+m,Zakaria,SVI,7
+m,Arias J.,COL,6
+m,Aursnes,NOR,6
+m,Bentancur,URU,6
+m,Camara L.,SEN,6
+m,Chukwuemeka,AUT,6
+m,Fabinho,BRA,6
+m,Ferguson,SCO,6
+m,Kone I.,CAN,6
+m,Seiwald,AUT,6
+m,Svanberg,SVE,6
+m,Yuksek,TUR,6
+m,Angulo N.,ECU,5
+m,Baah,GHA,5
+m,Barco,ARG,5
+m,Casemiro,BRA,5
+m,De Arrascaeta,URU,5
+m,Endo,JAP,5
+m,Fatawu,GHA,5
+m,Fofana S.,CIV,5
+m,Gilmour,SCO,5
+m,Gueye P.,SEN,5
+m,Henderson J.,ING,5
+m,Ito J.,JAP,5
+m,Kessie,CIV,5
+m,Martinez Em.,URU,5
+m,Maza,ALG,5
+m,Perisic,CRO,5
+m,Rieder,SVI,5
+m,Saelemaekers,BEL,5
+m,Schjelderup,NOR,5
+m,Sow,SVI,5
+m,Sucic P.,CRO,5
+m,Thorstvedt,NOR,5
+m,Wanner,AUT,5
+m,Weah,USA,5
+m,Xhaka,SVI,5
+m,Zerrouki,ALG,5
+m,Aaronson,USA,4
+m,Akgun,TUR,4
+m,Alajbegovic,BOS,4
+m,Almiron,PAR,4
+m,Alvarez E.,MEX,4
+m,Carrascal,COL,4
+m,Castano,COL,4
+m,Christie,SCO,4
+m,Danilo Dos Santos,BRA,4
+m,Elia,COD,4
+m,Grob,GER,4
+m,Kahveci,TUR,4
+m,Kamada,JAP,4
+m,Karlstrom,SVE,4
+m,Maeda,JAP,4
+m,Ndoye,SVI,4
+m,Ozcan,TUR,4
+m,Partey,GHA,4
+m,Pasalic Marco,CRO,4
+m,Pasalic Mario,CRO,4
+m,Plata,ECU,4
+m,Raskin,BEL,4
+m,Rodriguez B.,URU,4
+m,Schmid,AUT,4
+m,Skhiri,TUN,4
+m,Til,OLA,4
+m,Wimmer,AUT,4
+m,Achouri,TUN,3
+m,Aebischer,SVI,3
+m,Amrabat,MAR,3
+m,Aouar,ALG,3
+m,Ayari,SVE,3
+m,Campaz,COL,3
+m,Canobbio,URU,3
+m,Castillo,ECU,3
+m,Etienne Jr.,HAI,3
+m,Fidalgo,MEX,3
+m,Freuler,SVI,3
+m,Guedes,POR,3
+m,In-Beom Hwang,KOR,3
+m,Lira,MEX,3
+m,Lo Celso,ARG,3
+m,Moreira,BEL,3
+m,Nakamura,JAP,3
+m,Noslin,CUW,3
+m,Ounahi,MAR,3
+m,Owusu,GHA,3
+m,Paredes,ARG,3
+m,Pellistri,URU,3
+m,Prass,AUT,3
+m,Puerta,COL,3
+m,Schlager X.,AUT,3
+m,Slimane,TUN,3
+m,Sulc,RCE,3
+m,Tanaka,JAP,3
+m,Thorsby,NOR,3
+m,Vanaken,BEL,3
+m,Vargas R.,SVI,3
+m,Volpato,AUS,3
+m,Yassine,MAR,3
+m,Zendejas,USA,3
+m,Afif,QAT,2
+m,Alaba,AUT,2
+m,Alan Franco,ECU,2
+m,Alcivar,ECU,2
+m,Alvarado,MEX,2
+m,Andre Gomez,COL,2
+m,Antonisse,CUW,2
+m,Ashour,EGY,2
+m,Ateya,EGY,2
+m,Bajraktarevic,BOS,2
+m,Berg P.,NOR,2
+m,Berhalter,USA,2
+m,Carrasquilla,PAN,2
+m,Chavez L.,MEX,2
+m,Chong,CUW,2
+m,Danley,HAI,2
+m,Doudera,RCE,2
+m,Eustaquio,CAN,2
+m,Fayzullaev,UZB,2
+m,Felida,CUW,2
+m,Fruk,CRO,2
+m,Gharbi,TUN,2
+m,Ghayedi,IRN,2
+m,Ghedjemis,ALG,2
+m,Gigovic,BOS,2
+m,Gorre,CUW,2
+m,Guiagon,CIV,2
+m,Gutierrez B.,MEX,2
+m,Hadziahmetovic,BOS,2
+m,Huerta,MEX,2
+m,Jae-Sung Lee,KOR,2
+m,Jakic,CRO,2
+m,Mahrez,ALG,2
+m,Mbuku,COD,2
+m,Minda,ECU,2
+m,Modric,CRO,2
+m,Mohebi,IRN,2
+m,Mokoena,SAF,2
+m,Moro N.,CRO,2
+m,Pedro Vite,ECU,2
+m,Pineda,MEX,2
+m,Portilla,COL,2
+m,Provod,RCE,2
+m,Qasem,IRQ,2
+m,Sabitzer,AUT,2
+m,Sadilek M.,RCE,2
+m,Saliba N.D.,CAN,2
+m,Shukurov,UZB,2
+m,Sigur,CAN,2
+m,Tahirovic,BOS,2
+m,Titraoui,ALG,2
+m,Tounekti,TUN,2
+m,Uzun,TUR,2
+m,Vargas O.,MEX,2
+m,Vega,MEX,2
+m,Yirenkyi,GHA,2
+m,Zizo,EGY,2
+m,jun-Oh Bae,KOR,2
+m,Aasgaard,NOR,1
+m,Abdullaev,UZB,1
+m,Abdurisag,QAT,1
+m,Adams J.,SAF,1
+m,Al-Ammari,IRQ,1
+m,Al-Dawoud,GRD,1
+m,Al-Dawsari N.,SAU,1
+m,Al-Dawsari S.,SAU,1
+m,Al-Haydos,QAT,1
+m,Al-Hejji,SAU,1
+m,Al-Johani,SAU,1
+m,Al-Juwayr,SAU,1
+m,Al-Khaibari,SAU,1
+m,Al-Mannai,QAT,1
+m,Al-Rashdan,GRD,1
+m,Al-Rawabdeh,GRD,1
+m,Ali-Ahmed,CAN,1
+m,Amyn,IRQ,1
+m,Appollis,SAF,1
+m,Arcanjo,CPV,1
+m,Arfsten,USA,1
+m,Aydin,TUR,1
+m,Ayed,GRD,1
+m,Ayhan,TUR,1
+m,Bacuna J.,CUW,1
+m,Bacuna L.,CUW,1
+m,Basic,BOS,1
+m,Bayesh,IRQ,1
+m,Bayliss,NZL,1
+m,Belhadj Mahmoud,TUN,1
+m,Bell,NZL,1
+m,Bellegarde,HAI,1
+m,Bentaleb,ALG,1
+m,Boakye,GHA,1
+m,Bobadilla,PAR,1
+m,Boudiaf,QAT,1
+m,Boulbina,ALG,1
+m,Burnic,BOS,1
+m,Caballero,PAR,1
+m,Casimir,HAI,1
+m,Castrop,KOR,1
+m,Cerv,RCE,1
+m,Cheshmi,IRN,1
+m,Choiniere,CAN,1
+m,Cipenga,COD,1
+m,Ciss,SEN,1
+m,Costa,POR,1
+m,Cristian Martinez,PAN,1
+m,Cubas,PAR,1
+m,Curtis,SCO,1
+m,Darida,RCE,1
+m,De Roon,OLA,1
+m,Devlin,AUS,1
+m,Diarra,SEN,1
+m,Diomande Y.,CIV,1
+m,Dong-Gyeung Lee,KOR,1
+m,Duarte De.,CPV,1
+m,Duarte L.,CPV,1
+m,Dunga,EGY,1
+m,Edmilson Junior,QAT,1
+m,El Mourabet,MAR,1
+m,Esanov,UZB,1
+m,Ezatolahi,IRN,1
+m,Farji,IRQ,1
+m,Fassnacht,SVI,1
+m,Fathi,QAT,1
+m,Fathy,EGY,1
+m,Flores M.,CAN,1
+m,Gaber,QAT,1
+m,Galarza,PAR,1
+m,Ganiev,UZB,1
+m,Garbett,NZL,1
+m,Ghoddos,IRN,1
+m,Ghorbani,IRN,1
+m,Godoy,PAN,1
+m,Grillitsch,AUT,1
+m,Gueye I.,SEN,1
+m,Harvey,PAN,1
+m,Hassan,EGY,1
+m,Hatim,QAT,1
+m,Hrustic,AUS,1
+m,Iqbal,IRQ,1
+m,Irvine,AUS,1
+m,Iskanderov,UZB,1
+m,Ismail,IRQ,1
+m,Jahanbakhsh,IRN,1
+m,James Rodriguez,COL,1
+m,Jamiro Monteiro,CPV,1
+m,Jamous,GRD,1
+m,Jamshid,QAT,1
+m,Jasim,IRQ,1
+m,Jin-Gyu Kim,KOR,1
+m,Jin-Seob Park,KOR,1
+m,Johansson H.,SVE,1
+m,Just,NZL,1
+m,Kaku,PAR,1
+m,Kakuta,COD,1
+m,Kanno,SAU,1
+m,Kayembe E.,COD,1
+m,Khamdamov,UZB,1
+m,Khamrobekov,UZB,1
+m,Khedira,TUN,1
+m,Kuwas,CUW,1
+m,Lasheen,EGY,1
+m,Leckie,AUS,1
+m,Leverton,HAI,1
+m,Mabil,AUS,1
+m,Madibo,QAT,1
+m,Mahmic,BOS,1
+m,Mandash,SAU,1
+m,Manzambi,SVI,1
+m,Martha,CUW,1
+m,Masharipov,UZB,1
+m,Mauricio,PAR,1
+m,Mbatha,SAF,1
+m,Mbaye,SEN,1
+m,McCowatt,NZL,1
+m,Mclean,SCO,1
+m,Memic,BOS,1
+m,Mendes R.,CPV,1
+m,Metcalfe,AUS,1
+m,Millar,CAN,1
+m,Mofokeng,SAF,1
+m,Mora,MEX,1
+m,Moutoussamy,COD,1
+m,Mozgovoy,UZB,1
+m,Mukau,COD,1
+m,Munoz V.,SPA,1
+m,Ndiaye B.,SEN,1
+m,O'Neill,AUS,1
+m,Ojeda,PAR,1
+m,Okon-Engstler,AUS,1
+m,Osorio,CAN,1
+m,Oulai,CIV,1
+m,Pickel,COD,1
+m,Pina K.,CPV,1
+m,Providence,HAI,1
+m,Quintero,COL,1
+m,Quintero A.,PAN,1
+m,Razzaghinia,IRN,1
+m,Reyna,USA,1
+m,Rodrigues,CPV,1
+m,Roemeratoe,CUW,1
+m,Roldan,USA,1
+m,Rufer,NZL,1
+m,Saad,TUN,1
+m,Saadeh,GRD,1
+m,Saber,EGY,1
+m,Sadiki,COD,1
+m,Sainte,HAI,1
+m,Schopf,AUT,1
+m,Semedo Y.,CPV,1
+m,Seri,CIV,1
+m,Seung-Ho Paik,KOR,1
+m,Shaffelburg,CAN,1
+m,Sher,IRQ,1
+m,Sibo,GHA,1
+m,Simon D.,HAI,1
+m,Singh,NZL,1
+m,Sithole,SAF,1
+m,Sochurek,RCE,1
+m,Sojka,RCE,1
+m,Stamenic,NZL,1
+m,Stroud,SVE,1
+m,Sunjic,BOS,1
+m,Taha Ali,SVE,1
+m,Thomas R.,NZL,1
+m,Torabi,IRN,1
+m,Toure,CIV,1
+m,Trewin,AUS,1
+m,Trezeguet,EGY,1
+m,Valencia A.,ECU,1
+m,Varela H.,CPV,1
+m,Visinsky,RCE,1
+m,Witsel,BEL,1
+m,Woodensky,HAI,1
+m,Yakob,IRQ,1
+m,Zeneli,SVE,1
+m,Zwane,SAF,1
+st,Mbappe,FRA,37
+st,Vinicius Jr.,BRA,37
+st,Yamal,SPA,37
+st,Messi,ARG,35
+st,Haaland,NOR,34
+st,Alvarez J.,ARG,33
+st,Kane,ING,33
+st,Martinez La.,ARG,32
+st,Dembele,FRA,31
+st,Olise,FRA,29
+st,Ronaldo,POR,27
+st,Rashford,ING,25
+st,Yildiz,TUR,24
+st,Isak,SVE,23
+st,Diaz,COL,22
+st,Gyokeres,SVE,21
+st,Lukaku,BEL,21
+st,Martinelli,BRA,21
+st,Ferran Torres,SPA,20
+st,Nunez,URU,20
+st,Gakpo,OLA,19
+st,Oyarzabal,SPA,19
+st,Watkins,ING,19
+st,Lopez J.M.,ARG,18
+st,Havertz,GER,17
+st,Malen,OLA,17
+st,Toney,ING,17
+st,Diallo,CIV,16
+st,Leao,POR,16
+st,Salah,EGY,16
+st,Beier,GER,15
+st,Gordon A.,ING,15
+st,Schick,RCE,15
+st,Thuram M.,FRA,15
+st,Cunha,BRA,14
+st,Endrick,BRA,14
+st,Marmoush,EGY,14
+st,Neto,POR,14
+st,Goncalo Ramos,POR,13
+st,Mane,SEN,13
+st,David,CAN,12
+st,Suarez Luis,COL,12
+st,Woltemade,GER,12
+st,Akturkoglu,TUR,11
+st,Cordoba J.,COL,11
+st,Neymar,BRA,11
+st,Williams I.,GHA,11
+st,Yilmaz B.A.,TUR,11
+st,Embolo,SVI,10
+st,Semenyo,GHA,10
+st,Balogun,USA,9
+st,Brobbey,OLA,9
+st,Diao,SEN,9
+st,Gouiri,ALG,9
+st,Joao Felix,POR,9
+st,Nuamah,GHA,9
+st,Bobb,NOR,8
+st,Heung-Min Son,KOR,8
+st,Kramaric,CRO,8
+st,Undav,GER,8
+st,Wissa,COD,8
+st,Arnautovic,AUT,7
+st,Depay,OLA,7
+st,Luiz Henrique,BRA,7
+st,Mateta,FRA,7
+st,Sorloth,NOR,7
+st,Amoura,ALG,6
+st,Demirovic,BOS,6
+st,Dzeko,BOS,6
+st,Ezzalzouli,MAR,6
+st,Gimenez S.,MEX,6
+st,Hee-Chan Hwang,KOR,6
+st,Lukebakio,BEL,6
+st,Wahi,CIV,6
+st,Okafor,SVI,5
+st,Strand Larsen,NOR,5
+st,Talbi C.,MAR,5
+st,Gonzalez A.,MEX,4
+st,Guessand,CIV,4
+st,Hlozek,RCE,4
+st,Nygren,SVE,4
+st,Pepi,USA,4
+st,Thomas-Asante,GHA,4
+st,Adams C.,SCO,3
+st,Banza,COD,3
+st,Bonny,CIV,3
+st,Buchanan,CAN,3
+st,David P.,CAN,3
+st,Diatta,SEN,3
+st,Foster,SAF,3
+st,Giuliano Simeone,ARG,3
+st,Haji Wright,USA,3
+st,Hernandez C.,COL,3
+st,Isidor,HAI,3
+st,Matanovic,CRO,3
+st,Ueda,JAP,3
+st,Aguirre,URU,2
+st,Al-Buraikan,SAU,2
+st,Amdouni,SVI,2
+st,Ayew J.,GHA,2
+st,Ayoube,MAR,2
+st,Bongonda,COD,2
+st,Budimir,CRO,2
+st,Cho-Gue Sung,KOR,2
+st,Chytil,RCE,2
+st,Dieng B.,SEN,2
+st,El Kaabi,MAR,2
+st,Hauge,NOR,2
+st,Hyun-Jun Yang,KOR,2
+st,Iglesias,SPA,2
+st,Irankunda,AUS,2
+st,Mohamed Toure,AUS,2
+st,Musa P.,CRO,2
+st,Ndiaye C.,SEN,2
+st,Nicolas Pépé,CIV,2
+st,Oluwasei,CAN,2
+st,Quinones,MEX,2
+st,Rayan,BRA,2
+st,Sanabria,PAR,2
+st,Shomurodov,UZB,2
+st,Stewart,SCO,2
+st,Taremi,IRN,2
+st,Vinas,URU,2
+st,Wood,NZL,2
+st,Adel,EGY,1
+st,Adu,GHA,1
+st,Al-Ganehi,QAT,1
+st,Al-Ghannam,SAU,1
+st,Al-Hamadi,IRQ,1
+st,Al-Hamdan,SAU,1
+st,Al-Mardi,GRD,1
+st,Al-Shehri,SAU,1
+st,Alaaeldin,QAT,1
+st,Alipour,IRN,1
+st,Almoez Ali,QAT,1
+st,Amanov,UZB,1
+st,Arce,PAR,1
+st,Arevalo,ECU,1
+st,Avalos,PAR,1
+st,Ayensa,IRN,1
+st,Azaizeh,GRD,1
+st,Bakambu,COD,1
+st,Barbarouses,NZL,1
+st,Barcenas,PAN,1
+st,Bazdar S.,BOS,1
+st,Benbouali,ALG,1
+st,Benchimol,CPV,1
+st,Bernhardsson,SVE,1
+st,Cabral J.,CPV,1
+st,Chaouat,TUN,1
+st,Chory,RCE,1
+st,Da Costa,CPV,1
+st,Dargahi,IRN,1
+st,Deedson,HAI,1
+st,Diakite,CIV,1
+st,Dykes,SCO,1
+st,Elloumi,TUN,1
+st,Fajardo,PAN,1
+st,Fakhoury,GRD,1
+st,Fernandez-Pardo,BEL,1
+st,Fortune,HAI,1
+st,Goto,JAP,1
+st,Gregoritsch,AUT,1
+st,Gul,TUR,1
+st,Hansen,CUW,1
+st,Hirst,SCO,1
+st,Hosseinzadeh,IRN,1
+st,Hussein A.,IRQ,1
+st,Hyeon-gyu Oh,KOR,1
+st,Igor Thiago,BRA,1
+st,Ismael Diaz,PAN,1
+st,Itten,SVI,1
+st,Ji-Sung Eom,KOR,1
+st,Jimenez,MEX,1
+st,Jordy Caicedo,ECU,1
+st,Jose Luis Rodriguez,PAN,1
+st,Kalajdzic,AUT,1
+st,Karim,EGY,1
+st,Kastaneer,CUW,1
+st,Kuchta,RCE,1
+st,Larin,CAN,1
+st,Lenny,HAI,1
+st,Livramento L.,CPV,1
+st,Locadia,CUW,1
+st,Londono,PAN,1
+st,Lukic J.,BOS,1
+st,Makgopa,SAF,1
+st,Margaritha,CUW,1
+st,Martinez G.,MEX,1
+st,Maseko,SAF,1
+st,Mastouri,TUN,1
+st,Mayele,COD,1
+st,Moghanlou,IRN,1
+st,Mohanad Ali,IRQ,1
+st,Moremi,SAF,1
+st,Muntari,QAT,1
+st,Nazon,HAI,1
+st,Nico Gonzalez,ARG,1
+st,Nilsson,SVE,1
+st,Ogawa,JAP,1
+st,Olwan,GRD,1
+st,Pierrot,HAI,1
+st,Pitta,PAR,1
+st,Rahimi,MAR,1
+st,Randall,NZL,1
+st,Rayners,SAF,1
+st,Rodriguez K.,ECU,1
+st,Sabra,GRD,1
+st,Semedo W.,CPV,1
+st,Sergeev,UZB,1
+st,Shankland,SCO,1
+st,Shararh,GRD,1
+st,Shiogay,JAP,1
+st,Sosa,PAR,1
+st,Suzuki Y.,JAP,1
+st,Tabakovic,BOS,1
+st,Tamari,GRD,1
+st,Tomas Rodriguez,PAN,1
+st,Urunov,UZB,1
+st,Valencia E.,ECU,1
+st,Velupillay,AUS,1
+st,Waine,NZL,1
+st,Waterman C.,PAN,1
+st,Weghorst,OLA,1
+st,Yahya,SAU,1
+st,Yanis,PAN,1
+st,Yeboah,ECU,1
+st,Yengi,AUS,1
+st,Yousif,IRQ,1
+st,Ziko,EGY,1
