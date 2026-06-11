@@ -17,8 +17,8 @@
 | Nico Williams | SPA | 14 | 0.92 | 7.1 | 6.60 | 35.5 |
 | Mac Allister | ARG | 21 | 0.92 | 6.8 | 6.56 | 34.9 |
 | Kane | ING | 33 | 0.92 | 5.8 | 6.48 | 43.4 |
-| Oyarzabal | SPA | 19 | 0.92 | 7.1 | 6.60 | 40.7 |
-| Olise | FRA | 29 | 0.92 | 6.5 | 6.53 | 39.4 |
+| Oyarzabal | SPA | 19 | 0.92 | 7.1 | 6.60 | 41.4 |
+| Mbappe | FRA | 37 | 0.87 | 6.5 | 6.53 | 41.2 |
 
 ## Rosa completa (25)
 
@@ -30,7 +30,7 @@
 | Galindez | ECU | 4 | 0.92 | 5.1 | 6.28 | 28.7  — |
 | Cakir | TUR | 4 | 0.92 | 5.1 | 6.26 | 28.2  — |
 
-### Difensori (D) — 8 (68 cr)
+### Difensori (D) — 8 (66 cr)
 
 | Giocatore | Naz | Cr | P(tit) | E[match] | Voto base | ETP | XI |
 |---|---|---|---|---|---|---|---|
@@ -41,28 +41,28 @@
 | Gallardo | MEX | 2 | 0.89 | 5.0 | 6.36 | 29.4  — |
 | Caleta-car | CRO | 3 | 0.92 | 4.8 | 6.41 | 29.3  — |
 | Pongracic | CRO | 3 | 0.92 | 4.8 | 6.41 | 29.2  — |
-| Muheim | SVI | 3 | 0.82 | 5.2 | 6.38 | 26.9  — |
+| Eiri | IRN | 1 | 0.88 | 4.3 | 6.28 | 24.0  — |
 
-### Centrocampisti (C) — 8 (73 cr)
+### Centrocampisti (C) — 8 (67 cr)
 
 | Giocatore | Naz | Cr | P(tit) | E[match] | Voto base | ETP | XI |
 |---|---|---|---|---|---|---|---|
 | Enzo Fernandez | ARG | 23 | 0.92 | 6.8 | 6.56 | 35.6  ✅ |
 | Nico Williams | SPA | 14 | 0.92 | 7.1 | 6.60 | 35.5  ✅ |
 | Mac Allister | ARG | 21 | 0.92 | 6.8 | 6.56 | 34.9  ✅ |
-| Arias J. | COL | 6 | 0.92 | 5.3 | 6.45 | 31.5  — |
 | Lira | MEX | 3 | 0.92 | 5.0 | 6.36 | 26.6  — |
-| Fidalgo | MEX | 3 | 0.86 | 5.0 | 6.36 | 24.9  — |
 | Modric | CRO | 2 | 0.83 | 4.8 | 6.41 | 24.7  — |
+| Ghayedi | IRN | 2 | 0.88 | 4.3 | 6.28 | 23.4  — |
 | James Rodriguez | COL | 1 | 0.72 | 5.3 | 6.45 | 23.2  — |
+| Cheshmi | IRN | 1 | 0.84 | 4.3 | 6.28 | 21.8  — |
 
-### Attaccanti (A) — 6 (84 cr)
+### Attaccanti (A) — 6 (92 cr)
 
 | Giocatore | Naz | Cr | P(tit) | E[match] | Voto base | ETP | XI |
 |---|---|---|---|---|---|---|---|
 | Kane | ING | 33 | 0.92 | 5.8 | 6.48 | 43.4  ✅ |
-| Oyarzabal | SPA | 19 | 0.92 | 7.1 | 6.60 | 40.7  ✅ |
-| Olise | FRA | 29 | 0.92 | 6.5 | 6.53 | 39.4  ✅ |
+| Oyarzabal | SPA | 19 | 0.92 | 7.1 | 6.60 | 41.4  ✅ |
+| Mbappe | FRA | 37 | 0.87 | 6.5 | 6.53 | 41.2  ✅ |
 | Jimenez | MEX | 1 | 0.85 | 5.0 | 6.36 | 28.9  — |
 | Arevalo | ECU | 1 | 0.88 | 5.1 | 6.41 | 27.8  — |
 | Jordy Caicedo | ECU | 1 | 0.84 | 5.1 | 6.41 | 27.0  — |
@@ -73,12 +73,12 @@ Giocatori da nazionali con meno partite attese: primi da rimpiazzare coi 10 tras
 
 | Giocatore | Naz | Ruolo | E[match] | Cr |
 |---|---|---|---|---|
+| Ghayedi | IRN | m | 4.3 | 2 |
+| Eiri | IRN | cb | 4.3 | 1 |
+| Cheshmi | IRN | m | 4.3 | 1 |
 | Caleta-car | CRO | cb | 4.8 | 3 |
 | Pongracic | CRO | cb | 4.8 | 3 |
 | Modric | CRO | m | 4.8 | 2 |
-| Lira | MEX | m | 5.0 | 3 |
-| Fidalgo | MEX | m | 5.0 | 3 |
-| Gallardo | MEX | cb | 5.0 | 2 |
 
 ## Razionale
 

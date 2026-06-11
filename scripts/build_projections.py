@@ -24,6 +24,7 @@ LISTONE = PROJECT_ROOT / "fantapazz_listone_enriched.csv"
 STRENGTH = DATA / "wc2026_team_strength.csv"
 CONTEXT = DATA / "player_context.csv"
 LINEUP = DATA / "lineup_sentiment.csv"
+ODDS = DATA / "topscorer_odds.csv"
 OUT_PROJ = DATA / "projections.csv"
 OUT_SIM = DATA / "wc2026_sim.csv"
 
@@ -251,6 +252,50 @@ def load_lineup():
     return flags
 
 
+# Calibrazione da quote capocannoniere (vedi topscorer_odds.csv).
+ODDS_W = 0.6        # peso del segnale di mercato nel blend con la stima da rendimento
+ODDS_ANCHOR = 0.8   # tasso gol/partita assegnato al favorito assoluto del mercato
+ODDS_EXP = 0.6      # esponente: P(capocannoniere) e' convessa in E[gol] -> radice per invertire
+
+
+def load_topscorer_odds():
+    """Quote capocannoniere -> probabilita implicita per (team_code, name)."""
+    imp = {}
+    if not ODDS.exists():
+        return imp
+    with ODDS.open(newline="", encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            code = (r.get("team_code") or "").strip()
+            name = (r.get("name") or "").strip()
+            if not code or not name or name.startswith("#"):
+                continue
+            try:
+                am = float(r["american_odds"])
+            except (KeyError, ValueError, TypeError):
+                continue
+            imp[(code, name.lower())] = 100.0 / (am + 100.0)
+    return imp
+
+
+def odds_goal_rates(imp, e_matches):
+    """Converte le prob. implicite in un tasso gol/partita, NETTO del cammino atteso.
+
+    P(capocannoniere) ~ E[gol totali] = tasso/partita x partite attese. Si divide
+    quindi per le partite attese della squadra (rimuove il doppio conteggio della
+    profondita), si inverte la convessita con una radice e si ancora il favorito a
+    ODDS_ANCHOR gol/partita. Restituisce {(code, name): eg_odds}.
+    """
+    raw = {}
+    for (code, name), p in imp.items():
+        em = e_matches.get(code)
+        if em and em > 0:
+            raw[(code, name)] = (p ** ODDS_EXP) / em
+    if not raw:
+        return {}
+    mx = max(raw.values())
+    return {k: ODDS_ANCHOR * (v / mx) for k, v in raw.items()}
+
+
 def rank_based_starter(role, rank):
     if role == "gk":
         return [0.92, 0.12][rank] if rank < 2 else 0.03
@@ -281,6 +326,7 @@ def build_projections(sims):
 
     ctx = load_context()
     lineup = load_lineup()
+    eg_odds_map = odds_goal_rates(load_topscorer_odds(), e_matches)
     rows = list(csv.DictReader(LISTONE.open(newline="", encoding="utf-8")))
 
     # rank per (team, role) sul valore per stimare la titolarita
@@ -353,6 +399,11 @@ def build_projections(sims):
                 eg0 = ROLE_MEAN_EG[role]
             eg = 0.7 * eg0 + 0.3 * ROLE_MEAN_EG[role]
             eg *= 0.85  # contesto nazionale/Mondiale piu' duro del club
+            # calibrazione di mercato: per i giocatori quotati capocannoniere si
+            # fonde la stima da rendimento col tasso gol/partita implicito nelle quote.
+            eo = eg_odds_map.get((code, r["name"].strip().lower()))
+            if eo is not None:
+                eg = ODDS_W * eo + (1 - ODDS_W) * eg
             eg = min(eg, EG_CAP[role])
             eg += c["pen"] * 0.07          # rigorista designato
             ea = 0.35 * eg + c["fk"] * 0.03 + 0.04

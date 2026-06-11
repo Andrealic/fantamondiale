@@ -23,8 +23,9 @@ stata costruita la rosa, **su quali ipotesi** si regge e **come la migliorerei**
 ```
 fantapazz_listone_enriched.csv ─┐
 data/wc2026_team_strength.csv ──┤
-data/player_context.csv ────────┼─► build_projections.py ─► data/projections.csv  ─► optimize_roster.py ─► roster_optimal.csv
-data/lineup_sentiment.csv ──────┘    (Monte Carlo + ETP)     data/wc2026_sim.csv      (ILP best-XI)        ROSTER.md
+data/player_context.csv ────────┤
+data/lineup_sentiment.csv ──────┼─► build_projections.py ─► data/projections.csv  ─► optimize_roster.py ─► roster_optimal.csv
+data/topscorer_odds.csv ────────┘    (Monte Carlo + ETP)     data/wc2026_sim.csv      (ILP best-XI)        ROSTER.md
 ```
 
 Esecuzione:
@@ -62,6 +63,17 @@ Bonus/malus dalle immagini ufficiali (gol +3, rigore +3, assist +1, gol-vittoria
 - **P**: `voto_base + P(porta inviolata) − E[gol subiti] + bonus`. Porta inviolata e gol subiti
   **si inferiscono dalla forza della nazionale** (più è forte, meno subisce).
 - **Voto base** ≈ `6.0 + 0.6·forza_normalizzata` (6.0 + 0.4 per i portieri).
+
+### 3.3-bis Calibrazione di mercato per E[gol] (quote capocannoniere)
+Per gli attaccanti/rifinitori quotati per il Golden Boot (`data/topscorer_odds.csv`, ~17 giocatori,
+quote consolidate FOX/SI) si **fonde** la stima da rendimento con il tasso gol/partita implicito nel
+mercato (`ODDS_W = 0.6` sul mercato). **Anti-doppio-conteggio**: la quota capocannoniere incorpora già
+quante partite uno gioca e i rigori, mentre l'ETP moltiplica già per le partite attese; quindi la
+probabilità implicita (`100/(odds+100)`) viene **divisa per le partite attese della squadra** per
+ottenere un *tasso per partita*, se ne inverte la convessità con una radice (`P(capocannoniere)` cresce
+più che linearmente in E[gol]) e si **ancora il favorito** a 0.8 gol/partita. Effetto: riordina il
+vertice offensivo secondo il mercato (Mbappé/Oyarzabal/Messi su, Olise/Lautaro giù) — es. Mbappé entra
+nell'XI al posto di Olise. Copre solo i bomber di vertice; per gli altri resta la stima da rendimento.
 
 ### 3.4 Probabilità di titolarità (la leva più importante)
 Il segnale primario è lo **status dalle probabili formazioni** raccolte sul web (~11/06/2026) per le
@@ -161,6 +173,10 @@ l'ipotesi residua più influente** e va calibrato sull'aggressività con cui si 
    l'ipotesi più sensibile).
 4. **xG/xA invece dei gol grezzi**: usare expected goals/assist (più stabili dei gol realizzati) e
    il rigore atteso esplicito; integrare la qualità degli avversari nel girone, non solo la media.
+   *Parzialmente coperto* (§3.3-bis): le quote capocannoniere calibrano già E[gol] dei bomber di
+   vertice. Estensioni: quote "marcatore in ogni momento" per partita (mappa più diretta a E[gol]),
+   quote assist/uomo-assist, e quote esito partita per stimare gol fatti/subiti per ogni gara invece
+   della sola forza media (migliora anche clean sheet dei portieri e modificatore difesa).
 5. **Ottimizzazione robusta / multi-scenario**: massimizzare l'ETP medio su molti scenari di
    tabellone (o un CVaR) per penalizzare la correlazione, invece dell'ottimo del solo caso atteso.
 6. **Modello di voto base più informativo**: legare il voto base a rating individuali

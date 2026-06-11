@@ -1,0 +1,21 @@
+name,team_code,american_odds,note
+# Quote capocannoniere (Golden Boot) WC2026, consolidate da FOX Sports e SI (~08-11/06/2026).
+# Usate solo per calibrare E[gol] degli attaccanti/rifinitori (vedi build_projections.py),
+# convertite in tasso gol/partita per evitare il doppio conteggio del cammino.
+Mbappe,FRA,600,
+Kane,ING,700,
+Haaland,NOR,1500,
+Messi,ARG,1500,
+Oyarzabal,SPA,1600,
+Yamal,SPA,2000,
+Woltemade,GER,2000,
+Ronaldo,POR,2100,
+Alvarez J.,ARG,2500,
+Raphinha,BRA,2700,
+Havertz,GER,2700,
+Olise,FRA,2700,
+Vinicius Jr.,BRA,2700,
+Martinez La.,ARG,2900,
+Dembele,FRA,3000,
+Lukaku,BEL,4000,
+Gakpo,OLA,4000,
