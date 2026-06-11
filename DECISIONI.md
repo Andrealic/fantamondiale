@@ -1,0 +1,160 @@
+# Fantamondiale 2026 — Decisioni, assunzioni e roadmap
+
+Documento di accompagnamento alla rosa in [`ROSTER.md`](ROSTER.md). Spiega **come** è
+stata costruita la rosa, **su quali ipotesi** si regge e **come la migliorerei**.
+
+---
+
+## 1. Obiettivo e inquadramento
+
+- **Modalità listone**: 250 crediti, 12 manager, nessuna esclusiva tra le rose, **10 cambi**
+  effettuabili in qualsiasi momento del torneo. Non c'è scarsità → l'obiettivo è
+  **massimizzare i fantapunti totali attesi**, non gestire risorse contese.
+- **Deliverable**: la **rosa iniziale ottimale** (25 = 3P/8D/8C/6A, difesa a 4). Gestione
+  giornaliera, capitano e cambi sono informativi.
+- **Intuizione centrale**: i 10 cambi "in qualsiasi momento" **accorciano l'orizzonte** della
+  rosa iniziale. I giocatori di nazionali eliminate si rimpiazzano in corsa, quindi non si
+  sovra-paga ora per profili che valgono solo arrivando in finale: si ottimizza su un orizzonte
+  breve-medio (gironi — 3 gare garantite per tutte e 48 — più i primi turni a eliminazione),
+  tenendo un **core di nazionali profonde** per minimizzare i cambi necessari più avanti.
+
+## 2. Pipeline
+
+```
+fantapazz_listone_enriched.csv ─┐
+data/wc2026_team_strength.csv ──┼─► build_projections.py ─► data/projections.csv  ─► optimize_roster.py ─► roster_optimal.csv
+data/player_context.csv ────────┘    (Monte Carlo + ETP)     data/wc2026_sim.csv      (ILP best-XI)        ROSTER.md
+```
+
+Esecuzione:
+```bash
+pip install --index-url https://pypi.org/simple/ pulp        # pip di default punta a CodeArtifact privato
+python scripts/build_projections.py --sims 20000
+python scripts/optimize_roster.py
+python scripts/sensitivity.py --sims 8000                    # opzionale: robustezza
+```
+
+## 3. Decisioni di modellazione
+
+### 3.1 Simulazione del Mondiale (Monte Carlo)
+- **Elo → gol attesi**: ogni partita è due Poisson con medie derivate dallo scarto Elo
+  (`ELO_SCALE=125`: ~1 gol di supremazia ogni 125 punti) attorno a 2.6 gol totali/partita.
+- **Tabellone ufficiale FIFA 48 squadre** cablato (R32→finale), incluse le 8 migliori terze
+  assegnate agli slot rispettando i gruppi ammessi. 20.000 simulazioni.
+- Output per nazionale: **partite attese** e **partite attese pesate per fase**.
+
+### 3.2 Sconto delle fasi (il punto più "opinabile")
+I round a eliminazione sono pesati in modo decrescente
+(`gironi 1.0, R32 0.9, R16 0.75, QF 0.6, SF 0.45, F 0.35`): riflette che i giocatori delle
+eliminate si sostituiscono coi 10 cambi, quindi la rosa iniziale non deve pagare la profondità
+"recuperabile". **È un'assunzione, non un dato** — vedi sensibilità (§5).
+
+### 3.3 Fantapunti netti attesi a partita (per ruolo)
+Bonus/malus dalle immagini ufficiali (gol +3, rigore +3, assist +1, gol-vittoria +1, ammonizione
+−0,5, espulsione −1, autogol −3; **rigore parato +3 e porta inviolata +1 solo P**).
+- **A/C**: `voto_base + 3·E[gol] + 1·E[assist] − cartellini`. E[gol] stimato da gol in
+  nazionale (se ≥4 presenze) e gol di club normalizzati a "per partita", regrediti verso la media
+  di ruolo, scontati 0.85 (contesto Mondiale più duro), con tetto per ruolo; bonus rigoristi e
+  specialisti su palla inattiva da `player_context.csv`.
+- **D**: come sopra con contributi offensivi minori; il valore del **modificatore difesa** è
+  modellato a parte (§3.5).
+- **P**: `voto_base + P(porta inviolata) − E[gol subiti] + bonus`. Porta inviolata e gol subiti
+  **si inferiscono dalla forza della nazionale** (più è forte, meno subisce).
+- **Voto base** ≈ `6.0 + 0.6·forza_normalizzata` (6.0 + 0.4 per i portieri).
+
+### 3.4 Probabilità di titolarità (correzione importante)
+La `national_presence_ratio` del listone è `presenze_nazionali / 10`: **campione piccolo e
+distorto**. Gli europei giocano poche gare ufficiali (Nations League + amichevoli), i sudamericani
+10+ di qualificazione → senza correzione il modello premiava i sudamericani e affossava i big
+europei (Mbappé/Kane/Yamal a ~0.4). Inoltre infortuni ed esperimenti in amichevole abbassano il
+ratio di titolari sicuri. **Decisione**: il segnale primario è il **rank di quotazione nel reparto**
+(la quotazione prezza già il ruolo atteso); il ratio serve solo a *confermare* un titolare quando è
+alto, mai a declassare un big. Override: rigoristi/battitori designati → titolari (`≥0.85`);
+`avail` da `player_context.csv` applica gli infortuni noti.
+
+### 3.5 Modificatore difesa
+È un effetto **di blocco** (media migliori 3 D + P della giornata: ≥6 → +1, ≥6,5 → +3, ≥7 → +6),
+non additivo per singolo. Approssimato con un termine `mod_proxy` scommato all'ETP di D e P che
+premia D/P di nazionali forti (che vincono e prendono voti alti), così l'ottimizzatore tende a
+**concentrare un blocco difensivo coeso** di una nazionale solida. Coerenza verificata a posteriori
+sulla rosa scelta (qui: P + 4 D tutti spagnoli → giocano sempre la stessa giornata).
+
+### 3.6 Capitano
+Il bonus capitano (−3…+3) è sul **voto base senza bonus/malus** (≥7 → +1, ≥9 → +3). Premia quindi
+un **"6 assicurato"**: titolare affidabile della nazionale più forte (alto voto base, alta
+probabilità di gioco) — tipicamente un difensore/centrocampista di vertice. Un attaccante dà più
+upside ma più varianza. Scelta del codice: massimo voto base tra i titolari con `P(tit) ≥ 0.78`.
+
+### 3.7 Ottimizzazione (ILP)
+`pulp` massimizza l'**ETP dell'XI tipo** (1 P + 4 D + 6 tra C/A in **modulo legale**: C 3–5, A 1–3)
+più un peso residuo (0.05) sulla qualità della panchina. Vincoli: composizione 3/8/8/6, budget ≤250,
+XI solo da titolari plausibili (`P(tit) ≥ 0.55`), nessuna riserva "morta" (`P(tit) ≥ 0.18`).
+**Razionale**: si schierano 11/giornata, non 25 → si spende sui titolari forti e sul blocco difensivo,
+e si riempiono gli slot panchina al minor prezzo perché rimpiazzabili coi 10 cambi.
+
+## 4. Assunzioni esplicite (da validare)
+
+1. **Forza = Elo** di eloratings.net (più quote come sanity check). Niente forma recente fine,
+   infortuni dell'ultimo minuto, meteo, allenatore, modulo specifico per nazionale.
+2. **Sconto delle fasi** (§3.2): scelta di design, non misurata.
+3. **E[gol]/E[assist]** da club+nazionale normalizzati e regrediti: i rigoristi/specialisti
+   corretti a mano solo per i casi noti in `player_context.csv` (~30 giocatori delle top).
+4. **Portieri non arricchiti** e **17 giocatori non matchati** esclusi (scelta dell'utente):
+   il titolare di una big è ovvio e la solidità si inferisce dalla forza squadra.
+5. **Modificatore difesa** trattato come proxy lineare, non come vera media-migliori-3 stocastica.
+6. **Nessun cap per nazionale** → concentrazione ottimale ma correlata (vedi §6).
+
+## 5. Analisi di sensibilità (`scripts/sensitivity.py`)
+
+Variando le ipotesi chiave e ri-ottimizzando (8.000 sim/scenario):
+
+| Scenario | Rosa ∩ base /25 | XI ∩ base /11 |
+|---|---|---|
+| Elo più determinante (scale=100) | 20 | 9 |
+| Elo meno determinante (scale=160) | 25 | 11 |
+| Pesi ripidi (conta solo il girone) | 20 | 8 |
+| Pesi piatti (premia le fasi avanzate) | 21 | 10 |
+| Rumore Elo ±40 | 19 | 9 |
+| Rumore Elo ±80 | 12 | 5 |
+
+**Lettura**: l'**XI core è robusto** (8–11/11 sotto perturbazioni ragionevoli); il turnover è quasi
+tutto sulla **panchina**, che è fodder a basso costo e per definizione volatile/rimpiazzabile coi cambi.
+Solo con rumore estremo ±80 (che riscrive i favoriti del torneo) il core si muove davvero. Lo scenario
+"pesi ripidi" è quello che sposta di più l'XI (entrano profili offensivi di nazionali meno profonde tipo
+Raphinha/Mané): **conferma che lo sconto delle fasi (§3.2) è l'ipotesi più influente** e va calibrato
+sull'aggressività con cui si conta di usare i 10 cambi.
+
+## 6. Limiti noti
+
+- **Rischio di correlazione**: blocco molto spagnolo → una giornata-no della Spagna o
+  un'eliminazione a sorpresa colpisce l'intero XI. Mitigato dai 10 cambi, ma da monitorare.
+- **mod_proxy** non garantisce di superare le soglie del modificatore in ogni giornata: è una
+  stima media, non la media-migliori-3 reale partita per partita.
+- **Voto base quasi piatto** (6.0–6.6): il modello distingue poco i titolari per qualità "da voto",
+  quindi la scelta del capitano tra spagnoli equivalenti è in parte arbitraria.
+- **Niente meteo, fuso/sede, minutaggio reale, calendario fitto** (sedi USA/Messico/Canada con
+  caldo e altitudine possono incidere su gol e rotazioni).
+- **player_context.csv** è curato a mano solo per le top: per le nazionali minori la titolarità
+  resta basata sul rank di quotazione.
+
+## 7. Come lo migliorerei (in ordine di impatto)
+
+1. **Probabilità di titolarità reali**: scraping formazioni probabili / minutaggio recente in
+   nazionale (Transfermarkt "Nationalmannschaft" o fonti tipo lineup predittive) invece del proxy
+   da quotazione. È la leva con più impatto sulla qualità della rosa.
+2. **Modificatore difesa stocastico**: simulare i voti di D+P giornata per giornata (voto ~ N(media
+   da forza/avversario, σ)) e calcolare l'**E[modificatore]** reale come media-migliori-3+P sopra le
+   soglie, invece del proxy lineare. Spinge verso il blocco difensivo davvero ottimale.
+3. **Calibrazione dello sconto delle fasi sui cambi**: modellare esplicitamente la politica dei 10
+   trasferimenti (quando e su chi) e derivare i pesi di fase, invece di fissarli a mano (§3.2 è
+   l'ipotesi più sensibile).
+4. **xG/xA invece dei gol grezzi**: usare expected goals/assist (più stabili dei gol realizzati) e
+   il rigore atteso esplicito; integrare la qualità degli avversari nel girone, non solo la media.
+5. **Ottimizzazione robusta / multi-scenario**: massimizzare l'ETP medio su molti scenari di
+   tabellone (o un CVaR) per penalizzare la correlazione, invece dell'ottimo del solo caso atteso.
+6. **Modello di voto base più informativo**: legare il voto base a rating individuali
+   (es. valutazioni di campionato) così la scelta di capitano e dei titolari "da voto" sia meno piatta.
+7. **Arricchire i portieri** e **risolvere i 17 non matchati** se si vuole coprire anche le scelte
+   marginali; integrare meteo/sede per le partite più estreme.
+8. **Backtesting** del modello di fantapunti su un torneo passato (es. Mondiale 2022) per tarare i
+   coefficienti (sconto 0.85, tetti di ruolo, σ dei voti) sui dati invece che a intuito.

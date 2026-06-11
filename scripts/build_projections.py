@@ -282,20 +282,33 @@ def build_projections(sims):
         c = ctx.get((code, r["name"].strip().lower()), {"pen": 0.0, "fk": 0.0, "avail": 1.0})
 
         # --- titolarita ---
+        # La presenza nazionale recente e' un campione piccolo e distorto: gli
+        # europei giocano poche gare ufficiali (Nations League + amichevoli),
+        # i sudamericani 10+ di qualificazione, e infortuni/esperimenti la
+        # abbassano. La usiamo per CONFERMARE un titolare quando e' alta, mai
+        # per declassare un big sulla base di pochi match. Segnale primario:
+        # il rank di quotazione nel reparto (la quotazione prezza gia il ruolo).
         ratio = fnum(r.get("national_presence_ratio_current_season"))
+        napp = fnum(r.get("national_appearances_current_season"))
         rb = rank_based_starter(role, rank[id(r)])
-        if ratio is not None:
-            sp = 0.45 * rb + 0.55 * min(1.0, ratio)
+        if napp is not None and napp >= 5 and ratio is not None:
+            sp = 0.5 * rb + 0.5 * min(1.0, ratio + 0.15)   # campione sufficiente
+        elif ratio is not None and ratio >= 0.5:
+            sp = 0.65 * rb + 0.35 * min(1.0, ratio + 0.2)  # conferma su poche gare
         else:
-            sp = rb
-        sp = max(0.0, min(1.0, sp)) * c["avail"]
+            sp = rb                                        # campione non informativo
+        # rigoristi/battitori designati sono per definizione titolari
+        if c["pen"] >= 0.5 or c["fk"] >= 1:
+            sp = max(sp, 0.85)
+        sp = max(0.0, min(0.97, sp)) * c["avail"]
 
         # --- fantapunti netti attesi a partita ---
         base_voto = 6.0 + 0.6 * tnorm
         if role == "gk":
+            # Gol subito -1 e portiere imbattuto +1 valgono SOLO per il portiere.
             base_voto = 6.0 + 0.4 * tnorm
-            p_cs = max(0.05, min(0.55, 0.08 + 0.45 * tnorm))
-            e_gc = max(0.5, min(2.2, 1.7 - 1.3 * tnorm))
+            p_cs = max(0.05, min(0.55, 0.08 + 0.45 * tnorm))   # portiere imbattuto +1
+            e_gc = max(0.4, min(2.3, 1.7 - 1.3 * tnorm))       # gol subiti attesi
             per_match = base_voto + p_cs - e_gc + 0.03
         else:
             ng = fnum(r.get("national_goals_current_season"))
