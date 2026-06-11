@@ -225,9 +225,14 @@ def load_context():
     ctx = {}
     with CONTEXT.open(newline="", encoding="utf-8") as fh:
         for r in csv.DictReader(fh):
+            cards = r.get("cards")
+            try:
+                cards = float(cards) if cards not in (None, "") else CARDS
+            except ValueError:
+                cards = CARDS
             ctx[(r["team_code"], r["name"].strip().lower())] = {
                 "pen": float(r["pen_share"]), "fk": float(r["freekick"]),
-                "avail": float(r["avail"]),
+                "avail": float(r["avail"]), "cards": cards,
             }
     return ctx
 
@@ -347,7 +352,8 @@ def build_projections(sims):
         if not t:
             continue
         tnorm = (t["elo"] - emin) / (emax - emin)
-        c = ctx.get((code, r["name"].strip().lower()), {"pen": 0.0, "fk": 0.0, "avail": 1.0})
+        c = ctx.get((code, r["name"].strip().lower()),
+                    {"pen": 0.0, "fk": 0.0, "avail": 1.0, "cards": CARDS})
 
         # --- titolarita ---
         # Segnale primario: lo status dalle probabili formazioni (lineup_sentiment.csv)
@@ -407,7 +413,7 @@ def build_projections(sims):
             eg = min(eg, EG_CAP[role])
             eg += c["pen"] * 0.07          # rigorista designato
             ea = 0.35 * eg + c["fk"] * 0.03 + 0.04
-            per_match = base_voto + 3 * eg + 1 * ea - CARDS
+            per_match = base_voto + 3 * eg + 1 * ea - c["cards"]
 
         # --- ETP (obiettivo di ottimizzazione) ---
         etp = sp * e_weighted[code] * per_match

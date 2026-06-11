@@ -1,19 +1,20 @@
-# Rosa ottimale (scelta) — Fantamondiale 2026
+# Rosa aggressiva (max 3 per nazionale) — Fantamondiale 2026
 
 **Budget**: 250/250 crediti spesi (residuo 0).  
 **Modulo**: difesa a 4 (P + 4D + 6 tra C/A) per attivare il modificatore difesa.  
-**Diversificazione**: blocco difensivo libero + max 2 attaccanti/nazionale.  
-**Capitano 1ª giornata**: Llorente M. (SPA) — vice Cubarsi (SPA).
+**Diversificazione**: cap 3 titolari/nazionale.  
+**Capitano 1ª giornata**: Llorente M. (SPA) — vice Cucurella (SPA).
 
 ## Esposizione per nazionale (XI)
 
 | Naz | Titolari XI | % ETP XI |
 |---|---|---|
-| SPA | 5 | 46% |
+| SPA | 3 | 29% |
+| ARG | 3 | 27% |
 | FRA | 2 | 18% |
-| ARG | 2 | 17% |
 | ING | 1 | 10% |
 | BRA | 1 | 8% |
+| COL | 1 | 7% |
 
 ## XI tipo di partenza
 
@@ -21,12 +22,12 @@
 |---|---|---|---|---|---|---|
 | Maignan | FRA | 13 | 0.92 | 6.5 | 6.36 | 36.6 |
 | Llorente M. ⭐ | SPA | 9 | 0.92 | 7.1 | 6.60 | 40.8 |
-| Cubarsi (V) | SPA | 20 | 0.92 | 7.1 | 6.60 | 40.0 |
-| Cucurella | SPA | 11 | 0.92 | 7.1 | 6.60 | 40.0 |
+| Cucurella (V) | SPA | 11 | 0.92 | 7.1 | 6.60 | 40.0 |
 | Molina | ARG | 14 | 0.92 | 6.8 | 6.56 | 38.2 |
+| Romero | ARG | 17 | 0.92 | 6.8 | 6.56 | 37.7 |
 | Enzo Fernandez | ARG | 23 | 0.92 | 6.8 | 6.56 | 35.6 |
-| Nico Williams | SPA | 14 | 0.92 | 7.1 | 6.60 | 35.5 |
 | Raphinha | BRA | 34 | 0.92 | 5.3 | 6.46 | 34.3 |
+| Arias J. | COL | 6 | 0.92 | 5.3 | 6.45 | 31.5 |
 | Kane | ING | 33 | 0.92 | 5.8 | 6.48 | 43.4 |
 | Oyarzabal | SPA | 19 | 0.92 | 7.1 | 6.60 | 41.4 |
 | Mbappe | FRA | 37 | 0.87 | 6.5 | 6.53 | 41.2 |
@@ -41,33 +42,33 @@
 | Risser | FRA | 1 | 0.12 | 6.5 | 6.36 | 4.8  — |
 | Samba | FRA | 1 | 0.03 | 6.5 | 6.36 | 1.2  — |
 
-### Difensori (D) — 8 (62 cr)
+### Difensori (D) — 8 (65 cr)
 
 | Giocatore | Naz | Cr | P(tit) | E[match] | Voto base | ETP | XI |
 |---|---|---|---|---|---|---|---|
 | Llorente M. ⭐ | SPA | 9 | 0.92 | 7.1 | 6.60 | 40.8  ✅ |
-| Cubarsi (V) | SPA | 20 | 0.92 | 7.1 | 6.60 | 40.0  ✅ |
-| Cucurella | SPA | 11 | 0.92 | 7.1 | 6.60 | 40.0  ✅ |
+| Cucurella (V) | SPA | 11 | 0.92 | 7.1 | 6.60 | 40.0  ✅ |
 | Molina | ARG | 14 | 0.92 | 6.8 | 6.56 | 38.2  ✅ |
+| Romero | ARG | 17 | 0.92 | 6.8 | 6.56 | 37.7  ✅ |
+| Otamendi | ARG | 6 | 0.78 | 6.8 | 6.56 | 33.0  — |
 | Gallardo | MEX | 2 | 0.89 | 5.0 | 6.36 | 29.4  — |
 | Caleta-car | CRO | 3 | 0.92 | 4.8 | 6.41 | 29.3  — |
-| Alfie Jones | CAN | 2 | 0.82 | 4.7 | 6.30 | 24.4  — |
-| Cornelius D. | CAN | 1 | 0.65 | 4.7 | 6.30 | 19.5  — |
+| Pongracic | CRO | 3 | 0.92 | 4.8 | 6.41 | 29.2  — |
 
-### Centrocampisti (C) — 8 (81 cr)
+### Centrocampisti (C) — 8 (76 cr)
 
 | Giocatore | Naz | Cr | P(tit) | E[match] | Voto base | ETP | XI |
 |---|---|---|---|---|---|---|---|
 | Enzo Fernandez | ARG | 23 | 0.92 | 6.8 | 6.56 | 35.6  ✅ |
-| Nico Williams | SPA | 14 | 0.92 | 7.1 | 6.60 | 35.5  ✅ |
 | Raphinha | BRA | 34 | 0.92 | 5.3 | 6.46 | 34.3  ✅ |
+| Arias J. | COL | 6 | 0.92 | 5.3 | 6.45 | 31.5  ✅ |
 | Lira | MEX | 3 | 0.92 | 5.0 | 6.36 | 26.6  — |
+| Alvarez E. | MEX | 4 | 0.88 | 5.0 | 6.36 | 26.3  — |
+| Fidalgo | MEX | 3 | 0.86 | 5.0 | 6.36 | 24.9  — |
 | Modric | CRO | 2 | 0.83 | 4.8 | 6.41 | 24.7  — |
 | James Rodriguez | COL | 1 | 0.72 | 5.3 | 6.45 | 23.2  — |
-| Sigur | CAN | 2 | 0.83 | 4.7 | 6.30 | 23.1  — |
-| Saliba N.D. | CAN | 2 | 0.82 | 4.7 | 6.30 | 22.7  — |
 
-### Attaccanti (A) — 6 (92 cr)
+### Attaccanti (A) — 6 (94 cr)
 
 | Giocatore | Naz | Cr | P(tit) | E[match] | Voto base | ETP | XI |
 |---|---|---|---|---|---|---|---|
@@ -75,8 +76,8 @@
 | Oyarzabal | SPA | 19 | 0.92 | 7.1 | 6.60 | 41.4  ✅ |
 | Mbappe | FRA | 37 | 0.87 | 6.5 | 6.53 | 41.2  ✅ |
 | Jimenez | MEX | 1 | 0.85 | 5.0 | 6.36 | 28.9  — |
+| Ueda | JAP | 3 | 0.85 | 4.9 | 6.39 | 28.8  — |
 | Arevalo | ECU | 1 | 0.88 | 5.1 | 6.41 | 27.8  — |
-| Jordy Caicedo | ECU | 1 | 0.84 | 5.1 | 6.41 | 27.0  — |
 
 ## Primi candidati ai cambi
 
@@ -84,12 +85,12 @@ Giocatori da nazionali con meno partite attese: primi da rimpiazzare coi 10 tras
 
 | Giocatore | Naz | Ruolo | E[match] | Cr |
 |---|---|---|---|---|
-| Alfie Jones | CAN | cb | 4.7 | 2 |
-| Sigur | CAN | m | 4.7 | 2 |
-| Saliba N.D. | CAN | m | 4.7 | 2 |
-| Cornelius D. | CAN | cb | 4.7 | 1 |
 | Caleta-car | CRO | cb | 4.8 | 3 |
+| Pongracic | CRO | cb | 4.8 | 3 |
 | Modric | CRO | m | 4.8 | 2 |
+| Ueda | JAP | st | 4.9 | 3 |
+| Alvarez E. | MEX | m | 5.0 | 4 |
+| Lira | MEX | m | 5.0 | 3 |
 
 ## Razionale
 
@@ -99,5 +100,5 @@ Giocatori da nazionali con meno partite attese: primi da rimpiazzare coi 10 tras
 - **Blocco difensivo**: difensori e portiere di nazionali solide e profonde alzano la media migliori-3-D+P sopra le soglie del modificatore (+1/+3/+6).
 - **Capitano**: il bonus (−3…+3) premia il **voto base senza bonus/malus** (≥7 → +1, ≥9 → +3), quindi si capitana un "6 assicurato": titolare affidabile della nazionale più forte (qui un difensore/centrocampista spagnolo di vertice). Un attaccante darebbe più upside ma con più varianza.
 - **Panchina-assicurazione**: le riserve sono titolari/giocatori low-cost di sole nazionali che arrivano almeno agli ottavi (E[match] ≥ soglia) — niente gente di squadre che escono ai gironi (sarebbe un cambio obbligato mascherato).
-- **Diversificazione (blocco difensivo libero + max 2 attaccanti/nazionale)**: l'XI non dipende da una sola nazionale, così l'eliminazione a sorpresa di una big non azzera il rendimento mentre gli altri manager continuano a segnare. Costo: qualche punto di ETP atteso in meno (e, se si cappano anche i difensori, minore coerenza del blocco-modificatore).
+- **Diversificazione (cap 3 titolari/nazionale)**: l'XI non dipende da una sola nazionale, così l'eliminazione a sorpresa di una big non azzera il rendimento mentre gli altri manager continuano a segnare. Costo: qualche punto di ETP atteso in meno (e, se si cappano anche i difensori, minore coerenza del blocco-modificatore).
 - **Cartellini**: malus gialli stimato per-giocatore (es. Romero/Otamendi, difensori argentini propensi al giallo, pesati di più della media).

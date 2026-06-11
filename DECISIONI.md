@@ -146,6 +146,54 @@ coi cambi. Solo con rumore estremo ±80 (che riscrive i favoriti del torneo) il 
 scenario "pesi ripidi" resta quello che sposta di più (entra Raphinha): **lo sconto delle fasi (§3.2) è
 l'ipotesi residua più influente** e va calibrato sull'aggressività con cui si conta di usare i 10 cambi.
 
+## 5-bis. Rischio di concentrazione e varianti di rosa
+
+Obiezione (corretta): l'XF "ottimale" prende ~80% dell'ETP da Spagna+Argentina → forte esposizione
+se una big crolla. Tre interventi, applicati a **tutte** le varianti:
+- **Malus cartellini per-giocatore** (`player_context.csv` colonna `cards`): Romero/Otamendi/De Paul
+  pesati di più → Romero esce dall'XI in tutte le varianti.
+- **Panchina-assicurazione**: riserve solo da nazionali che arrivano ≥ ottavi (`BENCH_TEAM_MIN`,
+  E[match] ≥ 4.5) — niente gente di squadre che escono ai gironi (sarebbe un cambio obbligato
+  mascherato). Include un mezzo blocco difensivo secondario (Croazia) come copertura.
+- **Cap di concentrazione** opzionale nell'ILP: `--max-per-nation N` (titolari/naz nell'XI) e
+  `--attack-cap N` (solo attaccanti, lascia libero il blocco difensivo). Forzature manuali:
+  `--include-xi CODE:Nome`, `--include CODE:Nome` (panchina), `--exclude CODE:Nome`.
+
+**Stress test** (`scripts/stress_test.py`): valore dell'XI schierabile dalla stessa rosa se una big
+esce ai gironi (suoi giocatori scalati a sole 3 gare). Sulle tre versioni finali (con le forzature §5-ter):
+
+| Scenario | roster/optimal | balanced (4/naz) | aggressive (3/naz) |
+|---|---|---|---|
+| Base | 427 | 425 | 421 |
+| SPA fuori ai gironi | 368 (−14%) | 381 (−10%) | 390 (−7%) |
+| SPA+ARG fuori | 340 (−20%) | 348 (−18%) | 352 (−16%) |
+
+**Conclusioni**: (1) Il cap sui soli attaccanti (`--attack-cap 2`, usato dalla *roster* scelta) non spezza
+il **blocco difensivo** spagnolo — cioè il motore del modificatore — ma diversifica centrocampo e attacco.
+(2) Ridurre oltre il rischio-Spagna richiede spezzare quel blocco (balanced/aggressive), perdendo coerenza
+del modificatore (D+P che avanzano insieme) — costo che il `mod_proxy` lineare **sottostima**. (3) La Spagna
+è la big **meno** probabile da eliminare (Elo massimo, ~7 partite attese) e, se cade, il blocco si
+**trasferisce in blocco** coi 10 cambi. → Per un obiettivo "arrivare primi" (massimo EV/ceiling, varianza
+non penalizzante) la *roster* scelta resta la migliore; *balanced* è l'hedge per tagliare un po' di coda.
+
+## 5-ter. Rosa scelta (versione "roster")
+
+Versione adottata dall'utente (le altre due sono solo riferimento). Preferenze applicate sopra al modello:
+**portieri tutti francesi** (Maignan titolare + Risser/Samba riserve), **fuori Mac Allister** (poco
+prolifico e non sempre titolare in nazionale) e **fuori Pedri** (per non concentrare ancora di più sulla
+Spagna a centrocampo). Slot liberato preso da **Raphinha** (altro "bug listone": ala quotata come C).
+Comando riproducibile:
+
+```bash
+python scripts/optimize_roster.py --attack-cap 2 \
+  --include-xi "FRA:Maignan" --include "FRA:Risser" --include "FRA:Samba" \
+  --exclude "ARG:Mac Allister" --exclude "SPA:Pedri" --label optimal
+```
+
+XI: Maignan (FRA); Llorente, Cubarsí, Cucurella (SPA), Molina (ARG); Enzo Fernández (ARG), Nico Williams
+(SPA), Raphinha (BRA); Kane (ING), Oyarzabal (SPA), Mbappé (FRA). Capitano: il "6 assicurato" indicato in
+`ROSTER.md`. Concentrazione top-2 nazionali scesa da 80% a **65%**.
+
 ## 6. Limiti noti
 
 - **Rischio di correlazione**: blocco molto spagnolo → una giornata-no della Spagna o

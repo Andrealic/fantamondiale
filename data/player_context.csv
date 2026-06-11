@@ -1,32 +1,35 @@
-team_code,name,pen_share,freekick,avail,note
-SPA,Yamal,0,0,0.75,hamstring rientro a gironi in corso
-SPA,Oyarzabal,1.0,0,1,rigorista designato
-FRA,Mbappe,1.0,0,0.95,rigorista capitano
-BRA,Raphinha,1.0,1,1,rigorista+punizioni (verifica con Ancelotti)
-BRA,Neymar,0,1,0.55,out opener rientro match2
-ING,Kane,1.0,0,1,rigorista
-POR,Ronaldo,0.6,1,0.9,rigorista con rotazione
-POR,Bruno Fernandes,0.4,0,1,rigorista alternativo
-GER,Kimmich,0.5,1,1,difensore rigorista/corner
-GER,Havertz,0.4,0,1,rigorista alternativo
-OLA,Depay,1.0,1,1,rigorista+punizioni
-BEL,De Bruyne,1.0,1,1,rigorista+punizioni
-BEL,Lukaku,0,0,0.55,scarsa condizione
-CRO,Kramaric,0.7,0,1,rigorista designato
-CRO,Modric,0,1,0.9,punizioni, recupero zigomo
-URU,Valverde,0.6,1,1,rigorista probabile
-URU,Nunez,0.4,0,1,rigorista alternativo
-COL,James Rodriguez,0.7,1,0.85,rigorista+punizioni (titolarita da verificare)
-MAR,Hakimi,0.5,1,0.85,difensore rigorista/punizioni, coscia
-USA,Pulisic,1.0,1,1,rigorista+punizioni
-MEX,Jimenez,1.0,1,1,rigorista
-SVI,Xhaka,1.0,0,1,rigorista
-SEN,Mane,1.0,1,1,rigorista+punizioni
-JAP,Ueda,1.0,0,1,rigorista
-NOR,Haaland,0.8,0,1,rigorista (qualche errore 2025)
-NOR,Odegaard,0,1,0.8,punizioni, condizione
-SVE,Gyokeres,0.6,1,1,rigorista condiviso+punizioni
-SVE,Isak,0,0,0.75,scarsa condizione
-TUR,Calhanoglu,1.0,1,1,rigorista+punizioni
-AUT,Arnautovic,0.7,0,1,rigorista
-AUT,Baumgartner,0,0,0,out intero torneo
+team_code,name,pen_share,freekick,avail,cards,note
+SPA,Yamal,0,0,0.75,0.22,hamstring rientro a gironi in corso
+SPA,Oyarzabal,1.0,0,1,0.22,rigorista designato
+FRA,Mbappe,1.0,0,0.95,0.22,rigorista capitano
+BRA,Raphinha,1.0,1,1,0.22,rigorista+punizioni (verifica con Ancelotti)
+BRA,Neymar,0,1,0.55,0.22,out opener rientro match2
+ING,Kane,1.0,0,1,0.22,rigorista
+POR,Ronaldo,0.6,1,0.9,0.22,rigorista con rotazione
+POR,Bruno Fernandes,0.4,0,1,0.22,rigorista alternativo
+GER,Kimmich,0.5,1,1,0.22,difensore rigorista/corner
+GER,Havertz,0.4,0,1,0.22,rigorista alternativo
+OLA,Depay,1.0,1,1,0.22,rigorista+punizioni
+BEL,De Bruyne,1.0,1,1,0.22,rigorista+punizioni
+BEL,Lukaku,0,0,0.55,0.22,scarsa condizione
+CRO,Kramaric,0.7,0,1,0.22,rigorista designato
+CRO,Modric,0,1,0.9,0.22,"punizioni, recupero zigomo"
+URU,Valverde,0.6,1,1,0.30,rigorista probabile
+URU,Nunez,0.4,0,1,0.22,rigorista alternativo
+COL,James Rodriguez,0.7,1,0.85,0.22,rigorista+punizioni (titolarita da verificare)
+MAR,Hakimi,0.5,1,0.85,0.22,"difensore rigorista/punizioni, coscia"
+USA,Pulisic,1.0,1,1,0.22,rigorista+punizioni
+MEX,Jimenez,1.0,1,1,0.22,rigorista
+SVI,Xhaka,1.0,0,1,0.32,rigorista
+SEN,Mane,1.0,1,1,0.22,rigorista+punizioni
+JAP,Ueda,1.0,0,1,0.22,rigorista
+NOR,Haaland,0.8,0,1,0.22,rigorista (qualche errore 2025)
+NOR,Odegaard,0,1,0.8,0.22,punizioni, condizione
+SVE,Gyokeres,0.6,1,1,0.22,rigorista condiviso+punizioni
+SVE,Isak,0,0,0.75,0.22,scarsa condizione
+TUR,Calhanoglu,1.0,1,1,0.28,rigorista+punizioni
+AUT,Arnautovic,0.7,0,1,0.22,rigorista
+AUT,Baumgartner,0,0,0,0.22,out intero torneo
+ARG,Romero,0,0,1,0.42,difensore propenso al giallo (Argentina aggressiva)
+ARG,Otamendi,0,0,1,0.38,difensore esperto propenso al giallo
+ARG,De Paul,0,0,1,0.34,centrocampista falloso
