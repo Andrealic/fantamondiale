@@ -26,6 +26,7 @@ import pulp
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA = PROJECT_ROOT / "data"
+OUTPUT = PROJECT_ROOT / "output"
 PROJ = DATA / "projections.csv"
 
 ROLE_QUOTA = {"gk": 3, "cb": 8, "m": 8, "st": 6}
@@ -149,8 +150,11 @@ def parse_keys(items):
 
 def main(budget=250, max_per_nation=None, attack_cap=None, label="optimal", title="Rosa ottimale",
          include_xi=(), include_roster=(), exclude=()):
-    out_csv = PROJECT_ROOT / f"roster_{label}.csv"
-    out_md = PROJECT_ROOT / (f"ROSTER_{label}.md" if label != "optimal" else "ROSTER.md")
+    OUTPUT.mkdir(exist_ok=True)
+    out_csv = OUTPUT / f"roster_{label}.csv"
+    # la rosa scelta (optimal) tiene ROSTER.md nel root come deliverable principale;
+    # le varianti vanno in output/.
+    out_md = PROJECT_ROOT / "ROSTER.md" if label == "optimal" else OUTPUT / f"ROSTER_{label}.md"
 
     players = load_players()
     status, chosen, fielded = optimize(players, budget, max_per_nation=max_per_nation,

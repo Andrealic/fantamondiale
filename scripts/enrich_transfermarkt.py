@@ -29,9 +29,9 @@ from transfermarkt_team_map import (
 )
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_INPUT = PROJECT_ROOT / "fantapazz_listone.csv"
-DEFAULT_OUTPUT = PROJECT_ROOT / "fantapazz_listone_enriched.csv"
-DEFAULT_UNMATCHED = PROJECT_ROOT / "transfermarkt_unmatched_players.csv"
+DEFAULT_INPUT = PROJECT_ROOT / "data" / "raw" / "fantapazz_listone.csv"
+DEFAULT_OUTPUT = PROJECT_ROOT / "data" / "raw" / "fantapazz_listone_enriched.csv"
+DEFAULT_UNMATCHED = PROJECT_ROOT / "data" / "raw" / "transfermarkt_unmatched_players.csv"
 CACHE_DIR = PROJECT_ROOT / "data" / "cache" / "transfermarkt"
 
 ENRICH_ROLES = {"cb", "m", "st"}

@@ -102,5 +102,5 @@ def main(paths):
 if __name__ == "__main__":
     args = sys.argv[1:]
     if not args:
-        args = [str(PROJECT_ROOT / f"roster_{l}.csv") for l in ("optimal", "balanced", "aggressive")]
+        args = [str(PROJECT_ROOT / "output" / f"roster_{l}.csv") for l in ("optimal", "balanced", "aggressive")]
     main(args)

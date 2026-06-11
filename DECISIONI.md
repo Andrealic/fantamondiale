@@ -21,12 +21,15 @@ stata costruita la rosa, **su quali ipotesi** si regge e **come la migliorerei**
 ## 2. Pipeline
 
 ```
-fantapazz_listone_enriched.csv ─┐
-data/wc2026_team_strength.csv ──┤
-data/player_context.csv ────────┤
-data/lineup_sentiment.csv ──────┼─► build_projections.py ─► data/projections.csv  ─► optimize_roster.py ─► roster_optimal.csv
-data/topscorer_odds.csv ────────┘    (Monte Carlo + ETP)     data/wc2026_sim.csv      (ILP best-XI)        ROSTER.md
+data/raw/fantapazz_listone_enriched.csv ─┐
+data/wc2026_team_strength.csv ───────────┤
+data/player_context.csv ─────────────────┤
+data/lineup_sentiment.csv ───────────────┼─► build_projections.py ─► data/projections.csv  ─► optimize_roster.py ─► output/roster_*.csv
+data/topscorer_odds.csv ─────────────────┘    (Monte Carlo + ETP)     data/wc2026_sim.csv      (ILP best-XI)        ROSTER.md (scelta)
 ```
+
+Struttura: `data/raw/` (input grezzi: listone, screenshot regole), `data/` (input modello + generati),
+`output/` (rose CSV + varianti markdown), `scripts/`, `docs/` (piano originale), `ROSTER.md` (rosa scelta, root).
 
 Esecuzione:
 ```bash

@@ -20,7 +20,7 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA = PROJECT_ROOT / "data"
-LISTONE = PROJECT_ROOT / "fantapazz_listone_enriched.csv"
+LISTONE = DATA / "raw" / "fantapazz_listone_enriched.csv"
 STRENGTH = DATA / "wc2026_team_strength.csv"
 CONTEXT = DATA / "player_context.csv"
 LINEUP = DATA / "lineup_sentiment.csv"
