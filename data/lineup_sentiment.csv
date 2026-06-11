@@ -1,0 +1,204 @@
+team_code,name,status,note
+# Status da probabili formazioni WC2026 (web, ~11/06/2026), solo nazionali di interesse.
+# starter=titolare nell'XI previsto; likely=ballottaggio favorito; rotation=riserva/ballottaggio sfavorito; fringe=fuori dalle rotazioni.
+# La disponibilita (infortuni) resta gestita da player_context.csv (colonna avail).
+SPA,Simon,starter,
+SPA,Cucurella,starter,terzino sx titolare
+SPA,Cubarsi,starter,
+SPA,Llorente M.,starter,terzino dx
+SPA,Rodri,starter,
+SPA,Pedri,starter,
+SPA,Ruiz,likely,ballottaggio col terzo di centrocampo
+SPA,Nico Williams,starter,ala sx
+SPA,Oyarzabal,starter,punta centrale
+SPA,Yamal,starter,rientro stimato dalla 3a di girone (vedi avail)
+SPA,Ferran Torres,rotation,non titolare previsto
+SPA,Grimaldo,rotation,riserva di Cucurella
+SPA,Porro,rotation,riserva di Llorente
+SPA,Zubimendi,rotation,non titolare previsto
+SPA,Olmo,rotation,
+SPA,Baena,fringe,
+SPA,Pino,fringe,
+SPA,Eric Garcia,rotation,
+FRA,Maignan,starter,
+FRA,Kounde,starter,terzino dx
+FRA,Saliba,starter,
+FRA,Upamecano,likely,ballottaggio con Konate
+FRA,Konate,rotation,
+FRA,Hernandez T.,rotation,Digne favorito a sx
+FRA,Tchouameni,starter,
+FRA,Mbappe,starter,capitano
+FRA,Dembele,likely,recupero condizione
+FRA,Olise,starter,
+FRA,Doué,likely,
+FRA,Barcola,rotation,non titolare previsto
+FRA,Cherki,likely,subentra a Ekitike infortunato
+FRA,Thuram M.,rotation,
+FRA,Zaire Emery,rotation,
+FRA,Kante,rotation,
+FRA,Gusto,fringe,
+FRA,Manu Kone,fringe,
+ARG,Martinez E.,starter,
+ARG,Molina,starter,terzino dx
+ARG,Romero,starter,
+ARG,Otamendi,likely,ballottaggio con Lisandro/Medina
+ARG,Martinez Li.,rotation,
+ARG,Enzo Fernandez,starter,
+ARG,Mac Allister,starter,
+ARG,Messi,starter,
+ARG,Alvarez J.,starter,
+ARG,Martinez La.,likely,terzo d'attacco in ballottaggio
+ARG,De Paul,likely,ballottaggio per il terzo di centrocampo
+ARG,Almada,rotation,
+ARG,Lopez J.M.,rotation,
+ARG,Medina,rotation,
+ARG,Palacios E.,fringe,
+ARG,Nico Paz,fringe,
+ARG,Balerdi,fringe,
+ARG,Barco,fringe,
+ING,Pickford,starter,
+ING,James R.,starter,terzino dx
+ING,Guehi,starter,
+ING,Stones,likely,ballottaggio per il centrale
+ING,O'Reilly,likely,terzino sx
+ING,Rice,starter,
+ING,Mainoo,rotation,ballottaggio con Anderson
+ING,Saka,starter,
+ING,Bellingham,starter,
+ING,Rashford,likely,ballottaggio con Gordon a sx
+ING,Kane,starter,capitano
+ING,Eze,rotation,
+ING,Watkins,rotation,riserva di Kane
+ING,Toney,fringe,
+ING,Gordon A.,rotation,
+ING,Madueke,rotation,
+ING,Quansah,fringe,
+ING,Konsa,fringe,
+BRA,Alisson,starter,
+BRA,Marquinhos,starter,
+BRA,Gabriel M,starter,
+BRA,Bremer,rotation,ballottaggio coppia centrale
+BRA,Danilo,rotation,
+BRA,Guimaraes,starter,
+BRA,Paqueta,likely,
+BRA,Raphinha,starter,
+BRA,Vinicius Jr.,starter,
+BRA,Cunha,likely,ballottaggio punta centrale
+BRA,Endrick,rotation,
+BRA,Martinelli,rotation,
+BRA,Neymar,doubt,eta/condizione
+BRA,Ederson J.,fringe,
+BRA,Fabinho,fringe,
+BRA,Ibanez,fringe,
+BRA,Douglas Santos,fringe,
+BRA,Luiz Henrique,fringe,
+POR,Diogo Costa,starter,
+POR,Ruben Dias,starter,
+POR,Inacio,starter,
+POR,Nuno Mendes,starter,
+POR,Dalot,likely,terzino dx
+POR,Cancelo,rotation,
+POR,Vitinha,starter,
+POR,Joao Neves,likely,
+POR,Bruno Fernandes,starter,
+POR,Bernardo Silva,likely,
+POR,Ronaldo,starter,capitano
+POR,Leao,likely,
+POR,Neto,likely,
+POR,Conceicao F.,rotation,
+POR,Matheus Nunes,rotation,
+POR,Goncalo Ramos,rotation,
+POR,Joao Felix,fringe,
+POR,Trincao,fringe,
+OLA,Verbruggen,starter,
+OLA,Dumfries,starter,terzino dx
+OLA,Van Dijk,starter,
+OLA,Van Hecke,starter,
+OLA,Van De Ven,starter,
+OLA,De Jong F.,starter,
+OLA,Gravenberch,starter,
+OLA,Reijnders,likely,
+OLA,Gakpo,starter,
+OLA,Malen,likely,
+OLA,Timber J.,rotation,non titolare previsto
+OLA,Timber Q.,rotation,
+OLA,Hato,rotation,
+OLA,Ake,rotation,
+OLA,Wieffer,fringe,
+OLA,Koopmeiners,fringe,
+OLA,Kluivert,fringe,
+OLA,Brobbey,fringe,
+GER,Neuer,likely,recupero polpaccio
+GER,Kimmich,starter,terzino dx
+GER,Schlotterbeck,starter,
+GER,Raum,starter,terzino sx
+GER,Rudiger,rotation,ballottaggio centrale con Tah
+GER,Thiaw,fringe,
+GER,Pavlovic A.,starter,
+GER,Sane,likely,
+GER,Musiala,starter,
+GER,Wirtz,starter,
+GER,Havertz,starter,
+GER,Beier,rotation,
+GER,Woltemade,rotation,
+GER,Undav,rotation,
+GER,Leweling,fringe,
+GER,Amiri N.,fringe,
+GER,Nmecha F.,fringe,
+GER,Stiller,fringe,
+COL,Montero,rotation,Vargas favorito tra i pali
+COL,Munoz D.,starter,terzino dx
+COL,Lucumi,starter,
+COL,Sanchez D.,starter,
+COL,Lerma,starter,
+COL,Rios R.,likely,ballottaggio con Puerta
+COL,Arias J.,starter,
+COL,Diaz,starter,
+COL,Suarez Luis,starter,
+COL,Cordoba J.,rotation,riserva di Suarez
+COL,Hernandez C.,fringe,
+COL,Carrascal,fringe,
+COL,Castano,fringe,
+COL,Puerta,rotation,
+COL,Campaz,fringe,
+COL,Ditta,fringe,
+COL,Mina,fringe,
+COL,Portilla,fringe,
+BEL,Courtois,starter,
+BEL,Theate,starter,
+BEL,Castagne,starter,terzino dx
+BEL,Tielemans,starter,capitano
+BEL,De Bruyne,starter,
+BEL,Trossard,likely,
+BEL,Doku,likely,
+BEL,Lukaku,starter,condizione gestita da avail
+BEL,Onana Am.,rotation,
+BEL,De Ketelaere,rotation,
+BEL,Debast,likely,
+BEL,Theate,starter,
+BEL,De Cuyper,rotation,
+BEL,Lukebakio,fringe,
+BEL,De Winter,fringe,
+BEL,Saelemaekers,fringe,
+BEL,Raskin,fringe,
+BEL,Vanaken,fringe,
+BEL,Moreira,fringe,
+CRO,Livakovic,starter,
+CRO,Gvardiol,starter,terzino sx
+CRO,Caleta-car,starter,
+CRO,Pongracic,starter,
+CRO,Stanisic,starter,terzino dx
+CRO,Modric,starter,
+CRO,Kovacic,starter,
+CRO,Kramaric,likely,
+CRO,Perisic,likely,
+CRO,Pasalic Mario,likely,
+CRO,Vlasic,rotation,
+CRO,Sutalo,rotation,
+CRO,Sucic L.,rotation,
+CRO,Sucic P.,fringe,
+CRO,Baturina,rotation,
+CRO,Erlic,fringe,
+CRO,Vuskovic,fringe,
+CRO,Matanovic,fringe,
+CRO,Pasalic Marco,fringe,

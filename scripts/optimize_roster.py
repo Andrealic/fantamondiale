@@ -207,6 +207,9 @@ def write_markdown(roster, spent, budget):
     lines.append("- **Obiettivo**: massimizzare i fantapunti totali attesi (ETP) dell'XI "
                  "schierato per giornata, non la somma dei 25; gli slot panchina vanno al "
                  "minor prezzo perche rimpiazzabili coi cambi.")
+    lines.append("- **Titolarità**: per le nazionali di interesse la probabilità di gioco viene dalle "
+                 "**probabili formazioni** (web, ~11/06/2026, `data/lineup_sentiment.csv`), non dalle sole "
+                 "presenze recenti — così si schierano i titolari veri e non gregari con tante amichevoli.")
     lines.append("- **ETP** = P(titolarita) × E[partite pesate per fase] × fantapunti netti/partita. "
                  "I turni a eliminazione sono scontati: i giocatori delle eliminate si sostituiscono "
                  "in corsa, quindi la rosa iniziale non sovra-paga la 'finale'.")

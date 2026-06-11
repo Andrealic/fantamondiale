@@ -23,6 +23,7 @@ DATA = PROJECT_ROOT / "data"
 LISTONE = PROJECT_ROOT / "fantapazz_listone_enriched.csv"
 STRENGTH = DATA / "wc2026_team_strength.csv"
 CONTEXT = DATA / "player_context.csv"
+LINEUP = DATA / "lineup_sentiment.csv"
 OUT_PROJ = DATA / "projections.csv"
 OUT_SIM = DATA / "wc2026_sim.csv"
 
@@ -230,6 +231,26 @@ def load_context():
     return ctx
 
 
+# Confidenza di titolarita per status da probabili formazioni (vedi lineup_sentiment.csv).
+STATUS_CONF = {"starter": 0.92, "likely": 0.78, "rotation": 0.5, "doubt": 0.42, "fringe": 0.3}
+
+
+def load_lineup():
+    """Carica lo status di titolarita dalle probabili formazioni (solo nazionali coperte)."""
+    flags = {}
+    if not LINEUP.exists():
+        return flags
+    with LINEUP.open(newline="", encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            code = (r.get("team_code") or "").strip()
+            if not code or code.startswith("#"):
+                continue
+            status = (r.get("status") or "").strip()
+            if status in STATUS_CONF:
+                flags[(code, r["name"].strip().lower())] = status
+    return flags
+
+
 def rank_based_starter(role, rank):
     if role == "gk":
         return [0.92, 0.12][rank] if rank < 2 else 0.03
@@ -259,6 +280,7 @@ def build_projections(sims):
     emin, emax = min(elos), max(elos)
 
     ctx = load_context()
+    lineup = load_lineup()
     rows = list(csv.DictReader(LISTONE.open(newline="", encoding="utf-8")))
 
     # rank per (team, role) sul valore per stimare la titolarita
@@ -282,24 +304,29 @@ def build_projections(sims):
         c = ctx.get((code, r["name"].strip().lower()), {"pen": 0.0, "fk": 0.0, "avail": 1.0})
 
         # --- titolarita ---
-        # La presenza nazionale recente e' un campione piccolo e distorto: gli
-        # europei giocano poche gare ufficiali (Nations League + amichevoli),
-        # i sudamericani 10+ di qualificazione, e infortuni/esperimenti la
-        # abbassano. La usiamo per CONFERMARE un titolare quando e' alta, mai
-        # per declassare un big sulla base di pochi match. Segnale primario:
-        # il rank di quotazione nel reparto (la quotazione prezza gia il ruolo).
-        ratio = fnum(r.get("national_presence_ratio_current_season"))
-        napp = fnum(r.get("national_appearances_current_season"))
-        rb = rank_based_starter(role, rank[id(r)])
-        if napp is not None and napp >= 5 and ratio is not None:
-            sp = 0.5 * rb + 0.5 * min(1.0, ratio + 0.15)   # campione sufficiente
-        elif ratio is not None and ratio >= 0.5:
-            sp = 0.65 * rb + 0.35 * min(1.0, ratio + 0.2)  # conferma su poche gare
+        # Segnale primario: lo status dalle probabili formazioni (lineup_sentiment.csv)
+        # per le nazionali di interesse. E' l'indicatore piu affidabile di chi gioca.
+        status = lineup.get((code, r["name"].strip().lower()))
+        if status:
+            sp = STATUS_CONF[status]
         else:
-            sp = rb                                        # campione non informativo
-        # rigoristi/battitori designati sono per definizione titolari
-        if c["pen"] >= 0.5 or c["fk"] >= 1:
-            sp = max(sp, 0.85)
+            # Fallback (nazionali non coperte): la presenza nazionale recente e' un
+            # campione piccolo e distorto (gli europei giocano poche gare ufficiali,
+            # i sudamericani 10+ di qualificazione; infortuni/esperimenti la abbassano),
+            # quindi la usiamo solo per CONFERMARE un titolare quando e' alta, mai per
+            # declassare un big. Segnale base: il rank di quotazione nel reparto.
+            ratio = fnum(r.get("national_presence_ratio_current_season"))
+            napp = fnum(r.get("national_appearances_current_season"))
+            rb = rank_based_starter(role, rank[id(r)])
+            if napp is not None and napp >= 5 and ratio is not None:
+                sp = 0.5 * rb + 0.5 * min(1.0, ratio + 0.15)
+            elif ratio is not None and ratio >= 0.5:
+                sp = 0.65 * rb + 0.35 * min(1.0, ratio + 0.2)
+            else:
+                sp = rb
+            # rigoristi/battitori designati sono per definizione titolari
+            if c["pen"] >= 0.5 or c["fk"] >= 1:
+                sp = max(sp, 0.85)
         sp = max(0.0, min(0.97, sp)) * c["avail"]
 
         # --- fantapunti netti attesi a partita ---

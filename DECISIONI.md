@@ -22,8 +22,9 @@ stata costruita la rosa, **su quali ipotesi** si regge e **come la migliorerei**
 
 ```
 fantapazz_listone_enriched.csv ─┐
-data/wc2026_team_strength.csv ──┼─► build_projections.py ─► data/projections.csv  ─► optimize_roster.py ─► roster_optimal.csv
-data/player_context.csv ────────┘    (Monte Carlo + ETP)     data/wc2026_sim.csv      (ILP best-XI)        ROSTER.md
+data/wc2026_team_strength.csv ──┤
+data/player_context.csv ────────┼─► build_projections.py ─► data/projections.csv  ─► optimize_roster.py ─► roster_optimal.csv
+data/lineup_sentiment.csv ──────┘    (Monte Carlo + ETP)     data/wc2026_sim.csv      (ILP best-XI)        ROSTER.md
 ```
 
 Esecuzione:
@@ -62,15 +63,24 @@ Bonus/malus dalle immagini ufficiali (gol +3, rigore +3, assist +1, gol-vittoria
   **si inferiscono dalla forza della nazionale** (più è forte, meno subisce).
 - **Voto base** ≈ `6.0 + 0.6·forza_normalizzata` (6.0 + 0.4 per i portieri).
 
-### 3.4 Probabilità di titolarità (correzione importante)
-La `national_presence_ratio` del listone è `presenze_nazionali / 10`: **campione piccolo e
-distorto**. Gli europei giocano poche gare ufficiali (Nations League + amichevoli), i sudamericani
-10+ di qualificazione → senza correzione il modello premiava i sudamericani e affossava i big
-europei (Mbappé/Kane/Yamal a ~0.4). Inoltre infortuni ed esperimenti in amichevole abbassano il
-ratio di titolari sicuri. **Decisione**: il segnale primario è il **rank di quotazione nel reparto**
-(la quotazione prezza già il ruolo atteso); il ratio serve solo a *confermare* un titolare quando è
-alto, mai a declassare un big. Override: rigoristi/battitori designati → titolari (`≥0.85`);
-`avail` da `player_context.csv` applica gli infortuni noti.
+### 3.4 Probabilità di titolarità (la leva più importante)
+Il segnale primario è lo **status dalle probabili formazioni** raccolte sul web (~11/06/2026) per le
+**nazionali di interesse**, in `data/lineup_sentiment.csv`: `starter` → 0.92, `likely` → 0.78,
+`rotation` → 0.50, `doubt` → 0.42, `fringe` → 0.30. È l'indicatore più affidabile di chi gioca
+davvero e ha corretto errori grossi (es. in Spagna Grimaldo/Porro/Zubimendi/Ferran Torres **non**
+sono titolari previsti; in Francia Barcola è fuori dall'XI — il modello li schierava).
+
+**Perché non bastano le presenze**: la `national_presence_ratio` del listone è `presenze/10`,
+campione piccolo e **distorto per confederazione** (gli europei giocano poche gare ufficiali, i
+sudamericani 10+ di qualificazione) → premiava i sudamericani e affossava i big europei
+(Mbappé/Kane/Yamal a ~0.4). Per le nazionali **non coperte** dalle formazioni si usa quindi un
+fallback: rank di quotazione nel reparto come base, col ratio solo a *confermare* (mai a declassare),
+e override per i rigoristi designati. `avail` da `player_context.csv` applica gli infortuni noti
+(es. Yamal rientro stimato dalla 3ª di girone, Lukaku condizione).
+
+Nazionali coperte dalle formazioni: SPA, FRA, ARG, ING, BRA, POR, OLA, GER, COL, BEL, CRO (quelle che
+possono fornire titolari all'XI). Le altre contribuiscono solo riserve a basso costo, dove la
+precisione conta poco.
 
 ### 3.5 Modificatore difesa
 È un effetto **di blocco** (media migliori 3 D + P della giornata: ≥6 → +1, ≥6,5 → +3, ≥7 → +6),
@@ -110,19 +120,19 @@ Variando le ipotesi chiave e ri-ottimizzando (8.000 sim/scenario):
 
 | Scenario | Rosa ∩ base /25 | XI ∩ base /11 |
 |---|---|---|
-| Elo più determinante (scale=100) | 20 | 9 |
-| Elo meno determinante (scale=160) | 25 | 11 |
-| Pesi ripidi (conta solo il girone) | 20 | 8 |
-| Pesi piatti (premia le fasi avanzate) | 21 | 10 |
-| Rumore Elo ±40 | 19 | 9 |
-| Rumore Elo ±80 | 12 | 5 |
+| Elo più determinante (scale=100) | 22 | 11 |
+| Elo meno determinante (scale=160) | 23 | 11 |
+| Pesi ripidi (conta solo il girone) | 19 | 10 |
+| Pesi piatti (premia le fasi avanzate) | 22 | 11 |
+| Rumore Elo ±40 | 23 | 11 |
+| Rumore Elo ±80 | 14 | 6 |
 
-**Lettura**: l'**XI core è robusto** (8–11/11 sotto perturbazioni ragionevoli); il turnover è quasi
-tutto sulla **panchina**, che è fodder a basso costo e per definizione volatile/rimpiazzabile coi cambi.
-Solo con rumore estremo ±80 (che riscrive i favoriti del torneo) il core si muove davvero. Lo scenario
-"pesi ripidi" è quello che sposta di più l'XI (entrano profili offensivi di nazionali meno profonde tipo
-Raphinha/Mané): **conferma che lo sconto delle fasi (§3.2) è l'ipotesi più influente** e va calibrato
-sull'aggressività con cui si conta di usare i 10 cambi.
+**Lettura**: con i flag delle probabili formazioni l'**XI core è molto robusto** (10–11/11 sotto tutte
+le perturbazioni ragionevoli: i titolari sono "ancorati" dalle formazioni, non dalla simulazione). Il
+turnover è quasi tutto sulla **panchina**, fodder a basso costo e per definizione volatile/rimpiazzabile
+coi cambi. Solo con rumore estremo ±80 (che riscrive i favoriti del torneo) il core si muove davvero. Lo
+scenario "pesi ripidi" resta quello che sposta di più (entra Raphinha): **lo sconto delle fasi (§3.2) è
+l'ipotesi residua più influente** e va calibrato sull'aggressività con cui si conta di usare i 10 cambi.
 
 ## 6. Limiti noti
 
@@ -139,9 +149,10 @@ sull'aggressività con cui si conta di usare i 10 cambi.
 
 ## 7. Come lo migliorerei (in ordine di impatto)
 
-1. **Probabilità di titolarità reali**: scraping formazioni probabili / minutaggio recente in
-   nazionale (Transfermarkt "Nationalmannschaft" o fonti tipo lineup predittive) invece del proxy
-   da quotazione. È la leva con più impatto sulla qualità della rosa.
+1. **✅ FATTO — Probabilità di titolarità da probabili formazioni** (`data/lineup_sentiment.csv`,
+   §3.4). Prossimo passo: aggiornarle alla vigilia di ogni giornata (le formazioni cambiano per
+   infortuni/scelte tecniche) ed estenderle alle nazionali oggi non coperte se servono i loro
+   giocatori dopo i primi cambi.
 2. **Modificatore difesa stocastico**: simulare i voti di D+P giornata per giornata (voto ~ N(media
    da forza/avversario, σ)) e calcolare l'**E[modificatore]** reale come media-migliori-3+P sopra le
    soglie, invece del proxy lineare. Spinge verso il blocco difensivo davvero ottimale.
